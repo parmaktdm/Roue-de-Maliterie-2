@@ -1,0 +1,36 @@
+name: Aggregate form submissions
+
+on:
+  push:
+    paths:
+      - 'data/**/*.json'
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 * * * *'  # toutes les heures (optionnel)
+
+permissions:
+  contents: write  # <- permet de commiter exports/*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run aggregator
+        run: |
+          python scripts/aggregate.py
+
+      - name: Commit aggregated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update aggregated submissions"
+          file_pattern: exports/*
