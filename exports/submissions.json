@@ -223,5 +223,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:20:00.724Z",
     "source": "data/cholet/2025-10-17T13-20-00-724Z_94f1e5c2-27d6-4d16-8768-491024a57a8b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "frejus",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:20:18.881Z",
+    "source": "data/frejus/2025-10-17T13-20-18-881Z_f23ea6af-ce26-4ae6-971e-84ae4c9fd620.json"
   }
 ]
