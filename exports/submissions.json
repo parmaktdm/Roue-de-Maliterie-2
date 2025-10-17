@@ -97,5 +97,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:52:58.483Z",
     "source": "data/epagny/2025-10-17T09-52-58-483Z_073a2dc7-1c20-4005-ab14-c911c5e93bc1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chambery",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-17T09:55:21.432Z",
+    "source": "data/chambery/2025-10-17T09-55-21-432Z_e292688c-1f37-4238-b842-510d292f8be7.json"
   }
 ]
