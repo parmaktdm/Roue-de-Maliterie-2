@@ -1,36 +1,46 @@
 [
   {
+    "type": "form",
     "magasin": "beynost",
     "prenom": "ass",
     "nom": "ass",
+    "prize": "",
     "timestamp": "2025-10-16T16:23:02.675Z",
     "source": "data/beynost/2025-10-16T16-23-02-675Z_5f66d1d8-80f8-42a9-9343-76aac8eae986.json"
   },
   {
+    "type": "form",
     "magasin": "montelimar",
     "prenom": "qzd",
     "nom": "azd",
+    "prize": "",
     "timestamp": "2025-10-16T16:23:32.951Z",
     "source": "data/montelimar/2025-10-16T16-23-32-951Z_2f187411-6289-40a6-99c8-5bd1c1bf176f.json"
   },
   {
+    "type": "form",
     "magasin": "Valence",
     "prenom": "Allan",
     "nom": "Parmaksizian",
+    "prize": "",
     "timestamp": "2025-10-16T16:58:38.069Z",
     "source": "data/valence/2025-10-16T16-58-38-069Z_57f450b4-32b6-41e1-a688-242188348934.json"
   },
   {
+    "type": "form",
     "magasin": "Valence",
     "prenom": "Chris",
     "nom": "Kazazian",
+    "prize": "",
     "timestamp": "2025-10-16T21:22:03.356Z",
     "source": "data/valence/2025-10-16T21-22-03-356Z_2ed53a94-d476-4280-8b05-7bf9c4dd1992.json"
   },
   {
+    "type": "form",
     "magasin": "Valence",
     "prenom": "Alison",
     "nom": "Bertuzi",
+    "prize": "",
     "timestamp": "2025-10-17T08:09:04.559Z",
     "source": "data/valence/2025-10-17T08-09-04-559Z_576ff2c4-3d80-4d2d-9d74-b0376a653628.json"
   }
