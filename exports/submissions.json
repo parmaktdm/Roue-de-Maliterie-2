@@ -43,5 +43,14 @@
     "prize": "",
     "timestamp": "2025-10-17T08:09:04.559Z",
     "source": "data/valence/2025-10-17T08-09-04-559Z_576ff2c4-3d80-4d2d-9d74-b0376a653628.json"
+  },
+  {
+    "type": "form",
+    "magasin": "VALENCE",
+    "prenom": "ADAZ",
+    "nom": "AZDAZD",
+    "prize": "",
+    "timestamp": "2025-10-17T08:57:29.144Z",
+    "source": "data/valence/2025-10-17T08-57-29-144Z_d4f6ce75-124c-4363-96a7-d85feffaceb3.json"
   }
 ]
