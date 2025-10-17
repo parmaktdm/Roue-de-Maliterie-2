@@ -142,5 +142,14 @@
     "prize": "",
     "timestamp": "2025-10-17T10:04:19.008Z",
     "source": "data/sallanche/2025-10-17T10-04-19-008Z_74e4a6de-86cb-4dac-a711-f50668d963b7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Brignais",
+    "prenom": "yoann",
+    "nom": "Morel",
+    "prize": "",
+    "timestamp": "2025-10-17T12:53:39.018Z",
+    "source": "data/brignais/2025-10-17T12-53-39-018Z_0f660e41-f6d6-409c-976f-16ab5c8ec92c.json"
   }
 ]
