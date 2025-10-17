@@ -259,5 +259,23 @@
     "prize": "",
     "timestamp": "2025-10-17T13:21:20.307Z",
     "source": "data/la-valentine/2025-10-17T13-21-20-307Z_13d41c29-56e2-41bd-bac6-1aa7bf8ff1f8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "marseille",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:21:37.607Z",
+    "source": "data/marseille/2025-10-17T13-21-37-607Z_2900c04a-4c43-42da-8290-420b61591465.json"
+  },
+  {
+    "type": "form",
+    "magasin": "audincourt",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:21:51.066Z",
+    "source": "data/audincourt/2025-10-17T13-21-51-066Z_4a486e08-4c71-4786-b752-6a68f5a53257.json"
   }
 ]
