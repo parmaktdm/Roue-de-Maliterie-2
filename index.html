@@ -39,10 +39,8 @@
   .game p{margin:0 0 12px; color:rgba(255,255,255,.9); font-weight:500}
   .stage{position:relative; width:calc(var(--size) * 1px); height:calc(var(--size) * 1px + 70px); margin:8px auto 0;}
   .cursor{
-    position:absolute; top:-2px; left:50%; transform:translateX(-50%);
-    width:0; height:0; z-index:3;
-    border-left:14px solid transparent; border-right:14px solid transparent;
-    border-top:24px solid var(--red);
+    position:absolute; top:-2px; left:50%; transform:translateX(-50%); width:0; height:0; z-index:3;
+    border-left:14px solid transparent; border-right:14px solid transparent; border-top:24px solid var(--red);
     filter:drop-shadow(0 6px 10px rgba(0,0,0,.55));
   }
   #fx{position:absolute; inset:0; pointer-events:none; z-index:4}
@@ -54,7 +52,7 @@
     box-shadow:0 14px 30px rgba(46,91,183,.45), 0 4px 10px rgba(0,0,0,.35);
     transition:transform .16s ease, box-shadow .2s ease, opacity .3s ease;
   }
-  button:hover{ transform:translateY(-1px); box-shadow:0 18px 36px rgba(46,91,183,.5), 0 6px 14px rgba(0,0,0,.4);} 
+  button:hover{ transform:translateY(-1px); box-shadow:0 18px 36px rgba(46,91,183,.5), 0 6px 14px rgba(0,0,0,.4);}
   button:active{ transform:translateY(0); }
   button.hidden{opacity:0; pointer-events:none;}
   .result{min-height:3.2em; margin-top:16px; font-weight:900; font-size:1.1rem; letter-spacing:.01em}
@@ -131,7 +129,6 @@
 
     <div class="btns">
       <button id="spinBtn">CLIQUER ICI</button>
-      
     </div>
 
     <div id="result" class="result" aria-live="polite" aria-atomic="true"></div>
@@ -140,6 +137,36 @@
     <!-- (Optionnel) MP3 gros gain – non utilisé -->
     <audio id="bigWinAudio" src="./bigwin.mp3" preload="auto" crossorigin="anonymous"></audio>
   </main>
+
+<!-- =====================  CONFIG + ENVOI RÉSULTAT  ===================== -->
+<script>
+// ⚠️ REMPLACE ICI PAR TON ENDPOINT
+const WORKER_URL = "https://ton-worker.example.com/collect";
+
+// ---- helper: envoi du résultat de la roue ----
+async function sendSpinResult(prize, index) {
+  try {
+    const user = (window.GateForm && window.GateForm.getUserInfo && window.GateForm.getUserInfo()) || null;
+    const payload = {
+      type: "spin",                 // pour distinguer de la soumission de formulaire
+      prize,                        // ex: "-30%", "Linge de lit", ...
+      prizeIndex: index,            // index sur la roue (0..7)
+      wheelTimestamp: new Date().toISOString(),
+      // on rattache les infos de la personne si on les a :
+      ...(user ? { prenom: user.prenom, nom: user.nom, magasin: user.magasin, formTimestamp: user.timestamp } : {})
+    };
+
+    await fetch(WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+      keepalive: true // utile si l’onglet se ferme juste après
+    });
+  } catch (err) {
+    console.warn("⚠️ Envoi du résultat de la roue échoué", err);
+  }
+}
+</script>
 
 <script>
 /* ================== Données visuelles (8 cases) ================== */
@@ -231,10 +258,10 @@ function fanfare(){
   shG.gain.exponentialRampToValueAtTime(0.0001,tS+0.5);
   sh.start(tS); sh.stop(tS+0.55);
 }
-function sadMelody(){}
+function sadMelody(){ /* non utilisé ici */ }
 function isZeroPercentPrize(val){ return /^\s*[-+]?0%\s*$/.test(String(val).trim()); }
 
-/* ====== Bus master ====== */
+/* ====== Bus master (compresseur) & tons ====== */
 let masterBus = null;
 function getMasterBus(){
   if(!audioCtx) return null;
@@ -367,6 +394,7 @@ function burstAt(x,y,colors){
 /* ================== Tirage pondéré SÛR (jamais -5%) ================== */
 const NORM = s => String(s).trim().toLowerCase();
 function weightedPickSafe() {
+  // tirage en fonction de WEIGHTS (normalisés) ; interdit -5%
   for (let guard=0; guard<50; guard++) {
     const r = Math.random();
     let acc = 0;
@@ -378,6 +406,7 @@ function weightedPickSafe() {
       }
     }
   }
+  // fallback théorique si tout échoue
   return "-30%";
 }
 function pickIndexForPrizeSafe(prize) {
@@ -385,6 +414,7 @@ function pickIndexForPrizeSafe(prize) {
     .map((g,i)=> NORM(g)===NORM(prize) ? i : -1)
     .filter(i=>i!==-1);
   if (indices.length) return indices[Math.floor(Math.random()*indices.length)];
+  // si aucune case correspond, choisir n'importe quelle case ≠ -5%
   const safeIndices = gains
     .map((g,i)=> NORM(g)!==NORM("-5%") ? i : -1)
     .filter(i=>i!==-1);
@@ -430,10 +460,14 @@ function spin(){
 
   const segAngleDeg=360/SEG;
 
+  // 1) Tirage pondéré sûr
   let prize = weightedPickSafe();
+  // 2) Trouver une case correspondant au gain tiré (toujours ≠ -5%)
   const index = pickIndexForPrizeSafe(prize);
+  // 3) Synchroniser l'intitulé avec la case réellement visée
   prize = gains[index];
 
+  // Calcul de la rotation
   const centerDeg = -90 + index*segAngleDeg + segAngleDeg/2;
   const base = pointerAngle - centerDeg;
   const extra = 5 + Math.floor(Math.random()*2);
@@ -450,8 +484,13 @@ function spin(){
 
   setTimeout(()=>{
     burstAt(bx, by, ['#2e5bb7','#ffffff','#e03636']);
-    fanfare();
+    fanfare(); // son basique
     resultEl.innerHTML = `<span class="pop">🎉 Vous avez gagné : ${formatGain(prize)}</span>`;
+
+    // >>> ENVOI AU WORKER : prize + index + infos GateForm (si présentes)
+    // pas de await pour ne pas bloquer l'UI ; erreurs silencieuses côté console
+    sendSpinResult(prize, index);
+
     spinning = false;
   }, 4040);
 }
@@ -461,8 +500,9 @@ spinBtn.addEventListener('click', spin);
 selfTestBtn && selfTestBtn.addEventListener('click', ()=> selfTest(100000));
 </script>
 
-<!-- =====================  AJOUT : Fenêtre pop‑up d'accès  ===================== -->
+<!-- =====================  AJOUT : Fenêtre pop-up d'accès  ===================== -->
 <style>
+  /* Styles isolés pour la fenêtre d'identification */
   :root { --gate-ring:#2563eb; --gate-text:#e5e7eb; --gate-card:#111827; }
   body.gate-locked { overflow: hidden; }
   .gate-overlay { position: fixed; inset: 0; display: grid; place-items: center; background: rgba(0,0,0,.65); backdrop-filter: blur(4px); z-index: 99999; padding: 24px; }
@@ -511,9 +551,9 @@ selfTestBtn && selfTestBtn.addEventListener('click', ()=> selfTest(100000));
 </div>
 
 <script>
-// Évite double init si le script est inclus deux fois
+// Évite toute double initialisation si le script est inclus deux fois
 (function(){
-  if (window.__gate_initialized__) return;
+  if (window.__gate_initialized__) return; // garde-fou contre le double démarrage
   window.__gate_initialized__ = true;
 
   const overlay = document.getElementById('gateOverlay');
@@ -521,9 +561,7 @@ selfTestBtn && selfTestBtn.addEventListener('click', ()=> selfTest(100000));
   const errorEl = document.getElementById('gateError');
   const resetBtn = document.getElementById('gateReset');
 
-  // ⬇️ REMPLACE par l'URL de ton Worker Cloudflare
-  const WORKER_URL = 'https://maliterie-capture.parmaktdm.workers.dev';
-
+  // API minimale pour la page (pas de persistance inter-sessions)
   window.GateForm = {
     getUserInfo(){ return window.__gate_user__ || null; },
     clear(){ window.__gate_user__ = null; lock(); }
@@ -532,43 +570,18 @@ selfTestBtn && selfTestBtn.addEventListener('click', ()=> selfTest(100000));
   function lock(){ overlay.hidden = false; document.body.classList.add('gate-locked'); setTimeout(()=>document.getElementById('gatePrenom')?.focus(),0); }
   function unlock(data){ overlay.hidden = true; document.body.classList.remove('gate-locked'); document.dispatchEvent(new CustomEvent('GateFormSubmitted', { detail: data })); }
 
-  lock(); // afficher à chaque rafraîchissement
+  // Afficher UNE seule fois par chargement, et à CHAQUE rafraîchissement de la page.
+  // Pas de localStorage/sessionStorage pour ne rien mémoriser entre reloads.
+  lock();
 
-  form.addEventListener('submit', async (e)=>{
+  form.addEventListener('submit', (e)=>{
     e.preventDefault();
     errorEl.textContent='';
     const prenom = (form.prenom.value||'').trim();
     const nom = (form.nom.value||'').trim();
     const magasin = (form.magasin.value||'').trim();
     if(!prenom || !nom || !magasin){ errorEl.textContent='Merci de compléter tous les champs obligatoires.'; return; }
-
-    const data = {
-      prenom, nom, magasin,
-      timestamp: new Date().toISOString(),
-      meta: {
-        page: location.href,
-        referrer: document.referrer || '',
-        userAgent: navigator.userAgent,
-        tz: Intl.DateTimeFormat().resolvedOptions().timeZone,
-        lang: navigator.language
-      }
-    };
-
-    // --------- Envoi au Worker Cloudflare (commit GitHub) ---------
-    try {
-      const resp = await fetch(WORKER_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data)
-      });
-      // On essaie de lire la réponse (si CORS OK)
-      try { const json = await resp.clone().json(); console.log('Worker response:', json); } catch {}
-    } catch (err) {
-      console.error('Envoi vers Worker échoué', err);
-      // On ne bloque pas l'accès au jeu si l'envoi échoue
-    }
-    // --------------------------------------------------------------
-
+    const data = { prenom, nom, magasin, timestamp: new Date().toISOString() };
     window.__gate_user__ = data; // disponible pour ce chargement uniquement
     unlock(data);
   });
@@ -576,7 +589,7 @@ selfTestBtn && selfTestBtn.addEventListener('click', ()=> selfTest(100000));
   resetBtn.addEventListener('click', ()=>{ form.reset(); errorEl.textContent=''; });
 })();
 </script>
-<!-- =====================  FIN AJOUT FENÊTRE POP‑UP  ===================== -->
+<!-- =====================  FIN AJOUT FENÊTRE POP-UP  ===================== -->
 
 </body>
 </html>
