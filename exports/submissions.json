@@ -160,5 +160,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:16:32.628Z",
     "source": "data/cogolin/2025-10-17T13-16-32-628Z_2d2206ed-6d09-4c28-a8d3-d18d6d1ab624.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Macon",
+    "prenom": "all",
+    "nom": "parmak",
+    "prize": "",
+    "timestamp": "2025-10-17T13:17:51.294Z",
+    "source": "data/macon/2025-10-17T13-17-51-294Z_c277374e-cfaf-4991-8e19-bc3cc2fcfc63.json"
   }
 ]
