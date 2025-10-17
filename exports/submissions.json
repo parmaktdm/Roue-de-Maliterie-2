@@ -26,5 +26,12 @@
     "nom": "Kazazian",
     "timestamp": "2025-10-16T21:22:03.356Z",
     "source": "data/valence/2025-10-16T21-22-03-356Z_2ed53a94-d476-4280-8b05-7bf9c4dd1992.json"
+  },
+  {
+    "magasin": "Valence",
+    "prenom": "Alison",
+    "nom": "Bertuzi",
+    "timestamp": "2025-10-17T08:09:04.559Z",
+    "source": "data/valence/2025-10-17T08-09-04-559Z_576ff2c4-3d80-4d2d-9d74-b0376a653628.json"
   }
 ]
