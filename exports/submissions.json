@@ -232,5 +232,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:20:18.881Z",
     "source": "data/frejus/2025-10-17T13-20-18-881Z_f23ea6af-ce26-4ae6-971e-84ae4c9fd620.json"
+  },
+  {
+    "type": "form",
+    "magasin": "givors",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:20:33.113Z",
+    "source": "data/givors/2025-10-17T13-20-33-113Z_03e9516d-d93e-4cc2-8d2d-21ac5ab800d3.json"
   }
 ]
