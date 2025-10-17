@@ -151,5 +151,14 @@
     "prize": "",
     "timestamp": "2025-10-17T12:53:39.018Z",
     "source": "data/brignais/2025-10-17T12-53-39-018Z_0f660e41-f6d6-409c-976f-16ab5c8ec92c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "cogolin",
+    "prenom": "ramy",
+    "nom": "afdil",
+    "prize": "",
+    "timestamp": "2025-10-17T13:16:32.628Z",
+    "source": "data/cogolin/2025-10-17T13-16-32-628Z_2d2206ed-6d09-4c28-a8d3-d18d6d1ab624.json"
   }
 ]
