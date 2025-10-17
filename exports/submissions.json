@@ -52,5 +52,14 @@
     "prize": "",
     "timestamp": "2025-10-17T08:57:29.144Z",
     "source": "data/valence/2025-10-17T08-57-29-144Z_d4f6ce75-124c-4363-96a7-d85feffaceb3.json"
+  },
+  {
+    "type": "form",
+    "magasin": "VALENCE",
+    "prenom": "ALMAND",
+    "nom": "AAMAND",
+    "prize": "",
+    "timestamp": "2025-10-17T09:47:22.783Z",
+    "source": "data/valence/2025-10-17T09-47-22-783Z_442f88c4-30dd-4645-b74f-077cbca14e92.json"
   }
 ]
