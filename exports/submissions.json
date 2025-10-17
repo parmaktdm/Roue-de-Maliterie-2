@@ -187,5 +187,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:18:29.963Z",
     "source": "data/antibes/2025-10-17T13-18-29-963Z_ad12860c-c360-4d55-a2dc-0416fbc93ef0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "andelnans",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:19:06.473Z",
+    "source": "data/andelnans/2025-10-17T13-19-06-473Z_ce99a90f-360d-4cc4-a296-7f1c6a639835.json"
   }
 ]
