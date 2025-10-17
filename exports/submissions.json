@@ -106,5 +106,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:55:21.432Z",
     "source": "data/chambery/2025-10-17T09-55-21-432Z_e292688c-1f37-4238-b842-510d292f8be7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "le coteau",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-17T09:55:43.236Z",
+    "source": "data/le-coteau/2025-10-17T09-55-43-236Z_ede22929-a36e-400d-b956-6e08305fea0b.json"
   }
 ]
