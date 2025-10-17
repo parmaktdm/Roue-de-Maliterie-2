@@ -286,5 +286,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:22:10.552Z",
     "source": "data/morschwiller-le-bas/2025-10-17T13-22-10-552Z_8fc7ded7-bc86-4ebb-91d5-6b0971a75b01.json"
+  },
+  {
+    "type": "form",
+    "magasin": "wittenheim",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:22:28.181Z",
+    "source": "data/wittenheim/2025-10-17T13-22-28-181Z_769269e4-fe17-4164-b99a-f6361dbca027.json"
   }
 ]
