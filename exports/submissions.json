@@ -250,5 +250,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:20:58.063Z",
     "source": "data/saint-martin-d-heres/2025-10-17T13-20-58-063Z_3e16a386-63a9-4aea-9fd8-93a8fe701843.json"
+  },
+  {
+    "type": "form",
+    "magasin": "la valentine",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:21:20.307Z",
+    "source": "data/la-valentine/2025-10-17T13-21-20-307Z_13d41c29-56e2-41bd-bac6-1aa7bf8ff1f8.json"
   }
 ]
