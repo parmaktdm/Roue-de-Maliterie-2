@@ -88,5 +88,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:52:36.980Z",
     "source": "data/saint-paul-les-romans/2025-10-17T09-52-36-980Z_b93614f6-ab87-4d74-8c51-ddba877b16c0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-17T09:52:58.483Z",
+    "source": "data/epagny/2025-10-17T09-52-58-483Z_073a2dc7-1c20-4005-ab14-c911c5e93bc1.json"
   }
 ]
