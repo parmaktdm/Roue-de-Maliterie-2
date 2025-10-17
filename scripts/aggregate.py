@@ -41,3 +41,39 @@ with json_path.open("w", encoding="utf-8") as f:
     json.dump(rows, f, ensure_ascii=False, indent=2)
 
 print(f"[OK] Écrit: {csv_path} ({len(rows)} lignes) et {json_path}")
+# ... (haut du fichier identique)
+rows = []
+for p in DATA_DIR.rglob("*.json"):
+    try:
+        with p.open(encoding="utf-8") as f:
+            j = json.load(f)
+        typ     = (j.get("type") or "").strip()
+        prenom  = (j.get("prenom") or "").strip()
+        nom     = (j.get("nom") or "").strip()
+        magasin = (j.get("magasin") or "").strip()
+        ts      = (j.get("wheelTimestamp") or j.get("timestamp") or "").strip()
+        prize   = (j.get("prize") or "").strip()
+
+        rows.append({
+            "type": typ or ("form" if not prize else "spin"),
+            "magasin": magasin,
+            "prenom": prenom,
+            "nom": nom,
+            "prize": prize,
+            "timestamp": ts,
+            "source": str(p).replace("\\", "/"),
+        })
+    except Exception as e:
+        print(f"[WARN] Skip {p}: {e}", file=sys.stderr)
+
+rows.sort(key=lambda r: (r["timestamp"], r["source"]))
+
+csv_path = OUT_DIR / "submissions.csv"
+with csv_path.open("w", newline="", encoding="utf-8") as f:
+    w = csv.DictWriter(f, fieldnames=["type","magasin","prenom","nom","prize","timestamp","source"])
+    w.writeheader()
+    w.writerows(rows)
+
+json_path = OUT_DIR / "submissions.json"
+with json_path.open("w", encoding="utf-8") as f:
+    json.dump(rows, f, ensure_ascii=False, indent=2)
