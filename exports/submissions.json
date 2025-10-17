@@ -214,5 +214,14 @@
     "prize": "",
     "timestamp": "2025-10-17T13:19:37.460Z",
     "source": "data/mandelieu/2025-10-17T13-19-37-460Z_5022afef-7d92-4c7a-9884-21e25ad9b45b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "cholet",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:20:00.724Z",
+    "source": "data/cholet/2025-10-17T13-20-00-724Z_94f1e5c2-27d6-4d16-8768-491024a57a8b.json"
   }
 ]
