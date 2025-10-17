@@ -133,5 +133,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:56:49.871Z",
     "source": "data/st-etienne/2025-10-17T09-56-49-871Z_fda958c0-69c8-4802-ba7a-b93965d84d65.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanche",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-17T10:04:19.008Z",
+    "source": "data/sallanche/2025-10-17T10-04-19-008Z_74e4a6de-86cb-4dac-a711-f50668d963b7.json"
   }
 ]
