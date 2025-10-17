@@ -124,5 +124,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:56:17.476Z",
     "source": "data/st-egreve/2025-10-17T09-56-17-476Z_6270b962-c009-4803-93ed-40c4694c66d2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "st etienne",
+    "prenom": "allan",
+    "nom": "parmak",
+    "prize": "",
+    "timestamp": "2025-10-17T09:56:49.871Z",
+    "source": "data/st-etienne/2025-10-17T09-56-49-871Z_fda958c0-69c8-4802-ba7a-b93965d84d65.json"
   }
 ]
