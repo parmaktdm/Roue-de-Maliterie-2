@@ -196,5 +196,23 @@
     "prize": "",
     "timestamp": "2025-10-17T13:19:06.473Z",
     "source": "data/andelnans/2025-10-17T13-19-06-473Z_ce99a90f-360d-4cc4-a296-7f1c6a639835.json"
+  },
+  {
+    "type": "form",
+    "magasin": "chateaufarine",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:19:24.840Z",
+    "source": "data/chateaufarine/2025-10-17T13-19-24-840Z_7d887445-026c-41f4-805f-c3662e3c9dee.json"
+  },
+  {
+    "type": "form",
+    "magasin": "mandelieu",
+    "prenom": "aze",
+    "nom": "aze",
+    "prize": "",
+    "timestamp": "2025-10-17T13:19:37.460Z",
+    "source": "data/mandelieu/2025-10-17T13-19-37-460Z_5022afef-7d92-4c7a-9884-21e25ad9b45b.json"
   }
 ]
