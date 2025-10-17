@@ -61,5 +61,14 @@
     "prize": "",
     "timestamp": "2025-10-17T09:47:22.783Z",
     "source": "data/valence/2025-10-17T09-47-22-783Z_442f88c4-30dd-4645-b74f-077cbca14e92.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SAINT PRIEST",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-17T09:50:09.775Z",
+    "source": "data/saint-priest/2025-10-17T09-50-09-775Z_c2c22146-4cb4-4504-90c3-4d93b0499ca9.json"
   }
 ]
