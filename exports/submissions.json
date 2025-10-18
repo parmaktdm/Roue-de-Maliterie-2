@@ -340,5 +340,14 @@
     "prize": "",
     "timestamp": "2025-10-18T13:47:58.676Z",
     "source": "data/valence/2025-10-18T13-47-58-676Z_17aaaa44-3ae9-45a5-b37e-2421e215c581.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "d",
+    "nom": "Dgbnh",
+    "prize": "",
+    "timestamp": "2025-10-18T14:00:17.613Z",
+    "source": "data/valence/2025-10-18T14-00-17-613Z_60252b05-5c55-489e-9726-d68ef89f5c2f.json"
   }
 ]
