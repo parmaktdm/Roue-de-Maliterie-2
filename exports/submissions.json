@@ -325,15 +325,6 @@
   },
   {
     "type": "form",
-    "magasin": "olololo",
-    "prenom": "olololo",
-    "nom": "lololol",
-    "prize": "",
-    "timestamp": "2025-10-18T08:54:09.335Z",
-    "source": "data/olololo/2025-10-18T08-54-09-335Z_70e00bcf-3080-4c20-becb-c4033dc90027.json"
-  },
-  {
-    "type": "form",
     "magasin": "lololo",
     "prenom": "lololo",
     "nom": "lololo",
