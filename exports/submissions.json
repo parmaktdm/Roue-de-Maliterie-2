@@ -331,5 +331,14 @@
     "prize": "",
     "timestamp": "2025-10-18T08:54:19.983Z",
     "source": "data/lololo/2025-10-18T08-54-19-983Z_8c04ff8c-f634-443f-81be-5fe50658f562.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Alan",
+    "nom": "Parmak",
+    "prize": "",
+    "timestamp": "2025-10-18T13:47:58.676Z",
+    "source": "data/valence/2025-10-18T13-47-58-676Z_17aaaa44-3ae9-45a5-b37e-2421e215c581.json"
   }
 ]
