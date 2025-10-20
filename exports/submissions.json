@@ -358,5 +358,14 @@
     "prize": "",
     "timestamp": "2025-10-18T20:17:01.777Z",
     "source": "data/beynost/2025-10-18T20-17-01-777Z_14784a82-33f3-4066-93c5-a02d74bb0891.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Remi",
+    "nom": "Cudia",
+    "prize": "",
+    "timestamp": "2025-10-20T20:55:48.634Z",
+    "source": "data/valence/2025-10-20T20-55-48-634Z_bd7d9257-3748-4db0-b760-ceff71b96e3a.json"
   }
 ]
