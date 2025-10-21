@@ -307,33 +307,6 @@
   },
   {
     "type": "form",
-    "magasin": "AZER",
-    "prenom": "ZAAR",
-    "nom": "azre",
-    "prize": "",
-    "timestamp": "2025-10-18T08:35:08.501Z",
-    "source": "data/azer/2025-10-18T08-35-08-501Z_a33ab700-001b-4a2d-8c5a-3e9e1f817119.json"
-  },
-  {
-    "type": "form",
-    "magasin": "er",
-    "prenom": "AZEAz",
-    "nom": "raz",
-    "prize": "",
-    "timestamp": "2025-10-18T08:35:32.096Z",
-    "source": "data/er/2025-10-18T08-35-32-096Z_41d3c4ca-e928-4693-8bac-e6302dd3967d.json"
-  },
-  {
-    "type": "form",
-    "magasin": "lololo",
-    "prenom": "lololo",
-    "nom": "lololo",
-    "prize": "",
-    "timestamp": "2025-10-18T08:54:19.983Z",
-    "source": "data/lololo/2025-10-18T08-54-19-983Z_8c04ff8c-f634-443f-81be-5fe50658f562.json"
-  },
-  {
-    "type": "form",
     "magasin": "Valence",
     "prenom": "Alan",
     "nom": "Parmak",
