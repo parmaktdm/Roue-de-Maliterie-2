@@ -1,0 +1,16 @@
+{
+  "nom": "Mins",
+  "prenom": "Mins",
+  "magasin": "Valence",
+  "date": "2025-10-21",
+  "heure": "20:00",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-10-21T18:00:15.346Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
