@@ -1,0 +1,16 @@
+{
+  "nom": "ezaeaze",
+  "prenom": "azerrez",
+  "magasin": "vencouvert",
+  "date": "2025-10-21",
+  "heure": "17:21",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-10-21T15:21:10.050Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
