@@ -358,5 +358,14 @@
     "prize": "",
     "timestamp": "2025-10-21T09:05:47.814Z",
     "source": "data/echirolles/2025-10-21T09-05-47-814Z_38483390-289e-4f6a-a4c8-b17c6611e797.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Yoann",
+    "nom": "Morel",
+    "prize": "",
+    "timestamp": "2025-10-21T09:09:16.234Z",
+    "source": "data/echirolles/2025-10-21T09-09-16-234Z_5a792893-ef61-4862-b8ee-b539c606f339.json"
   }
 ]
