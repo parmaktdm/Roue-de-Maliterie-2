@@ -1,0 +1,18 @@
+{
+  "prenom": "Yoann",
+  "nom": "Morel",
+  "magasin": "Echirolles",
+  "timestamp": "2025-10-21T09:05:47.814Z",
+  "meta": {
+    "page": "https://parmaktdm.github.io/Roue-de-Maliterie-2/",
+    "referrer": "",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 18_6_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/141.0.7390.69 Mobile/15E148 Safari/604.1",
+    "tz": "Europe/Paris",
+    "lang": "fr-FR"
+  },
+  "_workerMeta": {
+    "repo": "parmaktdm/Roue-de-Maliterie-2",
+    "branch": "main",
+    "storeFolder": "echirolles"
+  }
+}
