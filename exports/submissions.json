@@ -367,5 +367,14 @@
     "prize": "",
     "timestamp": "2025-10-21T09:09:16.234Z",
     "source": "data/echirolles/2025-10-21T09-09-16-234Z_5a792893-ef61-4862-b8ee-b539c606f339.json"
+  },
+  {
+    "type": "form",
+    "magasin": "valence",
+    "prenom": "allan",
+    "nom": "asasasasasa",
+    "prize": "",
+    "timestamp": "2025-10-21T13:45:13.787Z",
+    "source": "data/valence/2025-10-21T13-45-13-787Z_30d52149-494a-4c71-b84a-e8b7e8bdb49a.json"
   }
 ]
