@@ -1,0 +1,16 @@
+{
+  "nom": "allan",
+  "prenom": "allan",
+  "magasin": "Paris",
+  "date": "2025-10-21",
+  "heure": "14:45",
+  "prix": null,
+  "prize_label": "",
+  "percent": null,
+  "timestamp": "2025-10-21T14:45:30.302Z",
+  "raw": {
+    "prix": null,
+    "prize": ""
+  },
+  "_worker": "maliterie-capture"
+}
