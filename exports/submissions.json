@@ -376,5 +376,32 @@
     "prize": "",
     "timestamp": "2025-10-21T13:45:13.787Z",
     "source": "data/valence/2025-10-21T13-45-13-787Z_30d52149-494a-4c71-b84a-e8b7e8bdb49a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "valence",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-21T14:17:22.516Z",
+    "source": "data/valence/2025-10-21T14-17-22-516Z_f995b49b-14c1-451a-9f4e-35d4c29e07cc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "valence",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-21T14:17:30.024Z",
+    "source": "data/valence/2025-10-21T14-17-30-024Z_a9c216f3-9375-4dd9-aa97-2168e911948a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "valence",
+    "prenom": "allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-10-21T14:17:30.652Z",
+    "source": "data/valence/2025-10-21T14-17-30-652Z_31108c9d-a139-40d7-9e28-2badaeefc6a0.json"
   }
 ]
