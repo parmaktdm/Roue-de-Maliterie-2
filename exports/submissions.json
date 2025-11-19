@@ -502,5 +502,14 @@
     "prize": "",
     "timestamp": "2025-11-08T20:14:08.794Z",
     "source": "data/hu/2025-11-08T20-14-08-794Z_5f6d07b3-cd34-401d-802a-4d1dfcab3b26.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Allan",
+    "nom": "Parmaksizian",
+    "prize": "",
+    "timestamp": "2025-11-19T07:52:00.676Z",
+    "source": "data/valence/2025-11-19T07-52-00-676Z_18c32bbe-9c2c-4d69-9e8a-88806b0e49f9.json"
   }
 ]
