@@ -520,5 +520,23 @@
     "prize": "",
     "timestamp": "2025-11-29T10:09:04.731Z",
     "source": "data/montelimar/2025-11-29T10-09-04-731Z_60322023-f00b-43c0-a112-9ed0e303f0ae.json"
+  },
+  {
+    "type": "form",
+    "magasin": "beynost",
+    "prenom": "jean maque morandinin",
+    "nom": "mousssa",
+    "prize": "",
+    "timestamp": "2025-12-01T15:14:01.446Z",
+    "source": "data/beynost/2025-12-01T15-14-01-446Z_1876e115-2353-4d60-9a6b-677e7ecb591c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "elodie",
+    "nom": "parmaksizian",
+    "prize": "",
+    "timestamp": "2025-12-01T15:21:34.501Z",
+    "source": "data/valence/2025-12-01T15-21-34-501Z_5179cec9-e3a0-4f95-a254-96346868d5ec.json"
   }
 ]
