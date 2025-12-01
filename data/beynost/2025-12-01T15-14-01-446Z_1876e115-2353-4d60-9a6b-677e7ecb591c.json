@@ -1,0 +1,16 @@
+{
+  "nom": "mousssa",
+  "prenom": "jean maque morandinin",
+  "magasin": "beynost",
+  "date": "2025-12-01",
+  "heure": "16:13",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-01T15:14:01.446Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
