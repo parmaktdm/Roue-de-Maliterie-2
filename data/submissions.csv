@@ -29,3 +29,4 @@ date,heure,prenom,nom,magasin,prix,prize_label,percent,file
 2025-12-02,10:19,Claude,Francois,EDF,,-30%,-30,data/edf/2025-12-02T09-19-21-997Z_bf44c0fe-dff0-44ec-ae5d-3df2385ce502.json
 2025-12-02,10:19,Emmanuel,Macron,ANTIBES,,-30%,-30,data/antibes/2025-12-02T09-19-51-706Z_2a7bb26f-f97f-45cc-8c4f-583c2bfc360b.json
 2025-12-02,10:24,Ben,Affleck,L’os Angele,,-30%,-30,data/l-os-angele/2025-12-02T09-24-40-190Z_a4a01ed1-bb47-452a-8355-bdb464cefc13.json
+2025-12-02,10:55,Celly,CARLIER,PUGET SUR ARGENS,,Linge de lit,,data/puget-sur-argens/2025-12-02T09-55-54-619Z_51afd18c-ee20-42dc-acf3-49e39b6fd569.json
