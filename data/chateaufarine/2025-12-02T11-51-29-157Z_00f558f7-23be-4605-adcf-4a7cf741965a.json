@@ -1,0 +1,16 @@
+{
+  "nom": "Benamou",
+  "prenom": "Serge",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-02",
+  "heure": "12:51",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T11:51:29.157Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
