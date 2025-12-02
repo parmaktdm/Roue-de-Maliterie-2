@@ -1,0 +1,16 @@
+{
+  "nom": "CARLIER",
+  "prenom": "Celly",
+  "magasin": "PUGET SUR ARGENS",
+  "date": "2025-12-02",
+  "heure": "10:55",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-02T09:55:54.619Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
