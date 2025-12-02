@@ -1,0 +1,16 @@
+{
+  "nom": "Demaison",
+  "prenom": "Hugo",
+  "magasin": "Montelimar",
+  "date": "2025-12-02",
+  "heure": "14:04",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-02T13:04:21.000Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
