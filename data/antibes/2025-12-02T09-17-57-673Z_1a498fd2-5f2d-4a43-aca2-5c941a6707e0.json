@@ -1,0 +1,16 @@
+{
+  "nom": "POSLEK",
+  "prenom": "Bernard",
+  "magasin": "ANTIBES",
+  "date": "2025-12-02",
+  "heure": "10:17",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T09:17:57.673Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
