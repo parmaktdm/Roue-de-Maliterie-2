@@ -1,0 +1,16 @@
+{
+  "nom": "ê^gkj^fzkrg",
+  "prenom": "^qosjf^qjs",
+  "magasin": "vgkdsg^gds",
+  "date": "2025-12-02",
+  "heure": "15:25",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T14:25:37.188Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
