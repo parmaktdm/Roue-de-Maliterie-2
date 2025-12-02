@@ -1,0 +1,16 @@
+{
+  "nom": "TEST",
+  "prenom": "TEST",
+  "magasin": "ST MARTIN D'HERES",
+  "date": "2025-12-02",
+  "heure": "17:33",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T16:33:34.801Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
