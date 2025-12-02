@@ -700,5 +700,23 @@
     "prize": "",
     "timestamp": "2025-12-02T09:24:40.190Z",
     "source": "data/l-os-angele/2025-12-02T09-24-40-190Z_a4a01ed1-bb47-452a-8355-bdb464cefc13.json"
+  },
+  {
+    "type": "form",
+    "magasin": "PUGET SUR ARGENS",
+    "prenom": "Celly",
+    "nom": "CARLIER",
+    "prize": "",
+    "timestamp": "2025-12-02T09:55:54.619Z",
+    "source": "data/puget-sur-argens/2025-12-02T09-55-54-619Z_51afd18c-ee20-42dc-acf3-49e39b6fd569.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MANDELIEU",
+    "prenom": "MICHEL",
+    "nom": "MULLER",
+    "prize": "",
+    "timestamp": "2025-12-02T10:20:42.131Z",
+    "source": "data/mandelieu/2025-12-02T10-20-42-131Z_d486d3cb-fffc-4da8-a341-2752c509185f.json"
   }
 ]
