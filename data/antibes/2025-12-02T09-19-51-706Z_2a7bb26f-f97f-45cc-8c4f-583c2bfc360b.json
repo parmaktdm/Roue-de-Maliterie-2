@@ -1,0 +1,16 @@
+{
+  "nom": "Macron",
+  "prenom": "Emmanuel",
+  "magasin": "ANTIBES",
+  "date": "2025-12-02",
+  "heure": "10:19",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T09:19:51.706Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
