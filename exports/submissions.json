@@ -781,5 +781,32 @@
     "prize": "",
     "timestamp": "2025-12-02T13:23:49.628Z",
     "source": "data/maliterie-audincourt/2025-12-02T13-23-49-628Z_3ea1a48a-0c9a-47fc-9883-3caf3e77a620.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Franck",
+    "nom": "TARADI",
+    "prize": "",
+    "timestamp": "2025-12-02T14:10:52.344Z",
+    "source": "data/valence/2025-12-02T14-10-52-344Z_28228e3f-e12b-4bd0-a500-6ad0d4ea2f3d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Alan",
+    "nom": "Franck",
+    "prize": "",
+    "timestamp": "2025-12-02T14:12:14.012Z",
+    "source": "data/valence/2025-12-02T14-12-14-012Z_c96c1d83-31c7-4a2a-9860-2a8098d06906.json"
+  },
+  {
+    "type": "form",
+    "magasin": "vgkdsg^gds",
+    "prenom": "^qosjf^qjs",
+    "nom": "ê^gkj^fzkrg",
+    "prize": "",
+    "timestamp": "2025-12-02T14:25:37.188Z",
+    "source": "data/vgkdsggds/2025-12-02T14-25-37-188Z_28273ca9-d3fa-4d7b-a1a5-85d98001a1e8.json"
   }
 ]
