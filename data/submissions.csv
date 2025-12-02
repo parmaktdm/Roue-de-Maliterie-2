@@ -39,3 +39,4 @@ date,heure,prenom,nom,magasin,prix,prize_label,percent,file
 2025-12-02,14:16,Sylviane,Michaud,Chateaufarine,,-30%,-30,data/chateaufarine/2025-12-02T13-16-44-415Z_de92a274-05b9-4cbe-92ab-2b21a38b01a3.json
 2025-12-02,14:23,TEST 1,Audincourt,Maliterie Audincourt,,Linge de lit,,data/maliterie-audincourt/2025-12-02T13-23-49-628Z_3ea1a48a-0c9a-47fc-9883-3caf3e77a620.json
 2025-12-02,15:10,Franck,TARADI,Valence,,-30%,-30,data/valence/2025-12-02T14-10-52-344Z_28228e3f-e12b-4bd0-a500-6ad0d4ea2f3d.json
+2025-12-02,15:12,Alan,Franck,Valence,,Linge de lit,,data/valence/2025-12-02T14-12-14-012Z_c96c1d83-31c7-4a2a-9860-2a8098d06906.json
