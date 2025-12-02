@@ -1,0 +1,16 @@
+{
+  "nom": "CARLIER",
+  "prenom": "CLAUDY",
+  "magasin": "LA VALENTINE",
+  "date": "2025-12-02",
+  "heure": "09:58",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T08:58:38.794Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
