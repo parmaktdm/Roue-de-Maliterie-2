@@ -1,0 +1,16 @@
+{
+  "nom": "test",
+  "prenom": "figen",
+  "magasin": "saint priest",
+  "date": "2025-12-02",
+  "heure": "15:48",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-02T14:48:21.222Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
