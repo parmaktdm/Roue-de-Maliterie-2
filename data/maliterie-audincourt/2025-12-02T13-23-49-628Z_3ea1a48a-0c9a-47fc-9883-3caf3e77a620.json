@@ -1,0 +1,16 @@
+{
+  "nom": "Audincourt",
+  "prenom": "TEST 1",
+  "magasin": "Maliterie Audincourt",
+  "date": "2025-12-02",
+  "heure": "14:23",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-02T13:23:49.628Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
