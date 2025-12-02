@@ -1,0 +1,16 @@
+{
+  "nom": "Combe",
+  "prenom": "Pascaline",
+  "magasin": "Montelimar",
+  "date": "2025-12-02",
+  "heure": "14:05",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T13:05:27.963Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
