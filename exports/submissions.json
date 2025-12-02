@@ -547,5 +547,158 @@
     "prize": "",
     "timestamp": "2025-12-01T16:01:49.152Z",
     "source": "data/chaponost/2025-12-01T16-01-49-152Z_220597aa-2abe-4a5b-b304-16db0cae8b6f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "LA VALENTINE",
+    "prenom": "CLAUDY",
+    "nom": "CARLIER",
+    "prize": "",
+    "timestamp": "2025-12-02T08:58:38.794Z",
+    "source": "data/la-valentine/2025-12-02T08-58-38-794Z_76739266-1c1e-4416-87be-bd2c3565aaf1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "la valentine",
+    "prenom": "sebastien",
+    "nom": "espitalier",
+    "prize": "",
+    "timestamp": "2025-12-02T08:59:34.336Z",
+    "source": "data/la-valentine/2025-12-02T08-59-34-336Z_9c855d2c-6ef0-4e7b-bd0e-485702cb5d3e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:15:16.027Z",
+    "source": "data/antibes/2025-12-02T09-15-16-027Z_42ca3004-9b2b-4810-bb9c-6861348b4d73.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:15:36.977Z",
+    "source": "data/antibes/2025-12-02T09-15-36-977Z_9ef05cf3-4a2f-4a94-99fc-eead92f722fd.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:16:06.970Z",
+    "source": "data/antibes/2025-12-02T09-16-06-970Z_d1d5a341-c1d3-4d3c-8d53-a5c2c888d21a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:16:47.398Z",
+    "source": "data/antibes/2025-12-02T09-16-47-398Z_b804d3f6-04d0-4c41-9f40-23f8f5e5ae19.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:17:04.042Z",
+    "source": "data/antibes/2025-12-02T09-17-04-042Z_98774a0d-bc41-43bb-8170-5b8d00c71364.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:17:18.037Z",
+    "source": "data/antibes/2025-12-02T09-17-18-037Z_f59b62c7-1796-423b-bd2e-d83af865d939.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:17:32.724Z",
+    "source": "data/antibes/2025-12-02T09-17-32-724Z_c0f289ec-49ca-4ddd-99c8-69a0d8e0fe43.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:17:46.006Z",
+    "source": "data/antibes/2025-12-02T09-17-46-006Z_9c786675-6eab-491c-a010-09b1eed87cf9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:17:57.673Z",
+    "source": "data/antibes/2025-12-02T09-17-57-673Z_1a498fd2-5f2d-4a43-aca2-5c941a6707e0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Bernard",
+    "nom": "POSLEK",
+    "prize": "",
+    "timestamp": "2025-12-02T09:18:12.206Z",
+    "source": "data/antibes/2025-12-02T09-18-12-206Z_4a877db6-4421-4627-b142-5bdb2c6916e7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Beynost",
+    "prenom": "Jean",
+    "nom": "D'Ormesson",
+    "prize": "",
+    "timestamp": "2025-12-02T09:18:42.034Z",
+    "source": "data/beynost/2025-12-02T09-18-42-034Z_05f33dd4-bc9f-4ffd-967a-d12403def8cc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Tel Aviv",
+    "prenom": "Michel",
+    "nom": "Onfray",
+    "prize": "",
+    "timestamp": "2025-12-02T09:19:05.213Z",
+    "source": "data/tel-aviv/2025-12-02T09-19-05-213Z_8e3e3add-01c9-497b-a179-021e0a6ec076.json"
+  },
+  {
+    "type": "form",
+    "magasin": "EDF",
+    "prenom": "Claude",
+    "nom": "Francois",
+    "prize": "",
+    "timestamp": "2025-12-02T09:19:21.997Z",
+    "source": "data/edf/2025-12-02T09-19-21-997Z_bf44c0fe-dff0-44ec-ae5d-3df2385ce502.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Emmanuel",
+    "nom": "Macron",
+    "prize": "",
+    "timestamp": "2025-12-02T09:19:51.706Z",
+    "source": "data/antibes/2025-12-02T09-19-51-706Z_2a7bb26f-f97f-45cc-8c4f-583c2bfc360b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "L’os Angele",
+    "prenom": "Ben",
+    "nom": "Affleck",
+    "prize": "",
+    "timestamp": "2025-12-02T09:24:40.190Z",
+    "source": "data/l-os-angele/2025-12-02T09-24-40-190Z_a4a01ed1-bb47-452a-8355-bdb464cefc13.json"
   }
 ]
