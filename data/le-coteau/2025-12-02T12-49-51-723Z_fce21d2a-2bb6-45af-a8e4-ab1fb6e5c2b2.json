@@ -1,0 +1,16 @@
+{
+  "nom": "Agostinis",
+  "prenom": "Anne lise",
+  "magasin": "Le coteau",
+  "date": "2025-12-02",
+  "heure": "13:49",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-02T12:49:51.723Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
