@@ -916,5 +916,59 @@
     "prize": "",
     "timestamp": "2025-12-03T09:16:50.901Z",
     "source": "data/chateaufarine/2025-12-03T09-16-50-901Z_3a76029d-c0d7-47ed-a84d-f708a0155a96.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Julie",
+    "nom": "Orisio",
+    "prize": "",
+    "timestamp": "2025-12-03T09:54:34.158Z",
+    "source": "data/chaponost/2025-12-03T09-54-34-158Z_24f852fc-04e8-4bdd-b60b-d908d0a1fbac.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Louis",
+    "prenom": "Suzana",
+    "nom": "Muca",
+    "prize": "",
+    "timestamp": "2025-12-03T09:57:15.375Z",
+    "source": "data/saint-louis/2025-12-03T09-57-15-375Z_774b1b6b-ff61-4708-a7b2-edc244f9c5fe.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "TEST",
+    "nom": "TEST",
+    "prize": "",
+    "timestamp": "2025-12-03T10:13:20.945Z",
+    "source": "data/angers/2025-12-03T10-13-20-945Z_080ee790-13e4-406f-9e72-72b844d4ea94.json"
+  },
+  {
+    "type": "form",
+    "magasin": "NANTES",
+    "prenom": "test",
+    "nom": "TEST",
+    "prize": "",
+    "timestamp": "2025-12-03T10:15:22.127Z",
+    "source": "data/nantes/2025-12-03T10-15-22-127Z_a1953a46-98d1-4aa0-9657-b8df12f698a6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Paul les romans",
+    "prenom": "Sandra",
+    "nom": "Jalade",
+    "prize": "",
+    "timestamp": "2025-12-03T10:20:44.739Z",
+    "source": "data/saint-paul-les-romans/2025-12-03T10-20-44-739Z_2cdd7b20-61e8-4bae-98ad-671260a92e6f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "alexis",
+    "nom": "mollier",
+    "prize": "",
+    "timestamp": "2025-12-03T10:27:55.827Z",
+    "source": "data/sallanches/2025-12-03T10-27-55-827Z_0966a272-8a68-4b6f-9d94-9e180e1035c8.json"
   }
 ]
