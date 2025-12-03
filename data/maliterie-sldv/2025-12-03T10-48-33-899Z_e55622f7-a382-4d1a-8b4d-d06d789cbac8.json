@@ -1,0 +1,16 @@
+{
+  "nom": "GAZALE",
+  "prenom": "JOANNA",
+  "magasin": "MALITERIE SLDV",
+  "date": "2025-12-03",
+  "heure": "11:48",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-03T10:48:33.899Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
