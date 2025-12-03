@@ -1042,5 +1042,59 @@
     "prize": "",
     "timestamp": "2025-12-03T14:18:17.491Z",
     "source": "data/valence/2025-12-03T14-18-17-491Z_cd80cfc8-7ea5-4104-9147-9b1c2ab27a5f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Bonniot",
+    "nom": "Jean louis",
+    "prize": "",
+    "timestamp": "2025-12-03T14:27:33.923Z",
+    "source": "data/valence/2025-12-03T14-27-33-923Z_9e2963d4-648e-44c1-953e-16f3cdeefbc6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Morschwiller",
+    "prenom": "Jason",
+    "nom": "Bertsch",
+    "prize": "",
+    "timestamp": "2025-12-03T14:37:27.089Z",
+    "source": "data/morschwiller/2025-12-03T14-37-27-089Z_06bf90a5-b36b-4336-a064-7fff67e77a46.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sainte maxime",
+    "prenom": "Wolfgang",
+    "nom": "Wilms",
+    "prize": "",
+    "timestamp": "2025-12-03T14:53:56.371Z",
+    "source": "data/sainte-maxime/2025-12-03T14-53-56-371Z_4ac9bfca-846c-47d1-927c-99e431d95d12.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Beate",
+    "nom": "Heusel",
+    "prize": "",
+    "timestamp": "2025-12-03T14:54:26.557Z",
+    "source": "data/limonest/2025-12-03T14-54-26-557Z_cf40c954-545c-4c8b-b21f-4ab5b6493ed0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "jeymy",
+    "nom": "santos",
+    "prize": "",
+    "timestamp": "2025-12-03T15:01:49.684Z",
+    "source": "data/sallanches/2025-12-03T15-01-49-684Z_42b9ea19-6e0e-450b-9d87-4f83bc1dc595.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Patricia",
+    "nom": "Petit",
+    "prize": "",
+    "timestamp": "2025-12-03T15:16:05.741Z",
+    "source": "data/valence/2025-12-03T15-16-05-741Z_d8ac4900-6ae0-4748-abae-f5ebca7e3f54.json"
   }
 ]
