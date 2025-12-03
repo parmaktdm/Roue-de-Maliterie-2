@@ -1,0 +1,16 @@
+{
+  "nom": "Wilms",
+  "prenom": "Wolfgang",
+  "magasin": "Sainte maxime",
+  "date": "2025-12-03",
+  "heure": "15:53",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-03T14:53:56.371Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
