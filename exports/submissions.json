@@ -1096,5 +1096,23 @@
     "prize": "",
     "timestamp": "2025-12-03T15:16:05.741Z",
     "source": "data/valence/2025-12-03T15-16-05-741Z_d8ac4900-6ae0-4748-abae-f5ebca7e3f54.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Le coteau",
+    "prenom": "Thoral",
+    "nom": "Damien",
+    "prize": "",
+    "timestamp": "2025-12-03T15:30:05.674Z",
+    "source": "data/le-coteau/2025-12-03T15-30-05-674Z_abc986a8-87a5-4aa2-b685-a6beb2abf374.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "Mireille",
+    "nom": "AUBRY",
+    "prize": "",
+    "timestamp": "2025-12-03T15:48:53.545Z",
+    "source": "data/sallanches/2025-12-03T15-48-53-545Z_a9a4625e-16a9-49f1-80ac-fc894f3f2a97.json"
   }
 ]
