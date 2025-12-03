@@ -1,0 +1,16 @@
+{
+  "nom": "TEST",
+  "prenom": "TEST",
+  "magasin": "CHOLET",
+  "date": "2025-12-03",
+  "heure": "11:30",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-03T10:30:54.086Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
