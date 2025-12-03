@@ -1114,5 +1114,14 @@
     "prize": "",
     "timestamp": "2025-12-03T15:48:53.545Z",
     "source": "data/sallanches/2025-12-03T15-48-53-545Z_a9a4625e-16a9-49f1-80ac-fc894f3f2a97.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Mathis",
+    "nom": "Lompré",
+    "prize": "",
+    "timestamp": "2025-12-03T17:09:41.740Z",
+    "source": "data/chaponost/2025-12-03T17-09-41-740Z_7bcc86fc-24ad-4972-a6ad-a2363e063b3e.json"
   }
 ]
