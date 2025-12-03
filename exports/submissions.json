@@ -997,5 +997,23 @@
     "prize": "",
     "timestamp": "2025-12-03T10:48:33.899Z",
     "source": "data/maliterie-sldv/2025-12-03T10-48-33-899Z_e55622f7-a382-4d1a-8b4d-d06d789cbac8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sallanches",
+    "prenom": "Violette",
+    "nom": "Félicité",
+    "prize": "",
+    "timestamp": "2025-12-03T13:07:32.300Z",
+    "source": "data/sallanches/2025-12-03T13-07-32-300Z_3a6eea83-4e95-4aef-9362-c5a1754633c8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Besançon",
+    "prenom": "Maryse",
+    "nom": "Franceschini",
+    "prize": "",
+    "timestamp": "2025-12-03T13:29:42.023Z",
+    "source": "data/besancon/2025-12-03T13-29-42-023Z_c69ca5b5-0f51-43c8-9fe6-e800e3069d89.json"
   }
 ]
