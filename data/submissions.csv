@@ -5,3 +5,4 @@ date,heure,prenom,nom,magasin,prix,prize_label,percent,file
 2025-12-03,10:54,Julie,Orisio,Chaponost,,-30%,-30,data/chaponost/2025-12-03T09-54-34-158Z_24f852fc-04e8-4bdd-b60b-d908d0a1fbac.json
 2025-12-03,10:57,Suzana,Muca,Saint Louis,,-30%,-30,data/saint-louis/2025-12-03T09-57-15-375Z_774b1b6b-ff61-4708-a7b2-edc244f9c5fe.json
 2025-12-03,11:13,TEST,TEST,ANGERS,,-30%,-30,data/angers/2025-12-03T10-13-20-945Z_080ee790-13e4-406f-9e72-72b844d4ea94.json
+2025-12-03,11:15,test,TEST,NANTES,,-30%,-30,data/nantes/2025-12-03T10-15-22-127Z_a1953a46-98d1-4aa0-9657-b8df12f698a6.json
