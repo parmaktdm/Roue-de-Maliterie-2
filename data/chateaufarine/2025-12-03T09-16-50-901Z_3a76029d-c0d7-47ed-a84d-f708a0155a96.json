@@ -1,0 +1,16 @@
+{
+  "nom": "Roy",
+  "prenom": "Bernard",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-03",
+  "heure": "10:16",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-03T09:16:50.901Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
