@@ -1123,5 +1123,32 @@
     "prize": "",
     "timestamp": "2025-12-03T17:09:41.740Z",
     "source": "data/chaponost/2025-12-03T17-09-41-740Z_7bcc86fc-24ad-4972-a6ad-a2363e063b3e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "Christophe",
+    "nom": "Laverton",
+    "prize": "",
+    "timestamp": "2025-12-04T09:31:40.457Z",
+    "source": "data/sallanches/2025-12-04T09-31-40-457Z_e3c53ea6-518a-4909-b66d-133e1ccd36a4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Julien",
+    "nom": "Astibia",
+    "prize": "",
+    "timestamp": "2025-12-04T09:37:07.764Z",
+    "source": "data/andelnans/2025-12-04T09-37-07-764Z_b71fbeeb-a5df-4dda-aeec-02b214dfd4a8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Roger",
+    "nom": "Montagne",
+    "prize": "",
+    "timestamp": "2025-12-04T09:48:17.213Z",
+    "source": "data/la-fouillouse/2025-12-04T09-48-17-213Z_2b9cc30a-b929-4b64-9854-04520139ba1d.json"
   }
 ]
