@@ -1,0 +1,16 @@
+{
+  "nom": "Mario",
+  "prenom": "Pelucchi",
+  "magasin": "Antibes",
+  "date": "2025-12-04",
+  "heure": "16:18",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-04T15:18:35.898Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
