@@ -1339,5 +1339,14 @@
     "prize": "",
     "timestamp": "2025-12-04T16:35:25.046Z",
     "source": "data/audincourt/2025-12-04T16-35-25-046Z_0fbd3c38-f393-43b9-92e8-c708d3432f06.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Jesone",
+    "nom": "Roure",
+    "prize": "",
+    "timestamp": "2025-12-04T17:42:44.520Z",
+    "source": "data/la-fouillouse/2025-12-04T17-42-44-520Z_0f7b2b21-7ec4-4f69-af0c-ada7d40a370a.json"
   }
 ]
