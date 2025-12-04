@@ -1150,5 +1150,32 @@
     "prize": "",
     "timestamp": "2025-12-04T09:48:17.213Z",
     "source": "data/la-fouillouse/2025-12-04T09-48-17-213Z_2b9cc30a-b929-4b64-9854-04520139ba1d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Al",
+    "prenom": "Fanny",
+    "nom": "Teste",
+    "prize": "",
+    "timestamp": "2025-12-04T10:37:06.208Z",
+    "source": "data/al/2025-12-04T10-37-06-208Z_acfe7fc2-802e-4350-b8ff-477e0dbedac1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "CATHERINE",
+    "nom": "BROSSARD",
+    "prize": "",
+    "timestamp": "2025-12-04T10:38:26.427Z",
+    "source": "data/angers/2025-12-04T10-38-26-427Z_69d191b4-b894-4af7-92a9-580a2a4c508f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Besançon",
+    "prenom": "JAMIL",
+    "nom": "GUERRIDA",
+    "prize": "",
+    "timestamp": "2025-12-04T10:57:29.081Z",
+    "source": "data/besancon/2025-12-04T10-57-29-081Z_ff0f3527-5a11-43f5-a21b-9a32a4986710.json"
   }
 ]
