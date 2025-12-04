@@ -1,0 +1,16 @@
+{
+  "nom": "Brignoli",
+  "prenom": "Xavier",
+  "magasin": "St Egreve",
+  "date": "2025-12-04",
+  "heure": "14:10",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-04T13:10:43.036Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
