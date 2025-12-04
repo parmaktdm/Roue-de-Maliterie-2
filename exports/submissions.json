@@ -1204,5 +1204,32 @@
     "prize": "",
     "timestamp": "2025-12-04T13:11:03.048Z",
     "source": "data/st-egreve/2025-12-04T13-11-03-048Z_8c1d11e1-dc2a-41f8-880a-a9b53c8206f0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "ELISE",
+    "nom": "CORDIER",
+    "prize": "",
+    "timestamp": "2025-12-04T13:41:15.576Z",
+    "source": "data/angers/2025-12-04T13-41-15-576Z_15c3e096-e4eb-4ed6-97fa-0c71900440b8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Macon",
+    "prenom": "Guy",
+    "nom": "Dupuis",
+    "prize": "",
+    "timestamp": "2025-12-04T13:50:56.257Z",
+    "source": "data/macon/2025-12-04T13-50-56-257Z_f021a6ab-84fd-4838-a02f-85f8aa08fdd4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Vincent",
+    "nom": "Ardito",
+    "prize": "",
+    "timestamp": "2025-12-04T14:09:30.434Z",
+    "source": "data/st-egreve/2025-12-04T14-09-30-434Z_601dab14-3fbd-4136-8db4-e3cdfb648107.json"
   }
 ]
