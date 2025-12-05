@@ -1375,5 +1375,59 @@
     "prize": "",
     "timestamp": "2025-12-05T09:10:49.085Z",
     "source": "data/sainte-maxime/2025-12-05T09-10-49-085Z_bfad0692-8e97-430d-8837-eb27b48f4297.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "CHRETIEN",
+    "nom": "SANDRINE",
+    "prize": "",
+    "timestamp": "2025-12-05T09:27:51.231Z",
+    "source": "data/angers/2025-12-05T09-27-51-231Z_1918ef08-d346-4332-9986-fc32ab071e0f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint louis",
+    "prenom": "Ginther",
+    "nom": "Bernard",
+    "prize": "",
+    "timestamp": "2025-12-05T09:29:40.370Z",
+    "source": "data/saint-louis/2025-12-05T09-29-40-370Z_4e5d7676-a256-449f-8567-c930f91101db.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Coralie",
+    "nom": "De liberali",
+    "prize": "",
+    "timestamp": "2025-12-05T09:59:42.121Z",
+    "source": "data/andelnans/2025-12-05T09-59-42-121Z_9f42956f-6bdb-46dc-8cdf-10a829a709e4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Philippe",
+    "nom": "Jarde",
+    "prize": "",
+    "timestamp": "2025-12-05T10:11:54.966Z",
+    "source": "data/montelimar/2025-12-05T10-11-54-966Z_e0747ec9-c855-442c-9c3c-e9e5a18e38f2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Marie",
+    "nom": "Chiffe",
+    "prize": "",
+    "timestamp": "2025-12-05T10:14:46.889Z",
+    "source": "data/st-egreve/2025-12-05T10-14-46-889Z_60c9b5e1-a65e-4ea5-aca3-4e5b40331b00.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Agnes",
+    "nom": "Deporte",
+    "prize": "",
+    "timestamp": "2025-12-05T10:19:18.872Z",
+    "source": "data/valence/2025-12-05T10-19-18-872Z_08c92e87-a8a2-4d7d-a286-5ee44b5fcbdf.json"
   }
 ]
