@@ -1,0 +1,16 @@
+{
+  "nom": "Rodrigue",
+  "prenom": "Pascal",
+  "magasin": "Wittenheim",
+  "date": "2025-12-05",
+  "heure": "16:37",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-05T15:37:56.516Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
