@@ -1,0 +1,16 @@
+{
+  "nom": "Jarde",
+  "prenom": "Philippe",
+  "magasin": "Montelimar",
+  "date": "2025-12-05",
+  "heure": "11:11",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-05T10:11:54.966Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
