@@ -1672,5 +1672,59 @@
     "prize": "",
     "timestamp": "2025-12-05T16:29:00.778Z",
     "source": "data/chateaufarine/2025-12-05T16-29-00-778Z_480b3a8d-eb61-4108-a3d7-495b37e9e5fd.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Cherine",
+    "nom": "Nouari",
+    "prize": "",
+    "timestamp": "2025-12-05T16:34:59.711Z",
+    "source": "data/st-priest/2025-12-05T16-34-59-711Z_9dad93f7-5bfa-4d84-8cf3-ec8b1d4c830c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Louis",
+    "prenom": "Sophie",
+    "nom": "Munch",
+    "prize": "",
+    "timestamp": "2025-12-05T16:35:58.211Z",
+    "source": "data/saint-louis/2025-12-05T16-35-58-211Z_1bb93e2e-de42-42c3-af28-5655daf89516.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Nicolas",
+    "nom": "Magne",
+    "prize": "",
+    "timestamp": "2025-12-05T16:40:35.677Z",
+    "source": "data/chateaufarine/2025-12-05T16-40-35-677Z_e9dc54ca-94c4-4787-8e0e-13c7c68a78ea.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Serdar",
+    "nom": "Sarkli",
+    "prize": "",
+    "timestamp": "2025-12-05T16:41:29.522Z",
+    "source": "data/wittenheim/2025-12-05T16-41-29-522Z_dc33172e-7cb9-4e1f-8bea-c5f640d6daf1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Mehdi",
+    "nom": "Benmaachou",
+    "prize": "",
+    "timestamp": "2025-12-05T16:44:00.511Z",
+    "source": "data/st-priest/2025-12-05T16-44-00-511Z_bd6339dd-137d-4695-a817-74f9816c15b1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "marie",
+    "nom": "delmas",
+    "prize": "",
+    "timestamp": "2025-12-05T17:06:40.460Z",
+    "source": "data/sallanches/2025-12-05T17-06-40-460Z_fda32887-ce8a-4893-b42b-a944509445d5.json"
   }
 ]
