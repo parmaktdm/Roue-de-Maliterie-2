@@ -1438,5 +1438,23 @@
     "prize": "",
     "timestamp": "2025-12-05T11:09:56.010Z",
     "source": "data/sallanches/2025-12-05T11-09-56-010Z_0abdcc36-edf2-4dfd-845b-59521992c9b8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Manuel",
+    "nom": "Bender",
+    "prize": "",
+    "timestamp": "2025-12-05T13:00:43.415Z",
+    "source": "data/wittenheim/2025-12-05T13-00-43-415Z_18706607-2cd3-436a-8485-6149e8f55af9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Paul les romans",
+    "prenom": "Daniel",
+    "nom": "Villard",
+    "prize": "",
+    "timestamp": "2025-12-05T13:27:01.506Z",
+    "source": "data/saint-paul-les-romans/2025-12-05T13-27-01-506Z_9f1f7cf8-0f1c-473a-9e5a-0771bce39382.json"
   }
 ]
