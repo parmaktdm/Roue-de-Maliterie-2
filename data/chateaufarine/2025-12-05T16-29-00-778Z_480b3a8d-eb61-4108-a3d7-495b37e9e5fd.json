@@ -1,0 +1,16 @@
+{
+  "nom": "Franchini",
+  "prenom": "Matteo",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-05",
+  "heure": "17:28",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T16:29:00.778Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
