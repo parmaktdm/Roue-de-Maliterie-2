@@ -1456,5 +1456,68 @@
     "prize": "",
     "timestamp": "2025-12-05T13:27:01.506Z",
     "source": "data/saint-paul-les-romans/2025-12-05T13-27-01-506Z_9f1f7cf8-0f1c-473a-9e5a-0771bce39382.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Julia",
+    "nom": "Tureaud",
+    "prize": "",
+    "timestamp": "2025-12-05T13:46:43.237Z",
+    "source": "data/limonest/2025-12-05T13-46-43-237Z_d6455456-4b06-4c9d-87ae-d0d92677827b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Macon",
+    "prenom": "Patricia",
+    "nom": "Pluchot",
+    "prize": "",
+    "timestamp": "2025-12-05T14:02:28.321Z",
+    "source": "data/macon/2025-12-05T14-02-28-321Z_cfb91172-525c-4c6a-b759-6b7257347726.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Antibes",
+    "prenom": "Alain",
+    "nom": "Gagnepain",
+    "prize": "",
+    "timestamp": "2025-12-05T14:05:16.254Z",
+    "source": "data/antibes/2025-12-05T14-05-16-254Z_c8b061f9-fa40-4cf9-bbd5-1379dc96ba44.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "François",
+    "nom": "Fressard",
+    "prize": "",
+    "timestamp": "2025-12-05T14:06:14.654Z",
+    "source": "data/montelimar/2025-12-05T14-06-14-654Z_d81b08df-6d36-4c97-85a6-27e94b8c5a21.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint louis",
+    "prenom": "Christiane",
+    "nom": "Loll",
+    "prize": "",
+    "timestamp": "2025-12-05T14:07:43.293Z",
+    "source": "data/saint-louis/2025-12-05T14-07-43-293Z_bbdf8815-df02-4e27-a05c-589f5ae1d587.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Melanie",
+    "nom": "LADREYT",
+    "prize": "",
+    "timestamp": "2025-12-05T14:14:45.925Z",
+    "source": "data/montelimar/2025-12-05T14-14-45-925Z_93574780-16b5-4ed5-9cf1-740d5c902682.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "christine",
+    "nom": "bibollet",
+    "prize": "",
+    "timestamp": "2025-12-05T14:24:03.373Z",
+    "source": "data/sallanches/2025-12-05T14-24-03-373Z_220aeaed-d801-4e14-a784-15696d72574e.json"
   }
 ]
