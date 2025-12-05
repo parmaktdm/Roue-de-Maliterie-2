@@ -1,0 +1,16 @@
+{
+  "nom": "Magne",
+  "prenom": "Nicolas",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-05",
+  "heure": "17:40",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T16:40:35.677Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
