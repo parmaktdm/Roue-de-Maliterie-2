@@ -1,0 +1,16 @@
+{
+  "nom": "Brisson",
+  "prenom": "Olivia",
+  "magasin": "Wittenheim",
+  "date": "2025-12-05",
+  "heure": "09:43",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-05T08:43:36.384Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
