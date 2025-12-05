@@ -1,0 +1,16 @@
+{
+  "nom": "SANDRINE",
+  "prenom": "CHRETIEN",
+  "magasin": "ANGERS",
+  "date": "2025-12-05",
+  "heure": "10:27",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T09:27:51.231Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
