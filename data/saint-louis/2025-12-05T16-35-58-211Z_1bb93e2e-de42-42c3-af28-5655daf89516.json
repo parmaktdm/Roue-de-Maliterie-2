@@ -1,0 +1,16 @@
+{
+  "nom": "Munch",
+  "prenom": "Sophie",
+  "magasin": "Saint Louis",
+  "date": "2025-12-05",
+  "heure": "17:35",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T16:35:58.211Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
