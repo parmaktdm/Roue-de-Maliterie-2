@@ -1,0 +1,16 @@
+{
+  "nom": "Bernard",
+  "prenom": "Ginther",
+  "magasin": "Saint louis",
+  "date": "2025-12-05",
+  "heure": "10:29",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T09:29:40.370Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
