@@ -1348,5 +1348,32 @@
     "prize": "",
     "timestamp": "2025-12-04T17:42:44.520Z",
     "source": "data/la-fouillouse/2025-12-04T17-42-44-520Z_0f7b2b21-7ec4-4f69-af0c-ada7d40a370a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Olivia",
+    "nom": "Brisson",
+    "prize": "",
+    "timestamp": "2025-12-05T08:43:36.384Z",
+    "source": "data/wittenheim/2025-12-05T08-43-36-384Z_972aabe5-0631-4797-a0d1-359799810458.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "TANIA",
+    "nom": "THOMAS",
+    "prize": "",
+    "timestamp": "2025-12-05T09:09:45.883Z",
+    "source": "data/cogolin/2025-12-05T09-09-45-883Z_683324f9-251a-44fc-9b8c-9c9594991127.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sainte Maxime",
+    "prenom": "Christelle",
+    "nom": "Massonniere",
+    "prize": "",
+    "timestamp": "2025-12-05T09:10:49.085Z",
+    "source": "data/sainte-maxime/2025-12-05T09-10-49-085Z_bfad0692-8e97-430d-8837-eb27b48f4297.json"
   }
 ]
