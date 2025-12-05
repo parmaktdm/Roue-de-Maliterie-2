@@ -1582,5 +1582,95 @@
     "prize": "",
     "timestamp": "2025-12-05T15:08:29.953Z",
     "source": "data/antibes/2025-12-05T15-08-29-953Z_0d0d8d5d-19d4-4a2c-8478-018010d16e9c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Drissi",
+    "nom": "Claude",
+    "prize": "",
+    "timestamp": "2025-12-05T15:27:29.431Z",
+    "source": "data/st-egreve/2025-12-05T15-27-29-431Z_acf55272-25d1-4d4e-b5f3-43b005a7be7c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ST MARTIN D'HERES",
+    "prenom": "JEAN MARIE",
+    "nom": "MANCEAU",
+    "prize": "",
+    "timestamp": "2025-12-05T15:28:52.100Z",
+    "source": "data/st-martin-d-heres/2025-12-05T15-28-52-100Z_0cbd3f6b-fb48-43c4-9978-411063083d78.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Pascal",
+    "nom": "Rodrigue",
+    "prize": "",
+    "timestamp": "2025-12-05T15:37:56.516Z",
+    "source": "data/wittenheim/2025-12-05T15-37-56-516Z_35f08bea-498b-430c-b201-4a8f99d94448.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Gilles",
+    "nom": "Scarpa",
+    "prize": "",
+    "timestamp": "2025-12-05T15:40:14.016Z",
+    "source": "data/st-priest/2025-12-05T15-40-14-016Z_1ab79268-5866-4ecf-8cc5-34917f7d5a13.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Gounon",
+    "nom": "Eliane",
+    "prize": "",
+    "timestamp": "2025-12-05T15:43:34.190Z",
+    "source": "data/valence/2025-12-05T15-43-34-190Z_e5e247ba-0c84-4061-bdcc-5d1aec06a27a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Olivier",
+    "nom": "Marie",
+    "prize": "",
+    "timestamp": "2025-12-05T15:53:21.420Z",
+    "source": "data/chaponost/2025-12-05T15-53-21-420Z_f62a3aad-8cb8-4efd-b264-4c66408f972e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint louis",
+    "prenom": "Theophile",
+    "nom": "Ofodo",
+    "prize": "",
+    "timestamp": "2025-12-05T16:11:27.669Z",
+    "source": "data/saint-louis/2025-12-05T16-11-27-669Z_724db8ea-27a2-4a51-8e1f-ff0a9d781b29.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Macon",
+    "prenom": "Caroline",
+    "nom": "Talon",
+    "prize": "",
+    "timestamp": "2025-12-05T16:14:30.476Z",
+    "source": "data/macon/2025-12-05T16-14-30-476Z_b32e4762-28a4-4109-905b-d2592245edfb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Paul les romans",
+    "prenom": "Brigitte",
+    "nom": "Neyron",
+    "prize": "",
+    "timestamp": "2025-12-05T16:15:21.441Z",
+    "source": "data/saint-paul-les-romans/2025-12-05T16-15-21-441Z_8f434d95-7795-41de-9e8d-d7ebd526355f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Matteo",
+    "nom": "Franchini",
+    "prize": "",
+    "timestamp": "2025-12-05T16:29:00.778Z",
+    "source": "data/chateaufarine/2025-12-05T16-29-00-778Z_480b3a8d-eb61-4108-a3d7-495b37e9e5fd.json"
   }
 ]
