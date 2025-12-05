@@ -1,0 +1,16 @@
+{
+  "nom": "Fressard",
+  "prenom": "François",
+  "magasin": "Montelimar",
+  "date": "2025-12-05",
+  "heure": "15:06",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T14:06:14.654Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
