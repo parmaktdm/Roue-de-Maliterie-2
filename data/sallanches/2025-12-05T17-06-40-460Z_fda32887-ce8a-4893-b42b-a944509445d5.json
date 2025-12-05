@@ -1,0 +1,16 @@
+{
+  "nom": "delmas",
+  "prenom": "marie",
+  "magasin": "sallanches",
+  "date": "2025-12-05",
+  "heure": "18:06",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-05T17:06:40.460Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
