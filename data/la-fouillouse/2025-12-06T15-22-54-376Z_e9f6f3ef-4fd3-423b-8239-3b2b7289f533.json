@@ -1,0 +1,16 @@
+{
+  "nom": "Martins",
+  "prenom": "Fernand",
+  "magasin": "La fouillouse",
+  "date": "2025-12-06",
+  "heure": "16:22",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T15:22:54.376Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
