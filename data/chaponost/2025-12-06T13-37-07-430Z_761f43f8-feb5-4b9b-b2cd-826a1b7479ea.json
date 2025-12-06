@@ -1,0 +1,16 @@
+{
+  "nom": "Veau-Cahon",
+  "prenom": "Baptiste",
+  "magasin": "Chaponost",
+  "date": "2025-12-06",
+  "heure": "14:37",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T13:37:07.430Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
