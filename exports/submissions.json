@@ -1915,5 +1915,77 @@
     "prize": "",
     "timestamp": "2025-12-06T14:15:02.401Z",
     "source": "data/echirolles/2025-12-06T14-15-02-401Z_6c8bf361-eed7-4fe3-8346-208c3f04ccc6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Habault",
+    "nom": "Philippe",
+    "prize": "",
+    "timestamp": "2025-12-06T14:21:14.758Z",
+    "source": "data/limonest/2025-12-06T14-21-14-758Z_9857a172-cf24-4b25-a041-39736bdc4a5e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Elodie",
+    "nom": "Bouteille",
+    "prize": "",
+    "timestamp": "2025-12-06T14:26:23.329Z",
+    "source": "data/la-fouillouse/2025-12-06T14-26-23-329Z_dcd0c7eb-5916-4dcc-b992-d5620d330c16.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "GUY",
+    "nom": "PORTIER",
+    "prize": "",
+    "timestamp": "2025-12-06T14:26:30.208Z",
+    "source": "data/chambery/2025-12-06T14-26-30-208Z_4f5633c7-8b26-4fa7-89b9-e62cc90bafa6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Valerie",
+    "nom": "Richaud",
+    "prize": "",
+    "timestamp": "2025-12-06T14:41:29.163Z",
+    "source": "data/montelimar/2025-12-06T14-41-29-163Z_198b0118-50c1-4861-ad45-3a016471090a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Julien",
+    "nom": "Terpent",
+    "prize": "",
+    "timestamp": "2025-12-06T14:44:41.535Z",
+    "source": "data/chateaufarine/2025-12-06T14-44-41-535Z_bd57260e-9466-4edd-b21f-689c0363b750.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Valerie",
+    "nom": "Alexandre",
+    "prize": "",
+    "timestamp": "2025-12-06T14:56:54.575Z",
+    "source": "data/givors/2025-12-06T14-56-54-575Z_3e875b50-a0ec-47d5-a828-faafa2265141.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Amandine",
+    "nom": "Bouchet",
+    "prize": "",
+    "timestamp": "2025-12-06T15:09:30.425Z",
+    "source": "data/montelimar/2025-12-06T15-09-30-425Z_a656ca4f-ad8a-4390-8691-80685257632d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Romain",
+    "nom": "Ducharme",
+    "prize": "",
+    "timestamp": "2025-12-06T15:14:50.669Z",
+    "source": "data/valence/2025-12-06T15-14-50-669Z_3de5ff91-e246-4c28-9701-e946cf94eecb.json"
   }
 ]
