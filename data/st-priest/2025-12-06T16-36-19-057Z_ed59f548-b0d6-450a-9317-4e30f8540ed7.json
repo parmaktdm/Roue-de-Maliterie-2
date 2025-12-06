@@ -1,0 +1,16 @@
+{
+  "nom": "Boulanger",
+  "prenom": "Pierre",
+  "magasin": "St priest",
+  "date": "2025-12-06",
+  "heure": "17:36",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T16:36:19.057Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
