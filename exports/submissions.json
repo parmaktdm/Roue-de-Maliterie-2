@@ -1870,5 +1870,50 @@
     "prize": "",
     "timestamp": "2025-12-06T13:25:15.205Z",
     "source": "data/givors/2025-12-06T13-25-15-205Z_513358ab-8a53-4500-8e6d-abb9386c3449.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Baptiste",
+    "nom": "Veau-Cahon",
+    "prize": "",
+    "timestamp": "2025-12-06T13:37:07.430Z",
+    "source": "data/chaponost/2025-12-06T13-37-07-430Z_761f43f8-feb5-4b9b-b2cd-826a1b7479ea.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Maxime",
+    "nom": "Lawson",
+    "prize": "",
+    "timestamp": "2025-12-06T13:42:11.017Z",
+    "source": "data/givors/2025-12-06T13-42-11-017Z_6faeb097-5daa-40af-90a4-05e49704c40f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHOLET",
+    "prenom": "BENOIT",
+    "nom": "FARRE",
+    "prize": "",
+    "timestamp": "2025-12-06T13:56:16.378Z",
+    "source": "data/cholet/2025-12-06T13-56-16-378Z_661fb69f-0036-4939-b5aa-b59f03f98a57.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Hoppe",
+    "nom": "Emma",
+    "prize": "",
+    "timestamp": "2025-12-06T14:02:57.177Z",
+    "source": "data/st-priest/2025-12-06T14-02-57-177Z_c9c5bafd-ae6e-493c-a1f3-a7aaf60c6ed6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Yan",
+    "nom": "Cafferatto",
+    "prize": "",
+    "timestamp": "2025-12-06T14:15:02.401Z",
+    "source": "data/echirolles/2025-12-06T14-15-02-401Z_6c8bf361-eed7-4fe3-8346-208c3f04ccc6.json"
   }
 ]
