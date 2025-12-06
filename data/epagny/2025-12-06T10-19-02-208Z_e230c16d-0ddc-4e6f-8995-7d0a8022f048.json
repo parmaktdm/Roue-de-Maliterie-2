@@ -1,0 +1,16 @@
+{
+  "nom": "Guillot",
+  "prenom": "Karine",
+  "magasin": "Epagny",
+  "date": "2025-12-06",
+  "heure": "11:19",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T10:19:02.208Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
