@@ -1,0 +1,16 @@
+{
+  "nom": "Guyot",
+  "prenom": "Catherine",
+  "magasin": "Saint egreve",
+  "date": "2025-12-06",
+  "heure": "16:31",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T15:31:25.394Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
