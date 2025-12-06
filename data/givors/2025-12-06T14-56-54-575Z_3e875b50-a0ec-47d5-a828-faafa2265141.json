@@ -1,0 +1,16 @@
+{
+  "nom": "Alexandre",
+  "prenom": "Valerie",
+  "magasin": "Givors",
+  "date": "2025-12-06",
+  "heure": "15:56",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-06T14:56:54.575Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
