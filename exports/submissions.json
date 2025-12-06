@@ -2059,5 +2059,23 @@
     "prize": "",
     "timestamp": "2025-12-06T16:17:21.274Z",
     "source": "data/chaponost/2025-12-06T16-17-21-274Z_1770a96d-092b-42e9-b6df-8db883082f54.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Pierre",
+    "nom": "Boulanger",
+    "prize": "",
+    "timestamp": "2025-12-06T16:36:19.057Z",
+    "source": "data/st-priest/2025-12-06T16-36-19-057Z_ed59f548-b0d6-450a-9317-4e30f8540ed7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHOLET",
+    "prenom": "VINCENT",
+    "nom": "ROUSSEAUX",
+    "prize": "",
+    "timestamp": "2025-12-06T16:45:54.067Z",
+    "source": "data/cholet/2025-12-06T16-45-54-067Z_bc3c89e8-f47b-4a30-b078-140517b643df.json"
   }
 ]
