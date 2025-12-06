@@ -1987,5 +1987,77 @@
     "prize": "",
     "timestamp": "2025-12-06T15:14:50.669Z",
     "source": "data/valence/2025-12-06T15-14-50-669Z_3de5ff91-e246-4c28-9701-e946cf94eecb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Fernand",
+    "nom": "Martins",
+    "prize": "",
+    "timestamp": "2025-12-06T15:22:54.376Z",
+    "source": "data/la-fouillouse/2025-12-06T15-22-54-376Z_e9f6f3ef-4fd3-423b-8239-3b2b7289f533.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Celine",
+    "nom": "Cachet",
+    "prize": "",
+    "timestamp": "2025-12-06T15:26:27.932Z",
+    "source": "data/echirolles/2025-12-06T15-26-27-932Z_2a5a682a-0473-4490-b292-a1b5dbe1982e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint egreve",
+    "prenom": "Catherine",
+    "nom": "Guyot",
+    "prize": "",
+    "timestamp": "2025-12-06T15:31:25.394Z",
+    "source": "data/saint-egreve/2025-12-06T15-31-25-394Z_373bb193-f832-467a-b057-e018e0dc7ee9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Alain",
+    "nom": "Maeso",
+    "prize": "",
+    "timestamp": "2025-12-06T15:35:30.957Z",
+    "source": "data/valence/2025-12-06T15-35-30-957Z_2fefd7ca-6efe-4557-882b-e502ba4b9f07.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Ethane",
+    "nom": "Heraud",
+    "prize": "",
+    "timestamp": "2025-12-06T15:38:55.049Z",
+    "source": "data/st-egreve/2025-12-06T15-38-55-049Z_e440bdef-fdf6-45ea-9c7e-df7db8ed2873.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Axelle",
+    "nom": "Flechet",
+    "prize": "",
+    "timestamp": "2025-12-06T15:55:10.866Z",
+    "source": "data/la-fouillouse/2025-12-06T15-55-10-866Z_9050adba-7f27-49c0-b2da-ee082a6c6540.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Elisa",
+    "nom": "Di piazza",
+    "prize": "",
+    "timestamp": "2025-12-06T16:09:18.807Z",
+    "source": "data/la-fouillouse/2025-12-06T16-09-18-807Z_0c88b062-c265-4db0-9794-8876541ca31f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Ingrid",
+    "nom": "Pluvy",
+    "prize": "",
+    "timestamp": "2025-12-06T16:17:21.274Z",
+    "source": "data/chaponost/2025-12-06T16-17-21-274Z_1770a96d-092b-42e9-b6df-8db883082f54.json"
   }
 ]
