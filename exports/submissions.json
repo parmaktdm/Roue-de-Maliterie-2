@@ -1762,5 +1762,68 @@
     "prize": "",
     "timestamp": "2025-12-06T10:19:02.208Z",
     "source": "data/epagny/2025-12-06T10-19-02-208Z_e230c16d-0ddc-4e6f-8995-7d0a8022f048.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Daphne",
+    "nom": "Radoux",
+    "prize": "",
+    "timestamp": "2025-12-06T10:40:13.602Z",
+    "source": "data/valence/2025-12-06T10-40-13-602Z_5c2b2324-3ad2-4cfa-a5d9-d2de0ebd822a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ST EGREVE",
+    "prenom": "Robert",
+    "nom": "PERONNARD",
+    "prize": "",
+    "timestamp": "2025-12-06T10:46:12.144Z",
+    "source": "data/st-egreve/2025-12-06T10-46-12-144Z_bfc57f02-5349-4586-9f1a-6229dd63732e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Renan",
+    "nom": "Trovero",
+    "prize": "",
+    "timestamp": "2025-12-06T10:48:34.819Z",
+    "source": "data/echirolles/2025-12-06T10-48-34-819Z_ccd75f07-5470-4e6f-aed0-d63d0fd0e78f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Lucas",
+    "nom": "Suichninski",
+    "prize": "",
+    "timestamp": "2025-12-06T10:48:37.087Z",
+    "source": "data/la-fouillouse/2025-12-06T10-48-37-087Z_9239c355-d09e-4ef2-afe3-18b7d05d6103.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonesc",
+    "prenom": "Thomas",
+    "nom": "Peyrachen",
+    "prize": "",
+    "timestamp": "2025-12-06T10:53:21.123Z",
+    "source": "data/limonesc/2025-12-06T10-53-21-123Z_fe0f7710-74b5-4bde-be8f-01a37a366beb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Christine",
+    "nom": "Delorme",
+    "prize": "",
+    "timestamp": "2025-12-06T11:01:34.836Z",
+    "source": "data/angers/2025-12-06T11-01-34-836Z_7ff123a5-6177-48e3-8a8a-7d10c33b6aad.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Rampollini",
+    "nom": "EEugène x ugenia",
+    "prize": "",
+    "timestamp": "2025-12-06T11:03:40.886Z",
+    "source": "data/macon/2025-12-06T11-03-40-886Z_915a9279-f555-474f-8ada-4f435bbbb25b.json"
   }
 ]
