@@ -1825,5 +1825,50 @@
     "prize": "",
     "timestamp": "2025-12-06T11:03:40.886Z",
     "source": "data/macon/2025-12-06T11-03-40-886Z_915a9279-f555-474f-8ada-4f435bbbb25b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Yolande",
+    "nom": "Ferrari",
+    "prize": "",
+    "timestamp": "2025-12-06T12:50:43.533Z",
+    "source": "data/wittenheim/2025-12-06T12-50-43-533Z_58cfa95b-daff-4b7a-b77d-c570cc7b02ec.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Valentin",
+    "nom": "Herlemont",
+    "prize": "",
+    "timestamp": "2025-12-06T13:05:09.880Z",
+    "source": "data/valence/2025-12-06T13-05-09-880Z_f34c3add-7eba-42a5-9a52-c6f0e846b499.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Ines",
+    "nom": "Ayik",
+    "prize": "",
+    "timestamp": "2025-12-06T13:06:11.634Z",
+    "source": "data/st-priest/2025-12-06T13-06-11-634Z_0bc38a8a-d80a-4f43-a306-150fd5c1658f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St priest",
+    "prenom": "Tugba",
+    "nom": "Ayik",
+    "prize": "",
+    "timestamp": "2025-12-06T13:07:09.190Z",
+    "source": "data/st-priest/2025-12-06T13-07-09-190Z_5e863442-a5bc-4d65-885c-bd1369604df0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Jean marc",
+    "nom": "Borrel",
+    "prize": "",
+    "timestamp": "2025-12-06T13:25:15.205Z",
+    "source": "data/givors/2025-12-06T13-25-15-205Z_513358ab-8a53-4500-8e6d-abb9386c3449.json"
   }
 ]
