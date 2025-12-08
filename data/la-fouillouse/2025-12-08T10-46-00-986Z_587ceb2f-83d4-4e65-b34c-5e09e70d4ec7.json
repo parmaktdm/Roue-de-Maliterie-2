@@ -1,0 +1,16 @@
+{
+  "nom": "Santoro",
+  "prenom": "Mickael",
+  "magasin": "La fouillouse",
+  "date": "2025-12-08",
+  "heure": "11:46",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-08T10:46:00.986Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
