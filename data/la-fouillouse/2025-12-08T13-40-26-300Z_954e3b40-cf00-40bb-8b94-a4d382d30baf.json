@@ -1,0 +1,16 @@
+{
+  "nom": "Meguireche",
+  "prenom": "Josiane",
+  "magasin": "La fouillouse",
+  "date": "2025-12-08",
+  "heure": "14:40",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-08T13:40:26.300Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
