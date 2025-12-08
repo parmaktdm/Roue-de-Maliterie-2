@@ -1,0 +1,16 @@
+{
+  "nom": "Audigier",
+  "prenom": "Philippe",
+  "magasin": "Montelimar",
+  "date": "2025-12-08",
+  "heure": "10:13",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-08T09:13:15.581Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
