@@ -2095,5 +2095,23 @@
     "prize": "",
     "timestamp": "2025-12-08T10:07:31.590Z",
     "source": "data/sallanches/2025-12-08T10-07-31-590Z_138cc8ab-e9ff-4cc0-9432-1218b86fb842.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Aurelien",
+    "nom": "Billet",
+    "prize": "",
+    "timestamp": "2025-12-08T10:28:46.200Z",
+    "source": "data/andelnans/2025-12-08T10-28-46-200Z_e8952e79-cc2e-442b-b427-23ba66c2a559.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Mickael",
+    "nom": "Santoro",
+    "prize": "",
+    "timestamp": "2025-12-08T10:46:00.986Z",
+    "source": "data/la-fouillouse/2025-12-08T10-46-00-986Z_587ceb2f-83d4-4e65-b34c-5e09e70d4ec7.json"
   }
 ]
