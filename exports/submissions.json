@@ -2149,5 +2149,32 @@
     "prize": "",
     "timestamp": "2025-12-08T13:23:28.513Z",
     "source": "data/montelimar/2025-12-08T13-23-28-513Z_a2035540-10e2-49ef-bc16-c893111507e8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Josiane",
+    "nom": "Meguireche",
+    "prize": "",
+    "timestamp": "2025-12-08T13:40:26.300Z",
+    "source": "data/la-fouillouse/2025-12-08T13-40-26-300Z_954e3b40-cf00-40bb-8b94-a4d382d30baf.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ST MARTIN D'HERES",
+    "prenom": "Nathalie",
+    "nom": "BRUNET",
+    "prize": "",
+    "timestamp": "2025-12-08T14:04:33.163Z",
+    "source": "data/st-martin-d-heres/2025-12-08T14-04-33-163Z_4fce30e3-d81c-4b05-8fff-570e33193d59.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Sylvie",
+    "nom": "Branciard",
+    "prize": "",
+    "timestamp": "2025-12-08T14:14:47.595Z",
+    "source": "data/la-fouillouse/2025-12-08T14-14-47-595Z_7ea948e0-818b-42dd-9085-803f2c9c725c.json"
   }
 ]
