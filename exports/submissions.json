@@ -2113,5 +2113,41 @@
     "prize": "",
     "timestamp": "2025-12-08T10:46:00.986Z",
     "source": "data/la-fouillouse/2025-12-08T10-46-00-986Z_587ceb2f-83d4-4e65-b34c-5e09e70d4ec7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "Alexy",
+    "nom": "Godet",
+    "prize": "",
+    "timestamp": "2025-12-08T13:14:54.101Z",
+    "source": "data/epagny/2025-12-08T13-14-54-101Z_ba2463cd-2d3a-4646-86fb-9e2421744e2b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Alice",
+    "nom": "BEAU",
+    "prize": "",
+    "timestamp": "2025-12-08T13:19:06.430Z",
+    "source": "data/limonest/2025-12-08T13-19-06-430Z_d5cc64af-f6c2-4abc-9b07-59f1f30cc0bc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "guyot",
+    "nom": "charlotte",
+    "prize": "",
+    "timestamp": "2025-12-08T13:22:48.253Z",
+    "source": "data/sallanches/2025-12-08T13-22-48-253Z_e5ab287b-1648-4684-bc38-88cefa97ce53.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Eric",
+    "nom": "Planchon",
+    "prize": "",
+    "timestamp": "2025-12-08T13:23:28.513Z",
+    "source": "data/montelimar/2025-12-08T13-23-28-513Z_a2035540-10e2-49ef-bc16-c893111507e8.json"
   }
 ]
