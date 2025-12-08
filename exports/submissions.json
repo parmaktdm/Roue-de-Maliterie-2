@@ -2077,5 +2077,14 @@
     "prize": "",
     "timestamp": "2025-12-06T16:45:54.067Z",
     "source": "data/cholet/2025-12-06T16-45-54-067Z_bc3c89e8-f47b-4a30-b078-140517b643df.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Philippe",
+    "nom": "Audigier",
+    "prize": "",
+    "timestamp": "2025-12-08T09:13:15.581Z",
+    "source": "data/montelimar/2025-12-08T09-13-15-581Z_0fcbc75c-d174-4ba8-8ff8-16b4404d0dea.json"
   }
 ]
