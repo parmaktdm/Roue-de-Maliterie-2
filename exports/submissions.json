@@ -2212,5 +2212,14 @@
     "prize": "",
     "timestamp": "2025-12-08T16:14:29.767Z",
     "source": "data/wittenheim/2025-12-08T16-14-29-767Z_d27372d4-836d-440b-a64d-7d2f9e667a5e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Vermot",
+    "nom": "Denis",
+    "prize": "",
+    "timestamp": "2025-12-08T17:08:14.193Z",
+    "source": "data/andelnans/2025-12-08T17-08-14-193Z_43489a92-f6a3-4b15-bd10-e7ba41eaae3f.json"
   }
 ]
