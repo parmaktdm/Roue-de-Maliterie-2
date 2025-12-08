@@ -2086,5 +2086,14 @@
     "prize": "",
     "timestamp": "2025-12-08T09:13:15.581Z",
     "source": "data/montelimar/2025-12-08T09-13-15-581Z_0fcbc75c-d174-4ba8-8ff8-16b4404d0dea.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "DUCRUE",
+    "nom": "JACQUES",
+    "prize": "",
+    "timestamp": "2025-12-08T10:07:31.590Z",
+    "source": "data/sallanches/2025-12-08T10-07-31-590Z_138cc8ab-e9ff-4cc0-9432-1218b86fb842.json"
   }
 ]
