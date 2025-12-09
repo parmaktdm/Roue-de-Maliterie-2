@@ -2419,5 +2419,41 @@
     "prize": "",
     "timestamp": "2025-12-09T15:26:22.970Z",
     "source": "data/epagny/2025-12-09T15-26-22-970Z_0da29d00-ca6b-48ad-b2c4-90cca32a49d0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "patrice",
+    "nom": "crama",
+    "prize": "",
+    "timestamp": "2025-12-09T15:38:53.593Z",
+    "source": "data/sallanches/2025-12-09T15-38-53-593Z_e066a795-e109-4ab6-a51d-f69f2121929a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Tristan",
+    "nom": "Matrat",
+    "prize": "",
+    "timestamp": "2025-12-09T15:39:13.636Z",
+    "source": "data/la-valentine/2025-12-09T15-39-13-636Z_ef471f97-adfd-4fdb-be68-69fdc6f4d31d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Pascale",
+    "nom": "Albenois",
+    "prize": "",
+    "timestamp": "2025-12-09T16:10:07.559Z",
+    "source": "data/la-valentine/2025-12-09T16-10-07-559Z_fddd200e-51bb-4962-ae68-9b1b686aff18.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Maxence",
+    "nom": "Sage",
+    "prize": "",
+    "timestamp": "2025-12-09T16:21:15.967Z",
+    "source": "data/st-egreve/2025-12-09T16-21-15-967Z_34fcb58a-8aad-4aa9-b8fa-fbfacdd408e8.json"
   }
 ]
