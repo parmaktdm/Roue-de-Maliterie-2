@@ -2302,5 +2302,23 @@
     "prize": "",
     "timestamp": "2025-12-09T10:23:36.543Z",
     "source": "data/la-valentine/2025-12-09T10-23-36-543Z_fcb11b06-397e-4359-9f1e-54c741caac73.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Florence",
+    "nom": "Maynrad",
+    "prize": "",
+    "timestamp": "2025-12-09T10:49:17.838Z",
+    "source": "data/givors/2025-12-09T10-49-17-838Z_1ea8461a-76af-4e86-8637-b5e75ed497c1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Audincourt",
+    "prenom": "Renee",
+    "nom": "ROUILLARD",
+    "prize": "",
+    "timestamp": "2025-12-09T10:49:23.105Z",
+    "source": "data/audincourt/2025-12-09T10-49-23-105Z_463d9685-e33f-41d1-a2b3-ff36034a47dc.json"
   }
 ]
