@@ -1,0 +1,16 @@
+{
+  "nom": "Matrat",
+  "prenom": "Tristan",
+  "magasin": "La valentine",
+  "date": "2025-12-09",
+  "heure": "16:39",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-09T15:39:13.636Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
