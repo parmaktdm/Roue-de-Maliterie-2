@@ -2455,5 +2455,32 @@
     "prize": "",
     "timestamp": "2025-12-09T16:21:15.967Z",
     "source": "data/st-egreve/2025-12-09T16-21-15-967Z_34fcb58a-8aad-4aa9-b8fa-fbfacdd408e8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Celine",
+    "nom": "Meunier",
+    "prize": "",
+    "timestamp": "2025-12-09T16:32:44.676Z",
+    "source": "data/valence/2025-12-09T16-32-44-676Z_ec0e7888-312b-41fc-b56f-42cab4fdf287.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MALITERIE SLDV",
+    "prenom": "CLAUDINE",
+    "nom": "TURRINI",
+    "prize": "",
+    "timestamp": "2025-12-09T16:46:27.238Z",
+    "source": "data/maliterie-sldv/2025-12-09T16-46-27-238Z_5e49a76f-311b-410c-ae97-298b012e56ab.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cabries",
+    "prenom": "Francis",
+    "nom": "Lerouvillois",
+    "prize": "",
+    "timestamp": "2025-12-09T17:15:19.844Z",
+    "source": "data/cabries/2025-12-09T17-15-19-844Z_55ec8c6b-8ce1-4692-aaf7-2fc2093a522b.json"
   }
 ]
