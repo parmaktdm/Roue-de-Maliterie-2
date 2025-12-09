@@ -1,0 +1,16 @@
+{
+  "nom": "Bordignon",
+  "prenom": "Antoine",
+  "magasin": "Epagny",
+  "date": "2025-12-09",
+  "heure": "14:53",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-09T13:53:06.711Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
