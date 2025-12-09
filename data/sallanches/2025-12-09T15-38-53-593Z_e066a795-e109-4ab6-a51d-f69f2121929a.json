@@ -1,0 +1,16 @@
+{
+  "nom": "crama",
+  "prenom": "patrice",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-09",
+  "heure": "16:38",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-09T15:38:53.593Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
