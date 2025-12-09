@@ -1,0 +1,16 @@
+{
+  "nom": "Jobard",
+  "prenom": "Louis",
+  "magasin": "ANTIBES",
+  "date": "2025-12-09",
+  "heure": "14:51",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-09T13:51:37.314Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
