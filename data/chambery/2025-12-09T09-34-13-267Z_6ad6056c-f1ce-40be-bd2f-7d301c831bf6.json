@@ -1,0 +1,16 @@
+{
+  "nom": "PIERRE",
+  "prenom": "BILLET",
+  "magasin": "CHAMBERY",
+  "date": "2025-12-09",
+  "heure": "10:34",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-09T09:34:13.267Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
