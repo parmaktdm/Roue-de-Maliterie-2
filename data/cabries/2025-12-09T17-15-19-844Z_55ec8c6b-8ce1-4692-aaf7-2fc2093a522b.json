@@ -1,0 +1,16 @@
+{
+  "nom": "Lerouvillois",
+  "prenom": "Francis",
+  "magasin": "Cabries",
+  "date": "2025-12-09",
+  "heure": "18:15",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-09T17:15:19.844Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
