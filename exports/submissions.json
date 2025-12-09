@@ -2383,5 +2383,41 @@
     "prize": "",
     "timestamp": "2025-12-09T14:22:53.020Z",
     "source": "data/epagny/2025-12-09T14-22-53-020Z_330beb34-bb35-4798-905f-f56e82ebf486.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Jean michel",
+    "nom": "Dutrieux",
+    "prize": "",
+    "timestamp": "2025-12-09T14:29:58.088Z",
+    "source": "data/la-fouillouse/2025-12-09T14-29-58-088Z_f32213cd-ad35-4b0c-a9b4-4e28df706c23.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Nicole",
+    "nom": "Simonnet",
+    "prize": "",
+    "timestamp": "2025-12-09T14:33:25.187Z",
+    "source": "data/la-fouillouse/2025-12-09T14-33-25-187Z_0b93d22e-0822-4897-aec3-a2fd2a337dda.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Teyssier",
+    "nom": "Audrey",
+    "prize": "",
+    "timestamp": "2025-12-09T15:06:13.960Z",
+    "source": "data/echirolles/2025-12-09T15-06-13-960Z_7f16f7fe-636c-478a-a1e1-ebf83c5528c1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "Jean francois",
+    "nom": "Wolff",
+    "prize": "",
+    "timestamp": "2025-12-09T15:26:22.970Z",
+    "source": "data/epagny/2025-12-09T15-26-22-970Z_0da29d00-ca6b-48ad-b2c4-90cca32a49d0.json"
   }
 ]
