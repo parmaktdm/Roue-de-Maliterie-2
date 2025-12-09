@@ -2320,5 +2320,23 @@
     "prize": "",
     "timestamp": "2025-12-09T10:49:23.105Z",
     "source": "data/audincourt/2025-12-09T10-49-23-105Z_463d9685-e33f-41d1-a2b3-ff36034a47dc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "sallanches",
+    "prenom": "Daniel",
+    "nom": "Cadoux",
+    "prize": "",
+    "timestamp": "2025-12-09T13:07:50.761Z",
+    "source": "data/sallanches/2025-12-09T13-07-50-761Z_c6ba1057-313d-4b4f-a88f-b5199672c90c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Fanny",
+    "nom": "Boissie",
+    "prize": "",
+    "timestamp": "2025-12-09T13:11:35.019Z",
+    "source": "data/chaponost/2025-12-09T13-11-35-019Z_454f3b3e-936d-4597-a8d6-0be0ac9209a3.json"
   }
 ]
