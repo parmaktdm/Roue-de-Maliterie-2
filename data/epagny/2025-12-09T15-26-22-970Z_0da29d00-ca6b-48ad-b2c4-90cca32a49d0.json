@@ -1,0 +1,16 @@
+{
+  "nom": "Wolff",
+  "prenom": "Jean francois",
+  "magasin": "Epagny",
+  "date": "2025-12-09",
+  "heure": "16:26",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-09T15:26:22.970Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
