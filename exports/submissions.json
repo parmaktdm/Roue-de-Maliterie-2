@@ -2230,5 +2230,77 @@
     "prize": "",
     "timestamp": "2025-12-09T09:26:06.496Z",
     "source": "data/cabries/2025-12-09T09-26-06-496Z_20d0b963-848e-4629-9510-d7f16e65e0a5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "BILLET",
+    "nom": "PIERRE",
+    "prize": "",
+    "timestamp": "2025-12-09T09:34:13.267Z",
+    "source": "data/chambery/2025-12-09T09-34-13-267Z_6ad6056c-f1ce-40be-bd2f-7d301c831bf6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Christine",
+    "nom": "Barbier",
+    "prize": "",
+    "timestamp": "2025-12-09T09:47:55.726Z",
+    "source": "data/montelimar/2025-12-09T09-47-55-726Z_845323bd-24fe-4734-b1d1-6df40f91158a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Jeannine",
+    "nom": "Trinque",
+    "prize": "",
+    "timestamp": "2025-12-09T09:54:13.672Z",
+    "source": "data/macon/2025-12-09T09-54-13-672Z_dfc63f37-99a3-4c10-8df3-2874a0ecfee1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Bernard",
+    "nom": "Sutter",
+    "prize": "",
+    "timestamp": "2025-12-09T10:04:10.104Z",
+    "source": "data/wittenheim/2025-12-09T10-04-10-104Z_f7ffe2fc-4937-43d4-a063-4fb3b9ad5152.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Chevallier",
+    "nom": "Guillaume",
+    "prize": "",
+    "timestamp": "2025-12-09T10:15:05.630Z",
+    "source": "data/st-egreve/2025-12-09T10-15-05-630Z_18f611d5-2325-4b59-912e-9a6ab6a75a0d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Cedric",
+    "nom": "Gosselin",
+    "prize": "",
+    "timestamp": "2025-12-09T10:22:22.076Z",
+    "source": "data/echirolles/2025-12-09T10-22-22-076Z_a2c31a75-aebe-421b-b3de-d833a46023cb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Akshayan",
+    "nom": "Mahentiran",
+    "prize": "",
+    "timestamp": "2025-12-09T10:22:56.249Z",
+    "source": "data/echirolles/2025-12-09T10-22-56-249Z_0f03e679-b51f-4b6d-ac66-f7f42d6bc4a5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Anne Marie",
+    "nom": "Rigal",
+    "prize": "",
+    "timestamp": "2025-12-09T10:23:36.543Z",
+    "source": "data/la-valentine/2025-12-09T10-23-36-543Z_fcb11b06-397e-4359-9f1e-54c741caac73.json"
   }
 ]
