@@ -2338,5 +2338,50 @@
     "prize": "",
     "timestamp": "2025-12-09T13:11:35.019Z",
     "source": "data/chaponost/2025-12-09T13-11-35-019Z_454f3b3e-936d-4597-a8d6-0be0ac9209a3.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANTIBES",
+    "prenom": "Louis",
+    "nom": "Jobard",
+    "prize": "",
+    "timestamp": "2025-12-09T13:51:37.314Z",
+    "source": "data/antibes/2025-12-09T13-51-37-314Z_26c449d9-1e69-4b89-ad58-b55175fa41ef.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "Antoine",
+    "nom": "Bordignon",
+    "prize": "",
+    "timestamp": "2025-12-09T13:53:06.711Z",
+    "source": "data/epagny/2025-12-09T13-53-06-711Z_c8453b37-f2a3-46d8-9c5e-8d2a4c6c4eb1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "Jacqueline",
+    "nom": "POILANE",
+    "prize": "",
+    "timestamp": "2025-12-09T14:03:58.464Z",
+    "source": "data/epagny/2025-12-09T14-03-58-464Z_62a94bb5-6fec-4de2-a0ef-9023dfbb2574.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St egreve",
+    "prenom": "Eric",
+    "nom": "Payerne",
+    "prize": "",
+    "timestamp": "2025-12-09T14:13:40.437Z",
+    "source": "data/st-egreve/2025-12-09T14-13-40-437Z_1e667706-63a7-48b4-b923-60304d294b7e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Epagny",
+    "prenom": "Tonyypp",
+    "nom": "Aaaaa",
+    "prize": "",
+    "timestamp": "2025-12-09T14:22:53.020Z",
+    "source": "data/epagny/2025-12-09T14-22-53-020Z_330beb34-bb35-4798-905f-f56e82ebf486.json"
   }
 ]
