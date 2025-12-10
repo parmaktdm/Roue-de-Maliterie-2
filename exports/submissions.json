@@ -2644,5 +2644,23 @@
     "prize": "",
     "timestamp": "2025-12-10T14:26:18.087Z",
     "source": "data/chaponost/2025-12-10T14-26-18-087Z_5d82b561-3963-43ca-9a8c-1c39d3dcebe1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Adeline",
+    "nom": "Prati",
+    "prize": "",
+    "timestamp": "2025-12-10T14:48:08.597Z",
+    "source": "data/chaponost/2025-12-10T14-48-08-597Z_b530d879-3bcf-40d3-bad3-65bb69234045.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Patricia",
+    "nom": "Villers",
+    "prize": "",
+    "timestamp": "2025-12-10T15:15:24.172Z",
+    "source": "data/angers/2025-12-10T15-15-24-172Z_21e15bc9-1ab0-4b3b-8177-437d38f7f736.json"
   }
 ]
