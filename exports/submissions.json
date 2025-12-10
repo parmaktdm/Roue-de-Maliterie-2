@@ -2581,5 +2581,68 @@
     "prize": "",
     "timestamp": "2025-12-10T13:15:58.566Z",
     "source": "data/angers/2025-12-10T13-15-58-566Z_e2cb30b6-a96a-4bc7-8005-b17041f62026.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Martine",
+    "nom": "Louis",
+    "prize": "",
+    "timestamp": "2025-12-10T13:43:39.038Z",
+    "source": "data/la-valentine/2025-12-10T13-43-39-038Z_71670c4b-788f-4efb-bdc0-e2f6b741e9d0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "LIMONEST",
+    "prenom": "antoine",
+    "nom": "Petit-jean",
+    "prize": "",
+    "timestamp": "2025-12-10T13:54:41.855Z",
+    "source": "data/limonest/2025-12-10T13-54-41-855Z_5282eac7-296d-44c5-a30c-e7c14ba69d31.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Sophie",
+    "nom": "Andres",
+    "prize": "",
+    "timestamp": "2025-12-10T13:56:47.263Z",
+    "source": "data/wittenheim/2025-12-10T13-56-47-263Z_8185431e-5bc4-4ed9-985b-114434847b6d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "MORGAN",
+    "nom": "CORTIL",
+    "prize": "",
+    "timestamp": "2025-12-10T14:08:51.602Z",
+    "source": "data/chambery/2025-12-10T14-08-51-602Z_263755ee-572b-4a76-9ba2-58e6e2705f5d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "COLLIAT",
+    "nom": "CHRISTINE",
+    "prize": "",
+    "timestamp": "2025-12-10T14:17:56.257Z",
+    "source": "data/chambery/2025-12-10T14-17-56-257Z_0e29dfd9-d8e1-47ce-90e0-ca3d711fc48a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Thierry",
+    "nom": "Rochet",
+    "prize": "",
+    "timestamp": "2025-12-10T14:23:35.461Z",
+    "source": "data/limonest/2025-12-10T14-23-35-461Z_4a16c34b-dabe-47fa-9755-8e1e949f741d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Christine",
+    "nom": "Berthaud",
+    "prize": "",
+    "timestamp": "2025-12-10T14:26:18.087Z",
+    "source": "data/chaponost/2025-12-10T14-26-18-087Z_5d82b561-3963-43ca-9a8c-1c39d3dcebe1.json"
   }
 ]
