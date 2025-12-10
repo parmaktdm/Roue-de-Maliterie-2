@@ -2671,5 +2671,32 @@
     "prize": "",
     "timestamp": "2025-12-10T15:34:35.344Z",
     "source": "data/chaponost/2025-12-10T15-34-35-344Z_57de38e6-399e-4403-847a-6f738e408f6d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Muriel",
+    "nom": "Genot",
+    "prize": "",
+    "timestamp": "2025-12-10T16:42:51.679Z",
+    "source": "data/echirolles/2025-12-10T16-42-51-679Z_fe6ae284-9a88-4afb-91be-ac73185a6e41.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint egreve",
+    "prenom": "Flora",
+    "nom": "Monteiro",
+    "prize": "",
+    "timestamp": "2025-12-10T17:00:30.813Z",
+    "source": "data/saint-egreve/2025-12-10T17-00-30-813Z_4d585d4d-6c54-48e1-803c-9c93ae44fc4f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "mickael",
+    "nom": "lisman",
+    "prize": "",
+    "timestamp": "2025-12-10T17:10:52.522Z",
+    "source": "data/sallanches/2025-12-10T17-10-52-522Z_86b4fdb2-1e47-485c-a51d-6e6878b454b9.json"
   }
 ]
