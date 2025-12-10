@@ -1,0 +1,16 @@
+{
+  "nom": "Didonna",
+  "prenom": "Thé duy",
+  "magasin": "Saint priest",
+  "date": "2025-12-10",
+  "heure": "11:50",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-10T10:50:14.486Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
