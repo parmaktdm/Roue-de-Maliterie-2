@@ -2563,5 +2563,23 @@
     "prize": "",
     "timestamp": "2025-12-10T11:37:30.891Z",
     "source": "data/la-fouillouse/2025-12-10T11-37-30-891Z_1df43d30-cf08-4835-a83d-c982e304159c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Beynost",
+    "prenom": "Veronique",
+    "nom": "BOUVIER",
+    "prize": "",
+    "timestamp": "2025-12-10T13:04:35.419Z",
+    "source": "data/beynost/2025-12-10T13-04-35-419Z_e5ffb905-ad4f-4122-93ac-efe7b4e4fd5a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "BRIGITTE",
+    "nom": "ROBIN",
+    "prize": "",
+    "timestamp": "2025-12-10T13:15:58.566Z",
+    "source": "data/angers/2025-12-10T13-15-58-566Z_e2cb30b6-a96a-4bc7-8005-b17041f62026.json"
   }
 ]
