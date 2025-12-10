@@ -2482,5 +2482,14 @@
     "prize": "",
     "timestamp": "2025-12-09T17:15:19.844Z",
     "source": "data/cabries/2025-12-09T17-15-19-844Z_55ec8c6b-8ce1-4692-aaf7-2fc2093a522b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "DANY",
+    "nom": "PLONKA",
+    "prize": "",
+    "timestamp": "2025-12-10T08:54:47.747Z",
+    "source": "data/cogolin/2025-12-10T08-54-47-747Z_ad2ea95d-dcce-42d8-a4d7-42f1f5293a9d.json"
   }
 ]
