@@ -1,0 +1,16 @@
+{
+  "nom": "Monteiro",
+  "prenom": "Flora",
+  "magasin": "Saint egreve",
+  "date": "2025-12-10",
+  "heure": "18:00",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-10T17:00:30.813Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
