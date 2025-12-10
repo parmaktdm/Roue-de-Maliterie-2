@@ -1,0 +1,16 @@
+{
+  "nom": "Germain",
+  "prenom": "Robin",
+  "magasin": "Saint egreve",
+  "date": "2025-12-10",
+  "heure": "11:05",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-10T10:05:24.927Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
