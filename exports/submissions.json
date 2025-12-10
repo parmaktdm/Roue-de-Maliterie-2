@@ -2536,5 +2536,23 @@
     "prize": "",
     "timestamp": "2025-12-10T10:17:45.113Z",
     "source": "data/valence/2025-12-10T10-17-45-113Z_bf9f4284-ae80-444a-b9cb-92ef75ba2f0d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "michel",
+    "nom": "mabboux",
+    "prize": "",
+    "timestamp": "2025-12-10T10:40:20.510Z",
+    "source": "data/sallanches/2025-12-10T10-40-20-510Z_90e5f1d4-bb9d-454a-aa26-4f2b49b1c081.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint priest",
+    "prenom": "Thé duy",
+    "nom": "Didonna",
+    "prize": "",
+    "timestamp": "2025-12-10T10:50:14.486Z",
+    "source": "data/saint-priest/2025-12-10T10-50-14-486Z_e641617c-4e2e-44a3-8ee1-9155ed5c8bf5.json"
   }
 ]
