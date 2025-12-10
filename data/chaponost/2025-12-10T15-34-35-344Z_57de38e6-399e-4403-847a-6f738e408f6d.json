@@ -1,0 +1,16 @@
+{
+  "nom": "Genty",
+  "prenom": "Sophie",
+  "magasin": "Chaponost",
+  "date": "2025-12-10",
+  "heure": "16:34",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-10T15:34:35.344Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
