@@ -1,0 +1,16 @@
+{
+  "nom": "Genot",
+  "prenom": "Muriel",
+  "magasin": "Echirolles",
+  "date": "2025-12-10",
+  "heure": "17:42",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-10T16:42:51.679Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
