@@ -2554,5 +2554,14 @@
     "prize": "",
     "timestamp": "2025-12-10T10:50:14.486Z",
     "source": "data/saint-priest/2025-12-10T10-50-14-486Z_e641617c-4e2e-44a3-8ee1-9155ed5c8bf5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Daudel",
+    "nom": "Fabrice",
+    "prize": "",
+    "timestamp": "2025-12-10T11:37:30.891Z",
+    "source": "data/la-fouillouse/2025-12-10T11-37-30-891Z_1df43d30-cf08-4835-a83d-c982e304159c.json"
   }
 ]
