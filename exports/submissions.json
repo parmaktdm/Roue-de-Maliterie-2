@@ -2914,5 +2914,41 @@
     "prize": "",
     "timestamp": "2025-12-11T15:23:34.311Z",
     "source": "data/sallanches/2025-12-11T15-23-34-311Z_32b4e01b-000c-4c81-9d2a-b03ba95c148c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Macon@hotmail",
+    "prenom": "Florine",
+    "nom": "Darcq",
+    "prize": "",
+    "timestamp": "2025-12-11T15:44:37.743Z",
+    "source": "data/macon-hotmail/2025-12-11T15-44-37-743Z_b956184a-5b6c-4bd3-a16a-44694eb6b5b5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "MARIE ANGE",
+    "nom": "RABOUTET",
+    "prize": "",
+    "timestamp": "2025-12-11T15:56:55.456Z",
+    "source": "data/cogolin/2025-12-11T15-56-55-456Z_d26d96e5-55c2-4539-9388-c1dcda2a5e78.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Roanne",
+    "prenom": "Sylvain",
+    "nom": "Extrat",
+    "prize": "",
+    "timestamp": "2025-12-11T16:33:21.696Z",
+    "source": "data/roanne/2025-12-11T16-33-21-696Z_35f51db2-7877-4d2b-a1a2-4f4a470c3714.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Mathieu",
+    "nom": "Arthur",
+    "prize": "",
+    "timestamp": "2025-12-11T16:34:44.327Z",
+    "source": "data/echirolles/2025-12-11T16-34-44-327Z_80fe9c2b-6f9d-4e28-b8bf-2e8a45725d63.json"
   }
 ]
