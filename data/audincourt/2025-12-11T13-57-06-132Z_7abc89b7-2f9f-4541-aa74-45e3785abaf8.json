@@ -1,0 +1,16 @@
+{
+  "nom": "Estelle",
+  "prenom": "CHAVERIAL",
+  "magasin": "Audincourt",
+  "date": "2025-12-11",
+  "heure": "14:57",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-11T13:57:06.132Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
