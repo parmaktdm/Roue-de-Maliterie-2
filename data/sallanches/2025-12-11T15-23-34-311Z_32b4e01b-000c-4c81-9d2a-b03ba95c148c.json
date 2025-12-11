@@ -1,0 +1,16 @@
+{
+  "nom": "DAUMOINX",
+  "prenom": "MATTHIEU",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-11",
+  "heure": "16:23",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-11T15:23:34.311Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
