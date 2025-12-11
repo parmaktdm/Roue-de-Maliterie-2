@@ -3004,5 +3004,14 @@
     "prize": "",
     "timestamp": "2025-12-11T17:28:16.741Z",
     "source": "data/echirolles/2025-12-11T17-28-16-741Z_acd9322f-7b1f-445d-ae22-00a87f40d94b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "kevin",
+    "nom": "cichon",
+    "prize": "",
+    "timestamp": "2025-12-11T17:49:43.288Z",
+    "source": "data/sallanches/2025-12-11T17-49-43-288Z_e682822a-7350-4ee3-bcde-3dec8058ada0.json"
   }
 ]
