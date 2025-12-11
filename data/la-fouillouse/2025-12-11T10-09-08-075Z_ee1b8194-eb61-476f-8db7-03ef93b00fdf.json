@@ -1,0 +1,16 @@
+{
+  "nom": "Granger",
+  "prenom": "Helene",
+  "magasin": "La fouillouse",
+  "date": "2025-12-11",
+  "heure": "11:09",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-11T10:09:08.075Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
