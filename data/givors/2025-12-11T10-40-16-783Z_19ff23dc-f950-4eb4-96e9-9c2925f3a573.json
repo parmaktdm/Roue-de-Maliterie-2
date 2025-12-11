@@ -1,0 +1,16 @@
+{
+  "nom": "Lafontaine",
+  "prenom": "Sandrine",
+  "magasin": "Givors",
+  "date": "2025-12-11",
+  "heure": "11:40",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-11T10:40:16.783Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
