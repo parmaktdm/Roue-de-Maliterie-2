@@ -2725,5 +2725,14 @@
     "prize": "",
     "timestamp": "2025-12-10T18:00:02.024Z",
     "source": "data/echirolles/2025-12-10T18-00-02-024Z_27c72650-c98f-4c69-ad77-edc42193de22.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sainte maxime",
+    "prenom": "Brigitte",
+    "nom": "Bicchielli",
+    "prize": "",
+    "timestamp": "2025-12-11T09:14:55.932Z",
+    "source": "data/sainte-maxime/2025-12-11T09-14-55-932Z_616db43c-17c1-474c-8599-bf7ce2df09ef.json"
   }
 ]
