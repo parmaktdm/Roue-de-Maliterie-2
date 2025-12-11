@@ -2950,5 +2950,59 @@
     "prize": "",
     "timestamp": "2025-12-11T16:34:44.327Z",
     "source": "data/echirolles/2025-12-11T16-34-44-327Z_80fe9c2b-6f9d-4e28-b8bf-2e8a45725d63.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Tiphaine",
+    "nom": "Leparlouer",
+    "prize": "",
+    "timestamp": "2025-12-11T16:42:34.265Z",
+    "source": "data/echirolles/2025-12-11T16-42-34-265Z_a77cb7af-47f4-4a98-a4ce-43f5ed252840.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Marion",
+    "nom": "Durandin",
+    "prize": "",
+    "timestamp": "2025-12-11T17:10:20.844Z",
+    "source": "data/macon/2025-12-11T17-10-20-844Z_85ff6b09-3966-4c8d-9654-7a972d92b6cb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "FLORENCE",
+    "nom": "DUBOZ",
+    "prize": "",
+    "timestamp": "2025-12-11T17:15:05.211Z",
+    "source": "data/chateaufarine/2025-12-11T17-15-05-211Z_c9ef2b87-d331-4c8f-8ab2-c0f14a959550.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Janel",
+    "nom": "Caillet",
+    "prize": "",
+    "timestamp": "2025-12-11T17:20:18.723Z",
+    "source": "data/andelnans/2025-12-11T17-20-18-723Z_666685c0-f5d8-49b4-a436-601a80db7f94.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Aurelien",
+    "nom": "Maridet",
+    "prize": "",
+    "timestamp": "2025-12-11T17:27:21.166Z",
+    "source": "data/echirolles/2025-12-11T17-27-21-166Z_9802dd42-0124-4f22-9939-50a3c432e21d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Alexandre",
+    "nom": "Mulot",
+    "prize": "",
+    "timestamp": "2025-12-11T17:28:16.741Z",
+    "source": "data/echirolles/2025-12-11T17-28-16-741Z_acd9322f-7b1f-445d-ae22-00a87f40d94b.json"
   }
 ]
