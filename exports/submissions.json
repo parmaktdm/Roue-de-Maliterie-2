@@ -2734,5 +2734,32 @@
     "prize": "",
     "timestamp": "2025-12-11T09:14:55.932Z",
     "source": "data/sainte-maxime/2025-12-11T09-14-55-932Z_616db43c-17c1-474c-8599-bf7ce2df09ef.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Pierre",
+    "nom": "Carry",
+    "prize": "",
+    "timestamp": "2025-12-11T09:47:59.344Z",
+    "source": "data/chaponost/2025-12-11T09-47-59-344Z_830f980d-1cce-421b-828a-c177cd1e7a0e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Helene",
+    "nom": "Granger",
+    "prize": "",
+    "timestamp": "2025-12-11T10:09:08.075Z",
+    "source": "data/la-fouillouse/2025-12-11T10-09-08-075Z_ee1b8194-eb61-476f-8db7-03ef93b00fdf.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Fabienne",
+    "nom": "Martinez",
+    "prize": "",
+    "timestamp": "2025-12-11T10:24:41.964Z",
+    "source": "data/montelimar/2025-12-11T10-24-41-964Z_578c4cb6-f8b7-4511-b3a8-68f08476c681.json"
   }
 ]
