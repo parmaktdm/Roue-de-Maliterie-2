@@ -3031,5 +3031,32 @@
     "prize": "",
     "timestamp": "2025-12-12T09:10:18.777Z",
     "source": "data/sallanches/2025-12-12T09-10-18-777Z_50a05675-7681-4d3e-8e95-0393cc74999a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Rene",
+    "nom": "Fayolle",
+    "prize": "",
+    "timestamp": "2025-12-12T09:49:57.456Z",
+    "source": "data/chaponost/2025-12-12T09-49-57-456Z_c8324d46-c985-4019-9275-61c4e5204690.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "SOPHIE",
+    "nom": "STACCHIOTTI",
+    "prize": "",
+    "timestamp": "2025-12-12T09:55:01.778Z",
+    "source": "data/chambery/2025-12-12T09-55-01-778Z_89fd81c5-7870-4bad-8782-ab486aa247b9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Alex",
+    "nom": "Civallero",
+    "prize": "",
+    "timestamp": "2025-12-12T10:20:37.715Z",
+    "source": "data/wittenheim/2025-12-12T10-20-37-715Z_8b7810f6-3abf-45f4-8c6d-a535f1c133ba.json"
   }
 ]
