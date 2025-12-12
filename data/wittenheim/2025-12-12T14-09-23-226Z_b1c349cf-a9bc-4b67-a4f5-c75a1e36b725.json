@@ -1,0 +1,16 @@
+{
+  "nom": "Ballast",
+  "prenom": "Rolland",
+  "magasin": "Wittenheim",
+  "date": "2025-12-12",
+  "heure": "15:09",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-12T14:09:23.226Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
