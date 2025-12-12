@@ -3175,5 +3175,14 @@
     "prize": "",
     "timestamp": "2025-12-12T16:22:31.348Z",
     "source": "data/saint-martin-d-heres/2025-12-12T16-22-31-348Z_b9156fc7-ea99-479a-a796-89ea3ef1c0c1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Celine",
+    "nom": "Lepore",
+    "prize": "",
+    "timestamp": "2025-12-12T16:41:25.076Z",
+    "source": "data/givors/2025-12-12T16-41-25-076Z_fa53bf61-8a16-4590-a7bf-45f78d823b90.json"
   }
 ]
