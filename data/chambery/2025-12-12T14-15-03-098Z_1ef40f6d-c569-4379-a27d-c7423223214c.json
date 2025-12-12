@@ -1,0 +1,16 @@
+{
+  "nom": "DELCOURT",
+  "prenom": "FLORINE",
+  "magasin": "CHAMBERY",
+  "date": "2025-12-12",
+  "heure": "15:15",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-12T14:15:03.098Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
