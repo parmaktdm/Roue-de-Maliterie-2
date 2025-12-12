@@ -1,0 +1,16 @@
+{
+  "nom": "Vielfeaure",
+  "prenom": "Mike",
+  "magasin": "Montelimar",
+  "date": "2025-12-12",
+  "heure": "14:58",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-12T13:58:42.316Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
