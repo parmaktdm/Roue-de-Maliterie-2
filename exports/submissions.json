@@ -3013,5 +3013,23 @@
     "prize": "",
     "timestamp": "2025-12-11T17:49:43.288Z",
     "source": "data/sallanches/2025-12-11T17-49-43-288Z_e682822a-7350-4ee3-bcde-3dec8058ada0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Besançon",
+    "prenom": "Mireille",
+    "nom": "GUILAUME",
+    "prize": "",
+    "timestamp": "2025-12-12T09:03:49.913Z",
+    "source": "data/besancon/2025-12-12T09-03-49-913Z_8885b5ac-72ae-4cf2-8120-5aa3fde5e4d6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Faustine",
+    "nom": "PREVOST",
+    "prize": "",
+    "timestamp": "2025-12-12T09:10:18.777Z",
+    "source": "data/sallanches/2025-12-12T09-10-18-777Z_50a05675-7681-4d3e-8e95-0393cc74999a.json"
   }
 ]
