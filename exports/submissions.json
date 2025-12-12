@@ -3130,5 +3130,32 @@
     "prize": "",
     "timestamp": "2025-12-12T14:21:09.189Z",
     "source": "data/nantes/2025-12-12T14-21-09-189Z_845f0473-91f7-4230-bbaf-83260424e9b4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Sandrine",
+    "nom": "Lopez",
+    "prize": "",
+    "timestamp": "2025-12-12T14:38:23.485Z",
+    "source": "data/la-fouillouse/2025-12-12T14-38-23-485Z_b541cf22-06aa-429c-a7fe-9659c80d789d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Christiane",
+    "nom": "BERGAMELLI",
+    "prize": "",
+    "timestamp": "2025-12-12T15:02:53.414Z",
+    "source": "data/sallanches/2025-12-12T15-02-53-414Z_a04c6906-93a8-483a-a0f2-030e77721a6f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Suzanne",
+    "nom": "PROVENCE",
+    "prize": "",
+    "timestamp": "2025-12-12T15:03:25.461Z",
+    "source": "data/sallanches/2025-12-12T15-03-25-461Z_5053e191-c4d2-4645-b6e3-37471b0f0295.json"
   }
 ]
