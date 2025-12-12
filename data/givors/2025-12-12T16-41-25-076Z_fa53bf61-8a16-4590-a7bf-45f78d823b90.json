@@ -1,0 +1,16 @@
+{
+  "nom": "Lepore",
+  "prenom": "Celine",
+  "magasin": "Givors",
+  "date": "2025-12-12",
+  "heure": "17:41",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-12T16:41:25.076Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
