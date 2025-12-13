@@ -1,0 +1,16 @@
+{
+  "nom": "Montabord",
+  "prenom": "joffrey",
+  "magasin": "echirolles",
+  "date": "2025-12-13",
+  "heure": "17:13",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-13T16:13:20.857Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
