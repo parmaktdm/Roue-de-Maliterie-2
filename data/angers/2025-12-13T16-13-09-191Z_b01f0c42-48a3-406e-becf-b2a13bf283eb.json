@@ -1,0 +1,16 @@
+{
+  "nom": "DESLANDES",
+  "prenom": "Linda",
+  "magasin": "ANGERS",
+  "date": "2025-12-13",
+  "heure": "17:13",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-13T16:13:09.191Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
