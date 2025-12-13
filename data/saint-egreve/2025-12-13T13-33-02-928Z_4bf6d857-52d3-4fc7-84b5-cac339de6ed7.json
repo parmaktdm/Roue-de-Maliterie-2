@@ -1,0 +1,16 @@
+{
+  "nom": "Debard",
+  "prenom": "Marion",
+  "magasin": "Saint egreve",
+  "date": "2025-12-13",
+  "heure": "14:33",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-13T13:33:02.928Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
