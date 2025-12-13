@@ -3301,5 +3301,59 @@
     "prize": "",
     "timestamp": "2025-12-13T15:08:40.666Z",
     "source": "data/echirolles/2025-12-13T15-08-40-666Z_cda5fe3a-e616-46f1-bc97-d4c9ff28e0ce.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Abderrahman",
+    "nom": "El haiti",
+    "prize": "",
+    "timestamp": "2025-12-13T15:25:52.797Z",
+    "source": "data/chateaufarine/2025-12-13T15-25-52-797Z_7a4ca182-26f5-4082-ae05-74aba851ec4e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "FLORENT",
+    "nom": "REGNAULT",
+    "prize": "",
+    "timestamp": "2025-12-13T15:30:01.354Z",
+    "source": "data/chambery/2025-12-13T15-30-01-354Z_0eda9750-9662-4e9e-a945-42be487699e2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Marie-Louise",
+    "nom": "COTTIN",
+    "prize": "",
+    "timestamp": "2025-12-13T15:43:58.636Z",
+    "source": "data/sallanches/2025-12-13T15-43-58-636Z_63291a4e-339e-466e-ac12-9ea07b5fb6a9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "Linda",
+    "nom": "DESLANDES",
+    "prize": "",
+    "timestamp": "2025-12-13T16:13:09.191Z",
+    "source": "data/angers/2025-12-13T16-13-09-191Z_b01f0c42-48a3-406e-becf-b2a13bf283eb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "echirolles",
+    "prenom": "joffrey",
+    "nom": "Montabord",
+    "prize": "",
+    "timestamp": "2025-12-13T16:13:20.857Z",
+    "source": "data/echirolles/2025-12-13T16-13-20-857Z_80d655ff-a942-4d66-adcb-2fac017a4e6b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "Olga",
+    "nom": "EL BOUNSRI",
+    "prize": "",
+    "timestamp": "2025-12-13T16:23:43.888Z",
+    "source": "data/cogolin/2025-12-13T16-23-43-888Z_87c58353-8e64-4ad5-aabb-2693ef629b12.json"
   }
 ]
