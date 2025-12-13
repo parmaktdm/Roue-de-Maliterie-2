@@ -1,0 +1,16 @@
+{
+  "nom": "COTTIN",
+  "prenom": "Marie-Louise",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-13",
+  "heure": "16:43",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-13T15:43:58.636Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
