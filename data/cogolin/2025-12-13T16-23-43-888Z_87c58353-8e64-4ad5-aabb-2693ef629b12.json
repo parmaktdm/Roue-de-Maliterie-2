@@ -1,0 +1,16 @@
+{
+  "nom": "EL BOUNSRI",
+  "prenom": "Olga",
+  "magasin": "Cogolin",
+  "date": "2025-12-13",
+  "heure": "17:23",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-13T16:23:43.888Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
