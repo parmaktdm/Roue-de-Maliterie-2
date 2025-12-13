@@ -3355,5 +3355,14 @@
     "prize": "",
     "timestamp": "2025-12-13T16:23:43.888Z",
     "source": "data/cogolin/2025-12-13T16-23-43-888Z_87c58353-8e64-4ad5-aabb-2693ef629b12.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Mark",
+    "nom": "Howseman",
+    "prize": "",
+    "timestamp": "2025-12-13T17:19:00.707Z",
+    "source": "data/sallanches/2025-12-13T17-19-00-707Z_47115f8a-dbd4-41c0-b74e-1355f2519367.json"
   }
 ]
