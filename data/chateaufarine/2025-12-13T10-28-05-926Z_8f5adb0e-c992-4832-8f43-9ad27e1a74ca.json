@@ -1,0 +1,16 @@
+{
+  "nom": "Devaux",
+  "prenom": "Fabien",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-13",
+  "heure": "11:28",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-13T10:28:05.926Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
