@@ -3229,5 +3229,50 @@
     "prize": "",
     "timestamp": "2025-12-13T13:08:54.158Z",
     "source": "data/angers/2025-12-13T13-08-54-158Z_3404f84a-dc01-4351-bde0-e2f4c4e882b5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint egreve",
+    "prenom": "Marion",
+    "nom": "Debard",
+    "prize": "",
+    "timestamp": "2025-12-13T13:33:02.928Z",
+    "source": "data/saint-egreve/2025-12-13T13-33-02-928Z_4bf6d857-52d3-4fc7-84b5-cac339de6ed7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Laurent",
+    "nom": "Fournier",
+    "prize": "",
+    "timestamp": "2025-12-13T13:34:17.637Z",
+    "source": "data/angers/2025-12-13T13-34-17-637Z_2ba347cf-664e-4c59-a84e-82e6342c7840.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Etignard",
+    "nom": "Elisa",
+    "prize": "",
+    "timestamp": "2025-12-13T13:52:36.903Z",
+    "source": "data/chateaufarine/2025-12-13T13-52-36-903Z_9730f8a7-08cb-4b57-bf7f-fc624a26d9b7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHATEAUFARINE",
+    "prenom": "BERTHAULT",
+    "nom": "LEONIE",
+    "prize": "",
+    "timestamp": "2025-12-13T14:07:52.092Z",
+    "source": "data/chateaufarine/2025-12-13T14-07-52-092Z_848e46e4-5b53-43fc-b59c-eda7788f2d50.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "roger",
+    "nom": "giraud",
+    "prize": "",
+    "timestamp": "2025-12-13T14:20:06.339Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-13T14-20-06-339Z_9dad563b-7d49-4e3e-a383-e21a9a8522b3.json"
   }
 ]
