@@ -3202,5 +3202,23 @@
     "prize": "",
     "timestamp": "2025-12-13T09:42:18.135Z",
     "source": "data/andelnans/2025-12-13T09-42-18-135Z_a33e8dbe-7f6a-48cf-9b99-4ca4ef3ee721.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Fabien",
+    "nom": "Devaux",
+    "prize": "",
+    "timestamp": "2025-12-13T10:28:05.926Z",
+    "source": "data/chateaufarine/2025-12-13T10-28-05-926Z_8f5adb0e-c992-4832-8f43-9ad27e1a74ca.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "MARIE FRANCOISE",
+    "nom": "BARBIER",
+    "prize": "",
+    "timestamp": "2025-12-13T10:56:23.795Z",
+    "source": "data/chambery/2025-12-13T10-56-23-795Z_5ff3766d-99ac-4ca6-b3a1-0706c921c463.json"
   }
 ]
