@@ -3184,5 +3184,14 @@
     "prize": "",
     "timestamp": "2025-12-12T16:41:25.076Z",
     "source": "data/givors/2025-12-12T16-41-25-076Z_fa53bf61-8a16-4590-a7bf-45f78d823b90.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St Egreve",
+    "prenom": "ROGOWSKI",
+    "nom": "Elodie",
+    "prize": "",
+    "timestamp": "2025-12-13T09:06:02.812Z",
+    "source": "data/st-egreve/2025-12-13T09-06-02-812Z_37dadbbe-8802-468c-8231-4e9cdb75bbc4.json"
   }
 ]
