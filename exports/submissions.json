@@ -3220,5 +3220,14 @@
     "prize": "",
     "timestamp": "2025-12-13T10:56:23.795Z",
     "source": "data/chambery/2025-12-13T10-56-23-795Z_5ff3766d-99ac-4ca6-b3a1-0706c921c463.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Véronique",
+    "nom": "GRAS",
+    "prize": "",
+    "timestamp": "2025-12-13T13:08:54.158Z",
+    "source": "data/angers/2025-12-13T13-08-54-158Z_3404f84a-dc01-4351-bde0-e2f4c4e882b5.json"
   }
 ]
