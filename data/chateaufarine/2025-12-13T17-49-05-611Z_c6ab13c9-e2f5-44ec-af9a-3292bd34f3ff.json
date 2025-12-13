@@ -1,0 +1,16 @@
+{
+  "nom": "Karim",
+  "prenom": "Gharet",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-13",
+  "heure": "18:49",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-13T17:49:05.611Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
