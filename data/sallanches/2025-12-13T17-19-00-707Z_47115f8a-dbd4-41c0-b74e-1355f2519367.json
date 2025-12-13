@@ -1,0 +1,16 @@
+{
+  "nom": "Howseman",
+  "prenom": "Mark",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-13",
+  "heure": "18:19",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-13T17:19:00.707Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
