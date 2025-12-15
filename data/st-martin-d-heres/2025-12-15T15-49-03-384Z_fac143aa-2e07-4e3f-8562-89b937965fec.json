@@ -1,0 +1,16 @@
+{
+  "nom": "DELECOUR",
+  "prenom": "Nathalie",
+  "magasin": "St martin d heres",
+  "date": "2025-12-15",
+  "heure": "16:49",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-15T15:49:03.384Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
