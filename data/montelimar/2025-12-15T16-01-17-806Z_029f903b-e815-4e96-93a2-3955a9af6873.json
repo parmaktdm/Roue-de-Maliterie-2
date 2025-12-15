@@ -1,0 +1,16 @@
+{
+  "nom": "Noyer",
+  "prenom": "Matthieu",
+  "magasin": "Montelimar",
+  "date": "2025-12-15",
+  "heure": "17:01",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-15T16:01:17.806Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
