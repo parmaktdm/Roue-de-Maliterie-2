@@ -1,0 +1,16 @@
+{
+  "nom": "JOUIE",
+  "prenom": "dorothee",
+  "magasin": "NANTES",
+  "date": "2025-12-15",
+  "heure": "14:47",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-15T13:47:51.567Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
