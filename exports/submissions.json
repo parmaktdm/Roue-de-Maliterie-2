@@ -3382,5 +3382,23 @@
     "prize": "",
     "timestamp": "2025-12-13T17:49:05.611Z",
     "source": "data/chateaufarine/2025-12-13T17-49-05-611Z_c6ab13c9-e2f5-44ec-af9a-3292bd34f3ff.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "sharon",
+    "nom": "mccolum",
+    "prize": "",
+    "timestamp": "2025-12-15T13:22:20.517Z",
+    "source": "data/sallanches/2025-12-15T13-22-20-517Z_f55e0ed3-a1ff-4195-9692-493214d52dde.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Marie",
+    "nom": "Martinez",
+    "prize": "",
+    "timestamp": "2025-12-15T13:36:55.177Z",
+    "source": "data/givors/2025-12-15T13-36-55-177Z_a5837f24-9e73-424e-baad-04d630485b57.json"
   }
 ]
