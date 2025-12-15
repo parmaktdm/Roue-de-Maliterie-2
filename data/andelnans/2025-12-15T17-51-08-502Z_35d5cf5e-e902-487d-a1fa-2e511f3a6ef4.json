@@ -1,0 +1,16 @@
+{
+  "nom": "Braun",
+  "prenom": "Chantal",
+  "magasin": "Andelnans",
+  "date": "2025-12-15",
+  "heure": "18:51",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-15T17:51:08.502Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
