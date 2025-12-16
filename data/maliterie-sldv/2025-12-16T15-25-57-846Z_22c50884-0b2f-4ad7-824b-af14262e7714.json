@@ -1,0 +1,16 @@
+{
+  "nom": "Franco",
+  "prenom": "Vincent",
+  "magasin": "MALITERIE SLDV",
+  "date": "2025-12-16",
+  "heure": "07:25",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-16T15:25:57.846Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
