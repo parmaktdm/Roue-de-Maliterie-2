@@ -3589,5 +3589,14 @@
     "prize": "",
     "timestamp": "2025-12-16T16:16:33.270Z",
     "source": "data/limonest/2025-12-16T16-16-33-270Z_f26b76ea-685b-418e-9a28-6c0a83dec417.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Valentine",
+    "prenom": "Chantal",
+    "nom": "Senatore",
+    "prize": "",
+    "timestamp": "2025-12-16T17:14:23.385Z",
+    "source": "data/la-valentine/2025-12-16T17-14-23-385Z_40c3f67b-20a7-4e92-90aa-013b67a46eb1.json"
   }
 ]
