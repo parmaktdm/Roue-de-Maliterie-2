@@ -3526,5 +3526,23 @@
     "prize": "",
     "timestamp": "2025-12-16T14:16:56.619Z",
     "source": "data/sainte-maxime/2025-12-16T14-16-56-619Z_7659dc27-8e98-4f1f-9f37-982e9a0e6aa1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Andre",
+    "nom": "Paulini",
+    "prize": "",
+    "timestamp": "2025-12-16T14:34:22.959Z",
+    "source": "data/la-valentine/2025-12-16T14-34-22-959Z_0ea1bbe5-ae6b-42d7-bd7c-fcea417371d1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MALITERIE SLDV",
+    "prenom": "Vincent",
+    "nom": "Franco",
+    "prize": "",
+    "timestamp": "2025-12-16T15:25:57.846Z",
+    "source": "data/maliterie-sldv/2025-12-16T15-25-57-846Z_22c50884-0b2f-4ad7-824b-af14262e7714.json"
   }
 ]
