@@ -3598,5 +3598,14 @@
     "prize": "",
     "timestamp": "2025-12-16T17:14:23.385Z",
     "source": "data/la-valentine/2025-12-16T17-14-23-385Z_40c3f67b-20a7-4e92-90aa-013b67a46eb1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHOLET",
+    "prenom": "DANIELE",
+    "nom": "LE GUIDEC",
+    "prize": "",
+    "timestamp": "2025-12-16T17:27:47.383Z",
+    "source": "data/cholet/2025-12-16T17-27-47-383Z_1a319b49-c1f4-43f0-9dff-05ea6079acc1.json"
   }
 ]
