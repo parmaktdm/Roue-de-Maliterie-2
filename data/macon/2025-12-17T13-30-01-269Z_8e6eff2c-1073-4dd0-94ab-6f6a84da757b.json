@@ -1,0 +1,16 @@
+{
+  "nom": "Vincent",
+  "prenom": "Irene",
+  "magasin": "MACON",
+  "date": "2025-12-17",
+  "heure": "14:30",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-17T13:30:01.269Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
