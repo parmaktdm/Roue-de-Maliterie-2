@@ -1,0 +1,16 @@
+{
+  "nom": "Panzarella",
+  "prenom": "Marina",
+  "magasin": "Echirolles",
+  "date": "2025-12-17",
+  "heure": "16:58",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-17T15:58:04.186Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
