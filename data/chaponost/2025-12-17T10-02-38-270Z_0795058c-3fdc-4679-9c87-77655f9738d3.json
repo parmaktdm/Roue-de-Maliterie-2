@@ -1,0 +1,16 @@
+{
+  "nom": "Liaudon",
+  "prenom": "Marguerite",
+  "magasin": "Chaponost",
+  "date": "2025-12-17",
+  "heure": "11:02",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-17T10:02:38.270Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
