@@ -1,0 +1,16 @@
+{
+  "nom": "Neto",
+  "prenom": "Marina",
+  "magasin": "MACON",
+  "date": "2025-12-17",
+  "heure": "17:17",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-17T16:17:01.764Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
