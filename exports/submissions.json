@@ -3670,5 +3670,23 @@
     "prize": "",
     "timestamp": "2025-12-17T10:45:29.078Z",
     "source": "data/sallanches/2025-12-17T10-45-29-078Z_99f33028-6bd7-44fc-bacb-60d3a5d626c5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Gael",
+    "nom": "Cron",
+    "prize": "",
+    "timestamp": "2025-12-17T13:19:39.072Z",
+    "source": "data/givors/2025-12-17T13-19-39-072Z_fa9b54a3-0534-417c-980e-68f6429bd7c6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Irene",
+    "nom": "Vincent",
+    "prize": "",
+    "timestamp": "2025-12-17T13:30:01.269Z",
+    "source": "data/macon/2025-12-17T13-30-01-269Z_8e6eff2c-1073-4dd0-94ab-6f6a84da757b.json"
   }
 ]
