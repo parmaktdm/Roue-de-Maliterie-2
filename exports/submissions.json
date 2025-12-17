@@ -3778,5 +3778,23 @@
     "prize": "",
     "timestamp": "2025-12-17T15:00:51.036Z",
     "source": "data/cogolin/2025-12-17T15-00-51-036Z_4a88b1f2-c457-4a02-bd41-e6815ae6c667.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Marina",
+    "nom": "Panzarella",
+    "prize": "",
+    "timestamp": "2025-12-17T15:58:04.186Z",
+    "source": "data/echirolles/2025-12-17T15-58-04-186Z_138b7e12-14bb-4fca-9664-d21fdcda6824.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Marina",
+    "nom": "Neto",
+    "prize": "",
+    "timestamp": "2025-12-17T16:17:01.764Z",
+    "source": "data/macon/2025-12-17T16-17-01-764Z_5c3a79c1-d025-449a-a712-beaacb65dad1.json"
   }
 ]
