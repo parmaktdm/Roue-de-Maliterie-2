@@ -1,0 +1,16 @@
+{
+  "nom": "ARBET",
+  "prenom": "Guillaume",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-17",
+  "heure": "17:36",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-17T16:36:21.514Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
