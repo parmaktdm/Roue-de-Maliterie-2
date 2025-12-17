@@ -3607,5 +3607,50 @@
     "prize": "",
     "timestamp": "2025-12-16T17:27:47.383Z",
     "source": "data/cholet/2025-12-16T17-27-47-383Z_1a319b49-c1f4-43f0-9dff-05ea6079acc1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Jean-Pierre",
+    "nom": "Thiebaud",
+    "prize": "",
+    "timestamp": "2025-12-17T09:37:34.476Z",
+    "source": "data/chateaufarine/2025-12-17T09-37-34-476Z_193b74bc-80eb-4fed-8f84-17cb57e580b4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Marguerite",
+    "nom": "Liaudon",
+    "prize": "",
+    "timestamp": "2025-12-17T10:02:38.270Z",
+    "source": "data/chaponost/2025-12-17T10-02-38-270Z_0795058c-3fdc-4679-9c87-77655f9738d3.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "MÉLANIE",
+    "nom": "REVERON",
+    "prize": "",
+    "timestamp": "2025-12-17T10:09:14.839Z",
+    "source": "data/chateaufarine/2025-12-17T10-09-14-839Z_64dadb2c-5f7c-49a7-a717-86fdf48fdd63.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "JEROME",
+    "nom": "FOURNIER",
+    "prize": "",
+    "timestamp": "2025-12-17T10:16:14.047Z",
+    "source": "data/cogolin/2025-12-17T10-16-14-047Z_26465d08-9552-4c0d-9b72-e98511b2f4c1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La valentine",
+    "prenom": "Laugeron",
+    "nom": "Fabrice",
+    "prize": "",
+    "timestamp": "2025-12-17T10:19:53.751Z",
+    "source": "data/la-valentine/2025-12-17T10-19-53-751Z_86425f50-627e-47fd-b8fb-559921a79b62.json"
   }
 ]
