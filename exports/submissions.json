@@ -3796,5 +3796,32 @@
     "prize": "",
     "timestamp": "2025-12-17T16:17:01.764Z",
     "source": "data/macon/2025-12-17T16-17-01-764Z_5c3a79c1-d025-449a-a712-beaacb65dad1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Guillaume",
+    "nom": "ARBET",
+    "prize": "",
+    "timestamp": "2025-12-17T16:36:21.514Z",
+    "source": "data/sallanches/2025-12-17T16-36-21-514Z_e254c4ec-1ca2-4a71-9d0d-94687f8dc228.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Marine",
+    "nom": "Menigoz",
+    "prize": "",
+    "timestamp": "2025-12-17T16:51:44.466Z",
+    "source": "data/andelnans/2025-12-17T16-51-44-466Z_75dd1f71-f2a8-42fc-bff3-579d517cf05f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Louisa",
+    "nom": "TREDWELL",
+    "prize": "",
+    "timestamp": "2025-12-17T17:23:59.702Z",
+    "source": "data/sallanches/2025-12-17T17-23-59-702Z_d28792bd-137f-409d-b1bd-4a173ae94245.json"
   }
 ]
