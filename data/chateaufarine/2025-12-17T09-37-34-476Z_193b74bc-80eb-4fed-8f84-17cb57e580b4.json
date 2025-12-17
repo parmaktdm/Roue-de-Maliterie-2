@@ -1,0 +1,16 @@
+{
+  "nom": "Thiebaud",
+  "prenom": "Jean-Pierre",
+  "magasin": "Chateaufarine",
+  "date": "2025-12-17",
+  "heure": "10:37",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-17T09:37:34.476Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
