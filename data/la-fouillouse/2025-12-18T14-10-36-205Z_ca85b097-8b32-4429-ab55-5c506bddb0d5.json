@@ -1,0 +1,16 @@
+{
+  "nom": "Mollo",
+  "prenom": "Amandine",
+  "magasin": "La fouillouse",
+  "date": "2025-12-18",
+  "heure": "15:10",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-18T14:10:36.205Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
