@@ -1,0 +1,16 @@
+{
+  "nom": "Denis",
+  "prenom": "Jean paul",
+  "magasin": "Givors",
+  "date": "2025-12-18",
+  "heure": "16:37",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-18T15:37:20.184Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
