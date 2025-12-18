@@ -1,0 +1,16 @@
+{
+  "nom": "LE GLAUNEC",
+  "prenom": "KRISTELL",
+  "magasin": "NANTES",
+  "date": "2025-12-18",
+  "heure": "16:15",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-18T15:15:26.029Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
