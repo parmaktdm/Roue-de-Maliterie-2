@@ -3859,5 +3859,32 @@
     "prize": "",
     "timestamp": "2025-12-18T10:23:04.240Z",
     "source": "data/montelimar/2025-12-18T10-23-04-240Z_aef83577-d306-4428-971a-2ceae46dadab.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "CHLOE",
+    "nom": "REYNIER",
+    "prize": "",
+    "timestamp": "2025-12-18T13:08:16.766Z",
+    "source": "data/cogolin/2025-12-18T13-08-16-766Z_2157d23e-2587-4b88-ae16-301fdee968be.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Givors",
+    "prenom": "Martine",
+    "nom": "DUSSURGEY",
+    "prize": "",
+    "timestamp": "2025-12-18T13:15:37.141Z",
+    "source": "data/givors/2025-12-18T13-15-37-141Z_3465a86f-59e5-42b4-baf5-99904adc9c9c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "CHRISTOPHE",
+    "nom": "HEKUET",
+    "prize": "",
+    "timestamp": "2025-12-18T13:27:42.415Z",
+    "source": "data/cogolin/2025-12-18T13-27-42-415Z_5c27e0fd-e42c-4c28-b638-97cb1c49a4ed.json"
   }
 ]
