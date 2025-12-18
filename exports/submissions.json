@@ -3940,5 +3940,41 @@
     "prize": "",
     "timestamp": "2025-12-18T14:25:50.891Z",
     "source": "data/saint-paul-les-romans/2025-12-18T14-25-50-891Z_e5a8782c-bb85-4ff6-90e2-425b9a8726ec.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "VAUCOY",
+    "nom": "CHRISTIA?",
+    "prize": "",
+    "timestamp": "2025-12-18T14:27:48.870Z",
+    "source": "data/cogolin/2025-12-18T14-27-48-870Z_80b71a94-96a9-44ad-ae98-ebf0dd8b4e83.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "David",
+    "nom": "Ecker",
+    "prize": "",
+    "timestamp": "2025-12-18T14:54:22.026Z",
+    "source": "data/wittenheim/2025-12-18T14-54-22-026Z_4c59d52e-e9c0-42a4-88b3-d30864a3cfb8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "NANTES",
+    "prenom": "KRISTELL",
+    "nom": "LE GLAUNEC",
+    "prize": "",
+    "timestamp": "2025-12-18T15:15:26.029Z",
+    "source": "data/nantes/2025-12-18T15-15-26-029Z_bbff7efa-8c33-4774-a72b-5e567869c226.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "NASSIM",
+    "nom": "HARKATE",
+    "prize": "",
+    "timestamp": "2025-12-18T15:16:30.430Z",
+    "source": "data/chateaufarine/2025-12-18T15-16-30-430Z_60ea2af9-0195-45ce-8a8d-92be1e5dc05b.json"
   }
 ]
