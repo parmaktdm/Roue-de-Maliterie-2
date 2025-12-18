@@ -1,0 +1,16 @@
+{
+  "nom": "GOUBET",
+  "prenom": "Martine",
+  "magasin": "st egreve",
+  "date": "2025-12-18",
+  "heure": "16:44",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-18T15:44:30.150Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
