@@ -1,0 +1,16 @@
+{
+  "nom": "GRAU",
+  "prenom": "Justine",
+  "magasin": "Cabries",
+  "date": "2025-12-18",
+  "heure": "17:08",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-18T16:09:00.471Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
