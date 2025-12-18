@@ -3823,5 +3823,41 @@
     "prize": "",
     "timestamp": "2025-12-17T17:23:59.702Z",
     "source": "data/sallanches/2025-12-17T17-23-59-702Z_d28792bd-137f-409d-b1bd-4a173ae94245.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "berthoud-baud",
+    "nom": "thomas",
+    "prize": "",
+    "timestamp": "2025-12-18T09:32:57.042Z",
+    "source": "data/sallanches/2025-12-18T09-32-57-042Z_eb7e0389-f1ae-400b-92f2-3699840ccd46.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Denis",
+    "nom": "Barrat",
+    "prize": "",
+    "timestamp": "2025-12-18T09:35:25.861Z",
+    "source": "data/sallanches/2025-12-18T09-35-25-861Z_92c15a63-4edf-4f4e-bfd4-7440c77d7aba.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "FRANCOISE",
+    "nom": "BERTOLOTTO",
+    "prize": "",
+    "timestamp": "2025-12-18T09:43:39.342Z",
+    "source": "data/cogolin/2025-12-18T09-43-39-342Z_abcc26d6-2e4d-4da1-9fb5-a16ddd47bed1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Maxime",
+    "nom": "Chretien",
+    "prize": "",
+    "timestamp": "2025-12-18T10:23:04.240Z",
+    "source": "data/montelimar/2025-12-18T10-23-04-240Z_aef83577-d306-4428-971a-2ceae46dadab.json"
   }
 ]
