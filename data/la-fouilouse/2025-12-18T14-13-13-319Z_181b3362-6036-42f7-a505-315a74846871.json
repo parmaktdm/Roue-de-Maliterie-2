@@ -1,0 +1,16 @@
+{
+  "nom": "Marion",
+  "prenom": "Francois",
+  "magasin": "La fouilouse",
+  "date": "2025-12-18",
+  "heure": "15:13",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-18T14:13:13.319Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
