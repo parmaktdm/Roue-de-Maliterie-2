@@ -1,0 +1,16 @@
+{
+  "nom": "Alain",
+  "prenom": "Bouttin",
+  "magasin": "Limonest",
+  "date": "2025-12-18",
+  "heure": "16:30",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-18T15:30:46.809Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
