@@ -1,0 +1,16 @@
+{
+  "nom": "bally",
+  "prenom": "nicolas",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-19",
+  "heure": "14:17",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-19T13:17:49.027Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
