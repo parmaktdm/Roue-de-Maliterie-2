@@ -4120,5 +4120,41 @@
     "prize": "",
     "timestamp": "2025-12-19T12:47:31.501Z",
     "source": "data/sainte-maxime/2025-12-19T12-47-31-501Z_a70a5321-141e-4fd2-8b1a-67dd590ac27d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Cogolin",
+    "prenom": "LUCAS",
+    "nom": "CUFF",
+    "prize": "",
+    "timestamp": "2025-12-19T13:04:12.073Z",
+    "source": "data/cogolin/2025-12-19T13-04-12-073Z_1c44175a-fbde-4cfe-a19c-145289af8b91.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "nicolas",
+    "nom": "bally",
+    "prize": "",
+    "timestamp": "2025-12-19T13:17:49.027Z",
+    "source": "data/sallanches/2025-12-19T13-17-49-027Z_c472d109-7d14-42ad-9399-77cdaae38f04.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Julie",
+    "nom": "Bergeron",
+    "prize": "",
+    "timestamp": "2025-12-19T13:21:21.121Z",
+    "source": "data/chaponost/2025-12-19T13-21-21-121Z_9624ed04-c24e-4f27-a7fb-6fbd259668f8.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Marie-Thèrese",
+    "nom": "Hauff",
+    "prize": "",
+    "timestamp": "2025-12-19T13:26:25.956Z",
+    "source": "data/andelnans/2025-12-19T13-26-25-956Z_98100181-5fda-4238-8027-45b56b987d90.json"
   }
 ]
