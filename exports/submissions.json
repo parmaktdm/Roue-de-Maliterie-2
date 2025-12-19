@@ -4111,5 +4111,14 @@
     "prize": "",
     "timestamp": "2025-12-19T10:45:53.622Z",
     "source": "data/macon/2025-12-19T10-45-53-622Z_189ad75f-b9db-40b0-96e7-deb025224da3.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sainte maxime",
+    "prenom": "Alexandra",
+    "nom": "Bouffard",
+    "prize": "",
+    "timestamp": "2025-12-19T12:47:31.501Z",
+    "source": "data/sainte-maxime/2025-12-19T12-47-31-501Z_a70a5321-141e-4fd2-8b1a-67dd590ac27d.json"
   }
 ]
