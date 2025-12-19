@@ -4165,5 +4165,41 @@
     "prize": "",
     "timestamp": "2025-12-19T13:55:30.756Z",
     "source": "data/sldv/2025-12-19T13-55-30-756Z_28726ec0-c414-40ee-b3dc-1dd1aa5c4c75.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Gisele",
+    "nom": "Frecon",
+    "prize": "",
+    "timestamp": "2025-12-19T14:32:43.695Z",
+    "source": "data/la-fouillouse/2025-12-19T14-32-43-695Z_0345bbae-ab3c-4471-8002-8784560b8bde.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Floriane",
+    "nom": "MARCELLIN",
+    "prize": "",
+    "timestamp": "2025-12-19T14:36:23.361Z",
+    "source": "data/sallanches/2025-12-19T14-36-23-361Z_8123a91d-846d-4762-a2d4-4b02f7e0dce5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "st egreve",
+    "prenom": "poncet moise",
+    "nom": "bruno",
+    "prize": "",
+    "timestamp": "2025-12-19T14:57:29.260Z",
+    "source": "data/st-egreve/2025-12-19T14-57-29-260Z_2831a00a-cdb8-4ca1-b048-052af2eafb01.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Yaya",
+    "nom": "Lefkir",
+    "prize": "",
+    "timestamp": "2025-12-19T15:01:26.479Z",
+    "source": "data/la-fouillouse/2025-12-19T15-01-26-479Z_fb5fe60f-1695-49e0-95bc-afaf31f1d7ec.json"
   }
 ]
