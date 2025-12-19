@@ -4102,5 +4102,14 @@
     "prize": "",
     "timestamp": "2025-12-19T10:22:43.344Z",
     "source": "data/angers/2025-12-19T10-22-43-344Z_3824f619-0bed-4ff7-9291-a60f253d266d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Maxime",
+    "nom": "Gil",
+    "prize": "",
+    "timestamp": "2025-12-19T10:45:53.622Z",
+    "source": "data/macon/2025-12-19T10-45-53-622Z_189ad75f-b9db-40b0-96e7-deb025224da3.json"
   }
 ]
