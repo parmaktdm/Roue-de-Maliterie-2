@@ -4201,5 +4201,32 @@
     "prize": "",
     "timestamp": "2025-12-19T15:01:26.479Z",
     "source": "data/la-fouillouse/2025-12-19T15-01-26-479Z_fb5fe60f-1695-49e0-95bc-afaf31f1d7ec.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Marion",
+    "nom": "Cerqua",
+    "prize": "",
+    "timestamp": "2025-12-19T15:56:37.938Z",
+    "source": "data/chaponost/2025-12-19T15-56-37-938Z_a73c944f-0367-4d6f-aa0d-a0d1f108d10d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Philippe",
+    "nom": "Magnard",
+    "prize": "",
+    "timestamp": "2025-12-19T16:15:41.135Z",
+    "source": "data/limonest/2025-12-19T16-15-41-135Z_8fcd0c8d-df23-4040-91eb-f3d7b195511a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "SANDRINE",
+    "nom": "BORDET",
+    "prize": "",
+    "timestamp": "2025-12-19T16:29:02.605Z",
+    "source": "data/chambery/2025-12-19T16-29-02-605Z_b9e54995-ac44-4f95-a950-2fba0a888110.json"
   }
 ]
