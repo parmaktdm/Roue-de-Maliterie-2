@@ -1,0 +1,16 @@
+{
+  "nom": "CUFF",
+  "prenom": "LUCAS",
+  "magasin": "Cogolin",
+  "date": "2025-12-19",
+  "heure": "14:04",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-19T13:04:12.073Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
