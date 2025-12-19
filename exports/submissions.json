@@ -4048,5 +4048,59 @@
     "prize": "",
     "timestamp": "2025-12-19T09:12:56.073Z",
     "source": "data/cogolin/2025-12-19T09-12-56-073Z_2cd45dbe-7568-4074-b28c-e968314eeabc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Severine",
+    "nom": "CHAPALAIN",
+    "prize": "",
+    "timestamp": "2025-12-19T09:29:33.390Z",
+    "source": "data/sallanches/2025-12-19T09-29-33-390Z_438d2af6-ccd8-4c3c-8a26-918626b527d7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Olivier",
+    "nom": "Bourquin",
+    "prize": "",
+    "timestamp": "2025-12-19T10:06:17.371Z",
+    "source": "data/macon/2025-12-19T10-06-17-371Z_4dc1dbc0-8542-40ce-a86c-95c6be303148.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Laurent",
+    "nom": "Montmagnon",
+    "prize": "",
+    "timestamp": "2025-12-19T10:08:27.025Z",
+    "source": "data/valence/2025-12-19T10-08-27-025Z_5d02e598-6dde-4251-8b3e-5bb9d1d9fdee.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Anne-Julie",
+    "nom": "Rollet",
+    "prize": "",
+    "timestamp": "2025-12-19T10:16:15.751Z",
+    "source": "data/echirolles/2025-12-19T10-16-15-751Z_1a7b9cb5-1305-4e7c-84d8-38129337c961.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Sabine",
+    "nom": "Meyet",
+    "prize": "",
+    "timestamp": "2025-12-19T10:20:19.734Z",
+    "source": "data/macon/2025-12-19T10-20-19-734Z_11ceef65-f109-4db9-a1cc-f3480f17f52c.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Véronique",
+    "nom": "Merle",
+    "prize": "",
+    "timestamp": "2025-12-19T10:22:43.344Z",
+    "source": "data/angers/2025-12-19T10-22-43-344Z_3824f619-0bed-4ff7-9291-a60f253d266d.json"
   }
 ]
