@@ -1,0 +1,16 @@
+{
+  "nom": "Gil",
+  "prenom": "Maxime",
+  "magasin": "MACON",
+  "date": "2025-12-19",
+  "heure": "11:46",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-19T10:45:53.622Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
