@@ -1,0 +1,16 @@
+{
+  "nom": "Frecon",
+  "prenom": "Gisele",
+  "magasin": "La fouillouse",
+  "date": "2025-12-19",
+  "heure": "15:32",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-19T14:32:43.695Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
