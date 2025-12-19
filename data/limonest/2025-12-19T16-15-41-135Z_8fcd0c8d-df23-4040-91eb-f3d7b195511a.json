@@ -1,0 +1,16 @@
+{
+  "nom": "Magnard",
+  "prenom": "Philippe",
+  "magasin": "Limonest",
+  "date": "2025-12-19",
+  "heure": "17:15",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-19T16:15:41.135Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
