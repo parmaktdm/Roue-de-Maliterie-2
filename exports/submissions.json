@@ -4228,5 +4228,14 @@
     "prize": "",
     "timestamp": "2025-12-19T16:29:02.605Z",
     "source": "data/chambery/2025-12-19T16-29-02-605Z_b9e54995-ac44-4f95-a950-2fba0a888110.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Vincent",
+    "nom": "FARRER",
+    "prize": "",
+    "timestamp": "2025-12-19T17:25:12.236Z",
+    "source": "data/sallanches/2025-12-19T17-25-12-236Z_c7aebd5e-3af6-463f-b2c0-efe679b9ac17.json"
   }
 ]
