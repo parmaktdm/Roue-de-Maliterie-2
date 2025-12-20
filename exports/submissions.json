@@ -4345,5 +4345,41 @@
     "prize": "",
     "timestamp": "2025-12-20T13:19:37.307Z",
     "source": "data/chaponost/2025-12-20T13-19-37-307Z_5852523c-8738-4979-a6ef-d0ca58ac3ca7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Rolande",
+    "nom": "Jambon",
+    "prize": "",
+    "timestamp": "2025-12-20T14:03:04.089Z",
+    "source": "data/macon/2025-12-20T14-03-04-089Z_7a565355-9610-4c37-8d23-b38676838ec9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Inconnu",
+    "prenom": "Inconnu",
+    "nom": "Inconnu",
+    "prize": "",
+    "timestamp": "2025-12-20T14:03:42.360Z",
+    "source": "data/inconnu/2025-12-20T14-03-42-360Z_b375682b-aeed-4b4d-8c06-16c68ab97eb0.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Paul les romans",
+    "prenom": "Mathieu",
+    "nom": "BURE",
+    "prize": "",
+    "timestamp": "2025-12-20T14:09:01.121Z",
+    "source": "data/saint-paul-les-romans/2025-12-20T14-09-01-121Z_4bab8b82-166d-49e8-89c6-2fa66bac0122.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Audincourt",
+    "prenom": "Christelle",
+    "nom": "BERTHET-BUGNET",
+    "prize": "",
+    "timestamp": "2025-12-20T14:09:37.853Z",
+    "source": "data/audincourt/2025-12-20T14-09-37-853Z_e95f648c-200f-41b3-bc24-0b039b6169f2.json"
   }
 ]
