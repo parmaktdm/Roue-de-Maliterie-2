@@ -1,0 +1,16 @@
+{
+  "nom": "Gentil",
+  "prenom": "Kevin",
+  "magasin": "MACON",
+  "date": "2025-12-20",
+  "heure": "15:27",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-20T14:26:48.271Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
