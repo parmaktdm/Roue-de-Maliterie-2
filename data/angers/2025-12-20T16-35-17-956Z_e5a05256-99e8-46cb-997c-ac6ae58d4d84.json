@@ -1,0 +1,16 @@
+{
+  "nom": "TROTTIER",
+  "prenom": "JEAN-PIERRE",
+  "magasin": "ANGERS",
+  "date": "2025-12-20",
+  "heure": "17:35",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-20T16:35:17.956Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
