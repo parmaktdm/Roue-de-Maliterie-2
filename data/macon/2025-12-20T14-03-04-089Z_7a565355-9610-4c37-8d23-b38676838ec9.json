@@ -1,0 +1,16 @@
+{
+  "nom": "Jambon",
+  "prenom": "Rolande",
+  "magasin": "MACON",
+  "date": "2025-12-20",
+  "heure": "15:03",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-20T14:03:04.089Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
