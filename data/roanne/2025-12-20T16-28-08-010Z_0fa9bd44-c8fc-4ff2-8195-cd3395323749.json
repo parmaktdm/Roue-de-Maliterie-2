@@ -1,0 +1,16 @@
+{
+  "nom": "Guerin",
+  "prenom": "Fabienne",
+  "magasin": "Roanne",
+  "date": "2025-12-20",
+  "heure": "17:28",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-20T16:28:08.010Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
