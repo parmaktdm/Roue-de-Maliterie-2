@@ -1,0 +1,16 @@
+{
+  "nom": "Battentier",
+  "prenom": "Yael",
+  "magasin": "MACON",
+  "date": "2025-12-20",
+  "heure": "16:17",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-20T15:16:42.497Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
