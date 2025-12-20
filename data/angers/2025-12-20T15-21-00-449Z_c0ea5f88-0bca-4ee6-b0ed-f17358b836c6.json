@@ -1,0 +1,16 @@
+{
+  "nom": "Barrault",
+  "prenom": "Céline",
+  "magasin": "Angers",
+  "date": "2025-12-20",
+  "heure": "16:21",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-20T15:21:00.449Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
