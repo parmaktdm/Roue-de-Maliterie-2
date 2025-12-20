@@ -4498,5 +4498,32 @@
     "prize": "",
     "timestamp": "2025-12-20T17:02:48.287Z",
     "source": "data/audincourt/2025-12-20T17-02-48-287Z_47675e19-0784-40b0-915d-abe6fefb0a99.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "saladino",
+    "nom": "julien",
+    "prize": "",
+    "timestamp": "2025-12-20T17:41:16.874Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-20T17-41-16-874Z_eb7f7995-5c5c-498a-84a7-39249e8b914d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Lynda",
+    "nom": "Adjimi",
+    "prize": "",
+    "timestamp": "2025-12-20T18:10:35.920Z",
+    "source": "data/limonest/2025-12-20T18-10-35-920Z_cf54c04d-8b55-4080-ab9e-7b9c1d1f2de1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "St Laurent du var",
+    "prenom": "Frédérique",
+    "nom": "Casanova",
+    "prize": "",
+    "timestamp": "2025-12-20T18:12:08.476Z",
+    "source": "data/st-laurent-du-var/2025-12-20T18-12-08-476Z_728bcd76-1db2-4893-96d8-018e743256ce.json"
   }
 ]
