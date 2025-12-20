@@ -4381,5 +4381,68 @@
     "prize": "",
     "timestamp": "2025-12-20T14:09:37.853Z",
     "source": "data/audincourt/2025-12-20T14-09-37-853Z_e95f648c-200f-41b3-bc24-0b039b6169f2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Kevin",
+    "nom": "Gentil",
+    "prize": "",
+    "timestamp": "2025-12-20T14:26:48.271Z",
+    "source": "data/macon/2025-12-20T14-26-48-271Z_4a2a0b38-c554-4f5a-9e80-903901cc74bb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Claude",
+    "nom": "Lorec",
+    "prize": "",
+    "timestamp": "2025-12-20T14:36:07.465Z",
+    "source": "data/angers/2025-12-20T14-36-07-465Z_f205bc3a-6443-429f-ab81-f9d95c0820d9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Nathalie",
+    "nom": "Tampereau",
+    "prize": "",
+    "timestamp": "2025-12-20T14:50:47.340Z",
+    "source": "data/chaponost/2025-12-20T14-50-47-340Z_87cbb61c-cc09-4633-b286-dca9355d5e4d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Romain",
+    "nom": "SERRES",
+    "prize": "",
+    "timestamp": "2025-12-20T14:52:10.590Z",
+    "source": "data/sallanches/2025-12-20T14-52-10-590Z_b4581ced-ee4e-4393-b13f-368232149775.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "LAETITIA",
+    "nom": "MUNIER",
+    "prize": "",
+    "timestamp": "2025-12-20T14:54:34.138Z",
+    "source": "data/sallanches/2025-12-20T14-54-34-138Z_67e7d274-7948-4f43-bb3e-a791c0d6933f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "MACON",
+    "prenom": "Yael",
+    "nom": "Battentier",
+    "prize": "",
+    "timestamp": "2025-12-20T15:16:42.497Z",
+    "source": "data/macon/2025-12-20T15-16-42-497Z_0cdaa1ec-28cb-409f-b281-6ced1a16b342.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Céline",
+    "nom": "Barrault",
+    "prize": "",
+    "timestamp": "2025-12-20T15:21:00.449Z",
+    "source": "data/angers/2025-12-20T15-21-00-449Z_c0ea5f88-0bca-4ee6-b0ed-f17358b836c6.json"
   }
 ]
