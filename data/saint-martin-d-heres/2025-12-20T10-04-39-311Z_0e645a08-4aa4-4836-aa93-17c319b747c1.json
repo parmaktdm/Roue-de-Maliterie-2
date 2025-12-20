@@ -1,0 +1,16 @@
+{
+  "nom": "Veronique",
+  "prenom": "SCHIAVON",
+  "magasin": "SAINT MARTIN D'HERES",
+  "date": "2025-12-20",
+  "heure": "11:04",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-20T10:04:39.311Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
