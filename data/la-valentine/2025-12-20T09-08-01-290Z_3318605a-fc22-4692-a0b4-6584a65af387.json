@@ -1,0 +1,16 @@
+{
+  "nom": "Finiels",
+  "prenom": "Carine",
+  "magasin": "La valentine",
+  "date": "2025-12-20",
+  "heure": "10:08",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-20T09:08:01.290Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
