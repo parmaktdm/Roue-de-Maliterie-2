@@ -4318,5 +4318,32 @@
     "prize": "",
     "timestamp": "2025-12-20T11:06:05.252Z",
     "source": "data/sallanches/2025-12-20T11-06-05-252Z_026802ac-70d5-4bfb-a645-25c640f96865.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Nantes",
+    "prenom": "Lucas",
+    "nom": "BOURDET",
+    "prize": "",
+    "timestamp": "2025-12-20T13:02:23.856Z",
+    "source": "data/nantes/2025-12-20T13-02-23-856Z_4f063c4b-08ad-40f4-8e15-07ae3614231f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Antide",
+    "nom": "Cordier",
+    "prize": "",
+    "timestamp": "2025-12-20T13:14:43.004Z",
+    "source": "data/chateaufarine/2025-12-20T13-14-43-004Z_629386b5-b698-4205-b1e8-85066d8f57f6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Isabelle",
+    "nom": "Rageys",
+    "prize": "",
+    "timestamp": "2025-12-20T13:19:37.307Z",
+    "source": "data/chaponost/2025-12-20T13-19-37-307Z_5852523c-8738-4979-a6ef-d0ca58ac3ca7.json"
   }
 ]
