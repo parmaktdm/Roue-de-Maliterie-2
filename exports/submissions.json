@@ -4579,5 +4579,32 @@
     "prize": "",
     "timestamp": "2025-12-22T14:10:48.107Z",
     "source": "data/06210-mandelieu-la-napoule/2025-12-22T14-10-48-107Z_5fc98933-ffba-42d3-b592-3727bdeeee37.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "lydia",
+    "nom": "astruc",
+    "prize": "",
+    "timestamp": "2025-12-22T14:29:44.660Z",
+    "source": "data/sallanches/2025-12-22T14-29-44-660Z_66f8c1a5-21a9-45e1-acca-60d5e06027e4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Lysianne",
+    "nom": "Pistono",
+    "prize": "",
+    "timestamp": "2025-12-22T14:46:01.772Z",
+    "source": "data/echirolles/2025-12-22T14-46-01-772Z_3b038e5a-9824-491e-965f-654b26fd2b7b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Enrique",
+    "nom": "Aguenot",
+    "prize": "",
+    "timestamp": "2025-12-22T14:55:44.568Z",
+    "source": "data/andelnans/2025-12-22T14-55-44-568Z_457c6fa1-218c-4c8f-868b-fd24d4a47bcd.json"
   }
 ]
