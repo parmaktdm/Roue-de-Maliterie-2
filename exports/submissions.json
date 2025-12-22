@@ -4561,5 +4561,23 @@
     "prize": "",
     "timestamp": "2025-12-22T13:30:06.954Z",
     "source": "data/audincourt/2025-12-22T13-30-06-954Z_8017fa90-9594-4c18-85dc-8ad0ea883f40.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "DANIELE",
+    "nom": "SELIOR",
+    "prize": "",
+    "timestamp": "2025-12-22T13:56:55.772Z",
+    "source": "data/chambery/2025-12-22T13-56-55-772Z_455ae228-7490-4d6e-964a-da14bce2be41.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "olivia",
+    "nom": "allouch",
+    "prize": "",
+    "timestamp": "2025-12-22T14:10:48.107Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-22T14-10-48-107Z_5fc98933-ffba-42d3-b592-3727bdeeee37.json"
   }
 ]
