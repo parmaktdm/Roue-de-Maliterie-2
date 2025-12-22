@@ -4543,5 +4543,14 @@
     "prize": "",
     "timestamp": "2025-12-22T09:59:21.984Z",
     "source": "data/nantes/2025-12-22T09-59-21-984Z_e86263e5-d710-4b47-a172-e2a0e40600d1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "stephane",
+    "nom": "pariche",
+    "prize": "",
+    "timestamp": "2025-12-22T10:52:56.425Z",
+    "source": "data/sallanches/2025-12-22T10-52-56-425Z_30aae1c8-14b7-4257-bc5f-2412b5adb37e.json"
   }
 ]
