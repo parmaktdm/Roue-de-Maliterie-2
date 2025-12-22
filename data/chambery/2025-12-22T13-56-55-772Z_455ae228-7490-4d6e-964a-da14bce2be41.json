@@ -1,0 +1,16 @@
+{
+  "nom": "SELIOR",
+  "prenom": "DANIELE",
+  "magasin": "CHAMBERY",
+  "date": "2025-12-22",
+  "heure": "14:56",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-22T13:56:55.772Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
