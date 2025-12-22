@@ -4606,5 +4606,95 @@
     "prize": "",
     "timestamp": "2025-12-22T14:55:44.568Z",
     "source": "data/andelnans/2025-12-22T14-55-44-568Z_457c6fa1-218c-4c8f-868b-fd24d4a47bcd.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Antibes",
+    "prenom": "Solene",
+    "nom": "Gauche",
+    "prize": "",
+    "timestamp": "2025-12-22T15:30:13.997Z",
+    "source": "data/antibes/2025-12-22T15-30-13-997Z_28481ba5-e0d3-48ba-8d5e-39eb3711aea9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Thomas",
+    "nom": "Guerin",
+    "prize": "",
+    "timestamp": "2025-12-22T15:31:44.956Z",
+    "source": "data/montelimar/2025-12-22T15-31-44-956Z_05ebba9b-1dcc-435f-a068-9cfedc786fbb.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "jean guy",
+    "nom": "garnier",
+    "prize": "",
+    "timestamp": "2025-12-22T15:38:38.626Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-22T15-38-38-626Z_9631ed4e-228c-47ea-9121-1f968753e115.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Valerie",
+    "nom": "Huber",
+    "prize": "",
+    "timestamp": "2025-12-22T15:41:32.366Z",
+    "source": "data/wittenheim/2025-12-22T15-41-32-366Z_25a16925-ae85-4060-910d-ee4fae7d7ff7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ST EGREVE",
+    "prenom": "NATHAN",
+    "nom": "DANDEL",
+    "prize": "",
+    "timestamp": "2025-12-22T15:50:39.050Z",
+    "source": "data/st-egreve/2025-12-22T15-50-39-050Z_a662f8cd-fe3a-44d6-9542-e6bd121e277e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Fouillouse",
+    "prenom": "Selim",
+    "nom": "Zebbar",
+    "prize": "",
+    "timestamp": "2025-12-22T15:51:19.617Z",
+    "source": "data/la-fouillouse/2025-12-22T15-51-19-617Z_0e2fc276-0809-41f8-9e92-55738f3a6616.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Antibes",
+    "prenom": "Patricia",
+    "nom": "Godart",
+    "prize": "",
+    "timestamp": "2025-12-22T15:56:36.127Z",
+    "source": "data/antibes/2025-12-22T15-56-36-127Z_468462f8-76f0-45ce-8529-5b6cf2f69093.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "MANON",
+    "nom": "GASPARRI",
+    "prize": "",
+    "timestamp": "2025-12-22T15:56:50.767Z",
+    "source": "data/chambery/2025-12-22T15-56-50-767Z_9c5d9168-e6f6-4dec-9b2d-bb8509276572.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "ludovic",
+    "nom": "cecconi",
+    "prize": "",
+    "timestamp": "2025-12-22T16:14:41.740Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-22T16-14-41-740Z_ebc6df9f-6b36-4ad8-9a0e-27373e3ef630.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Montelimar",
+    "prenom": "Alexandre",
+    "nom": "Revel",
+    "prize": "",
+    "timestamp": "2025-12-22T16:29:30.491Z",
+    "source": "data/montelimar/2025-12-22T16-29-30-491Z_a051532e-1eb1-4ad9-830b-ff303054b8d5.json"
   }
 ]
