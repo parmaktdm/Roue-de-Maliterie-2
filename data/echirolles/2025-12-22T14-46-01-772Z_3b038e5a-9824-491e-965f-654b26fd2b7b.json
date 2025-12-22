@@ -1,0 +1,16 @@
+{
+  "nom": "Pistono",
+  "prenom": "Lysianne",
+  "magasin": "Echirolles",
+  "date": "2025-12-22",
+  "heure": "15:46",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-22T14:46:01.772Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
