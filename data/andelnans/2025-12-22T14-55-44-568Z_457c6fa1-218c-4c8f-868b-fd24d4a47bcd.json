@@ -1,0 +1,16 @@
+{
+  "nom": "Aguenot",
+  "prenom": "Enrique",
+  "magasin": "Andelnans",
+  "date": "2025-12-22",
+  "heure": "15:55",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-22T14:55:44.568Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
