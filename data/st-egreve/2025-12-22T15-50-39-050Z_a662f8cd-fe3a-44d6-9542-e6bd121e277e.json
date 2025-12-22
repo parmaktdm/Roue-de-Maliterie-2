@@ -1,0 +1,16 @@
+{
+  "nom": "DANDEL",
+  "prenom": "NATHAN",
+  "magasin": "ST EGREVE",
+  "date": "2025-12-22",
+  "heure": "16:50",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-22T15:50:39.050Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
