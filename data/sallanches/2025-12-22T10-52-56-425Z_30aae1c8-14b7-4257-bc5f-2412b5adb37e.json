@@ -1,0 +1,16 @@
+{
+  "nom": "pariche",
+  "prenom": "stephane",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-22",
+  "heure": "11:52",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-22T10:52:56.425Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
