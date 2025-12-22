@@ -1,0 +1,16 @@
+{
+  "nom": "GIRAUD",
+  "prenom": "Nathalie",
+  "magasin": "Audincourt",
+  "date": "2025-12-22",
+  "heure": "14:30",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-22T13:30:06.954Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
