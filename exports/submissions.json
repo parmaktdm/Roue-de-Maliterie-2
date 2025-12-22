@@ -4696,5 +4696,14 @@
     "prize": "",
     "timestamp": "2025-12-22T16:29:30.491Z",
     "source": "data/montelimar/2025-12-22T16-29-30-491Z_a051532e-1eb1-4ad9-830b-ff303054b8d5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Steve",
+    "nom": "Simonklein",
+    "prize": "",
+    "timestamp": "2025-12-22T17:16:12.686Z",
+    "source": "data/wittenheim/2025-12-22T17-16-12-686Z_82435687-e4b4-46a5-bdd4-9a6c9b823f4a.json"
   }
 ]
