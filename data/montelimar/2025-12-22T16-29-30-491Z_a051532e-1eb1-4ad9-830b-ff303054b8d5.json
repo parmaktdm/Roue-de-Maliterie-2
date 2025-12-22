@@ -1,0 +1,16 @@
+{
+  "nom": "Revel",
+  "prenom": "Alexandre",
+  "magasin": "Montelimar",
+  "date": "2025-12-22",
+  "heure": "17:29",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-22T16:29:30.491Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
