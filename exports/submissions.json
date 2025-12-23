@@ -4768,5 +4768,32 @@
     "prize": "",
     "timestamp": "2025-12-23T15:25:57.062Z",
     "source": "data/la-fouillouse/2025-12-23T15-25-57-062Z_57ba04f6-7b53-461e-8987-158514716cd9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "Anne",
+    "nom": "PALAU",
+    "prize": "",
+    "timestamp": "2025-12-23T15:30:57.247Z",
+    "source": "data/angers/2025-12-23T15-30-57-247Z_58700cf1-2762-4524-83ef-4b29612de438.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Christophe",
+    "nom": "Thelisson",
+    "prize": "",
+    "timestamp": "2025-12-23T16:22:25.693Z",
+    "source": "data/la-fouillouse/2025-12-23T16-22-25-693Z_093a9c15-223c-4b8f-b327-7fb04ec13fec.json"
+  },
+  {
+    "type": "form",
+    "magasin": "la valentine",
+    "prenom": "faudon",
+    "nom": "olivier",
+    "prize": "",
+    "timestamp": "2025-12-23T16:28:48.523Z",
+    "source": "data/la-valentine/2025-12-23T16-28-48-523Z_c5cc5576-5a7f-49a4-a31e-50115328f690.json"
   }
 ]
