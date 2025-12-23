@@ -1,0 +1,16 @@
+{
+  "nom": "Petibout",
+  "prenom": "Victorien",
+  "magasin": "Roanne",
+  "date": "2025-12-23",
+  "heure": "10:51",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-23T09:51:24.760Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
