@@ -4750,5 +4750,14 @@
     "prize": "",
     "timestamp": "2025-12-23T12:14:39.592Z",
     "source": "data/sldv/2025-12-23T12-14-39-592Z_5b0f0cc0-b4e2-480c-a717-906db37fbe63.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "ANGELA",
+    "nom": "LASHOHER",
+    "prize": "",
+    "timestamp": "2025-12-23T14:09:49.318Z",
+    "source": "data/chambery/2025-12-23T14-09-49-318Z_b2746875-f03f-4151-8012-1c233b79de77.json"
   }
 ]
