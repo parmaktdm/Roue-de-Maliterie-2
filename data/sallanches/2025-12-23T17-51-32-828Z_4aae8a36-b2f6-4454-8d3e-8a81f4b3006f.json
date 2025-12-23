@@ -1,0 +1,16 @@
+{
+  "nom": "aulnette",
+  "prenom": "auguste",
+  "magasin": "SALLANCHES",
+  "date": "2025-12-23",
+  "heure": "18:51",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-23T17:51:32.828Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
