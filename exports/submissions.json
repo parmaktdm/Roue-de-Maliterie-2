@@ -4705,5 +4705,23 @@
     "prize": "",
     "timestamp": "2025-12-22T17:16:12.686Z",
     "source": "data/wittenheim/2025-12-22T17-16-12-686Z_82435687-e4b4-46a5-bdd4-9a6c9b823f4a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Roanne",
+    "prenom": "Victorien",
+    "nom": "Petibout",
+    "prize": "",
+    "timestamp": "2025-12-23T09:51:24.760Z",
+    "source": "data/roanne/2025-12-23T09-51-24-760Z_3774fee5-0a05-4936-9595-79e7a29ed1e3.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "AMPRINO",
+    "nom": "MARIE ASTRIDE",
+    "prize": "",
+    "timestamp": "2025-12-23T10:01:30.166Z",
+    "source": "data/chambery/2025-12-23T10-01-30-166Z_fd64b339-f7a9-4a91-9265-d19cb40922b2.json"
   }
 ]
