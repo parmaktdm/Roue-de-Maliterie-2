@@ -4723,5 +4723,23 @@
     "prize": "",
     "timestamp": "2025-12-23T10:01:30.166Z",
     "source": "data/chambery/2025-12-23T10-01-30-166Z_fd64b339-f7a9-4a91-9265-d19cb40922b2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Sylvie",
+    "nom": "LAFAYE",
+    "prize": "",
+    "timestamp": "2025-12-23T11:06:24.674Z",
+    "source": "data/sallanches/2025-12-23T11-06-24-674Z_0a94cda0-d6cd-4717-b3a5-54301d47fe8b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sldv",
+    "prenom": "Maevic",
+    "nom": "Boutard",
+    "prize": "",
+    "timestamp": "2025-12-23T11:11:38.637Z",
+    "source": "data/sldv/2025-12-23T11-11-38-637Z_f106f42c-8839-468c-9eed-0dfa6d8d4d69.json"
   }
 ]
