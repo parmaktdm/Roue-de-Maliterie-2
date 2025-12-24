@@ -4831,5 +4831,14 @@
     "prize": "",
     "timestamp": "2025-12-24T10:08:46.553Z",
     "source": "data/sallanches/2025-12-24T10-08-46-553Z_69d96bdb-3abe-46b1-bb83-6f77dff8e783.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "CLAIRE",
+    "nom": "Hanriot colin",
+    "prize": "",
+    "timestamp": "2025-12-24T10:28:15.777Z",
+    "source": "data/chateaufarine/2025-12-24T10-28-15-777Z_10824357-7d86-412f-9ff8-8e5aea27ee76.json"
   }
 ]
