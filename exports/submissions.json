@@ -4840,5 +4840,14 @@
     "prize": "",
     "timestamp": "2025-12-24T10:28:15.777Z",
     "source": "data/chateaufarine/2025-12-24T10-28-15-777Z_10824357-7d86-412f-9ff8-8e5aea27ee76.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "JEAN BAPTISTE",
+    "nom": "PROST",
+    "prize": "",
+    "timestamp": "2025-12-24T12:41:57.835Z",
+    "source": "data/chambery/2025-12-24T12-41-57-835Z_bf7ee90a-5b38-48c3-96ad-065a41d75e9a.json"
   }
 ]
