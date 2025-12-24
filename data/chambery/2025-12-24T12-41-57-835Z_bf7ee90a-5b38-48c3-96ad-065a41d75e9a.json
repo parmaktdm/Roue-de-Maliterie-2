@@ -1,0 +1,16 @@
+{
+  "nom": "PROST",
+  "prenom": "JEAN BAPTISTE",
+  "magasin": "CHAMBERY",
+  "date": "2025-12-24",
+  "heure": "13:41",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-24T12:41:57.835Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
