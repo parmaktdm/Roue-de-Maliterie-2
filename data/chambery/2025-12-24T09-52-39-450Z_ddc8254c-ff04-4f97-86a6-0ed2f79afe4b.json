@@ -1,0 +1,16 @@
+{
+  "nom": "FARGET",
+  "prenom": "PHILIPPE",
+  "magasin": "CHAMBERY",
+  "date": "2025-12-24",
+  "heure": "10:52",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-24T09:52:39.450Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
