@@ -1,0 +1,16 @@
+{
+  "nom": "Bianchi Holtz",
+  "prenom": "Jennifer",
+  "magasin": "Wittenheim",
+  "date": "2025-12-24",
+  "heure": "10:31",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-24T09:31:35.999Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
