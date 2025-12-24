@@ -4804,5 +4804,32 @@
     "prize": "",
     "timestamp": "2025-12-23T17:51:32.828Z",
     "source": "data/sallanches/2025-12-23T17-51-32-828Z_4aae8a36-b2f6-4454-8d3e-8a81f4b3006f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Wittenheim",
+    "prenom": "Jennifer",
+    "nom": "Bianchi Holtz",
+    "prize": "",
+    "timestamp": "2025-12-24T09:31:35.999Z",
+    "source": "data/wittenheim/2025-12-24T09-31-35-999Z_6c8772ef-c0e1-4a15-a548-a7f51269477a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "CHAMBERY",
+    "prenom": "PHILIPPE",
+    "nom": "FARGET",
+    "prize": "",
+    "timestamp": "2025-12-24T09:52:39.450Z",
+    "source": "data/chambery/2025-12-24T09-52-39-450Z_ddc8254c-ff04-4f97-86a6-0ed2f79afe4b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Lucie",
+    "nom": "DEJOUX",
+    "prize": "",
+    "timestamp": "2025-12-24T10:08:46.553Z",
+    "source": "data/sallanches/2025-12-24T10-08-46-553Z_69d96bdb-3abe-46b1-bb83-6f77dff8e783.json"
   }
 ]
