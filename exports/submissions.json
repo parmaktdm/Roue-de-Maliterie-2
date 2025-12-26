@@ -4903,5 +4903,50 @@
     "prize": "",
     "timestamp": "2025-12-26T10:12:44.460Z",
     "source": "data/la-fouillouse/2025-12-26T10-12-44-460Z_6d1f5836-dfcb-4239-b498-ff0c1f4061c6.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sldv",
+    "prenom": "Marie-france",
+    "nom": "Montanera",
+    "prize": "",
+    "timestamp": "2025-12-26T13:36:33.843Z",
+    "source": "data/sldv/2025-12-26T13-36-33-843Z_0e803933-c756-47c9-87be-8ab8c76c957a.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Sldv",
+    "prenom": "Estelle",
+    "nom": "Mancini",
+    "prize": "",
+    "timestamp": "2025-12-26T13:37:12.232Z",
+    "source": "data/sldv/2025-12-26T13-37-12-232Z_739448b7-6a06-46a2-a7a4-dece3559d43f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Fouillouse",
+    "prenom": "Sandrine",
+    "nom": "Faure",
+    "prize": "",
+    "timestamp": "2025-12-26T13:54:24.460Z",
+    "source": "data/la-fouillouse/2025-12-26T13-54-24-460Z_5c167f45-d000-4494-bedc-c4a72cffcc07.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Patrick",
+    "nom": "WIERRE",
+    "prize": "",
+    "timestamp": "2025-12-26T13:59:32.523Z",
+    "source": "data/sallanches/2025-12-26T13-59-32-523Z_4a09d2f1-9dd1-4e49-8918-5b1525a2e243.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "benjamin",
+    "nom": "baril",
+    "prize": "",
+    "timestamp": "2025-12-26T14:00:24.388Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-26T14-00-24-388Z_4ec12af8-03f4-4ba3-a81e-f1c953b8ae6f.json"
   }
 ]
