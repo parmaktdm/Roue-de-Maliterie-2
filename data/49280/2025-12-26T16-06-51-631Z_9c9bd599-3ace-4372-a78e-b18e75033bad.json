@@ -1,0 +1,16 @@
+{
+  "nom": "BELLOIR",
+  "prenom": "MORGANE",
+  "magasin": "49280",
+  "date": "2025-12-26",
+  "heure": "17:06",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-26T16:06:51.631Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
