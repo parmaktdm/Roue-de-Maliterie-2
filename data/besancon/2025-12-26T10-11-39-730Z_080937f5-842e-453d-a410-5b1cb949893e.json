@@ -1,0 +1,16 @@
+{
+  "nom": "Mélanie",
+  "prenom": "JACQUIER",
+  "magasin": "Besançon",
+  "date": "2025-12-26",
+  "heure": "11:11",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-26T10:11:39.730Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
