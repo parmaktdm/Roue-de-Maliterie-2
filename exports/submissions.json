@@ -5029,5 +5029,14 @@
     "prize": "",
     "timestamp": "2025-12-26T16:27:03.256Z",
     "source": "data/saint-paul-les-romans/2025-12-26T16-27-03-256Z_e274266c-1151-473c-b558-94754745c253.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La fouillouse",
+    "prenom": "Anne marie",
+    "nom": "Chauvet",
+    "prize": "",
+    "timestamp": "2025-12-26T16:39:47.625Z",
+    "source": "data/la-fouillouse/2025-12-26T16-39-47-625Z_8abfbaec-4276-4b56-8b89-491d048055b9.json"
   }
 ]
