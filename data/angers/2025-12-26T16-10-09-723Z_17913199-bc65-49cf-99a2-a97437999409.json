@@ -1,0 +1,16 @@
+{
+  "nom": "Line",
+  "prenom": "Jean-Louis",
+  "magasin": "Angers",
+  "date": "2025-12-26",
+  "heure": "17:10",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-26T16:10:09.723Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
