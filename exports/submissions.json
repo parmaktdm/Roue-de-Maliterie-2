@@ -4885,5 +4885,23 @@
     "prize": "",
     "timestamp": "2025-12-24T14:18:37.684Z",
     "source": "data/chaponost/2025-12-24T14-18-37-684Z_64acb412-e397-479f-850f-19cb984d0e17.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Besançon",
+    "prenom": "JACQUIER",
+    "nom": "Mélanie",
+    "prize": "",
+    "timestamp": "2025-12-26T10:11:39.730Z",
+    "source": "data/besancon/2025-12-26T10-11-39-730Z_080937f5-842e-453d-a410-5b1cb949893e.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Fouillouse",
+    "prenom": "Pauline",
+    "nom": "Ramauge",
+    "prize": "",
+    "timestamp": "2025-12-26T10:12:44.460Z",
+    "source": "data/la-fouillouse/2025-12-26T10-12-44-460Z_6d1f5836-dfcb-4239-b498-ff0c1f4061c6.json"
   }
 ]
