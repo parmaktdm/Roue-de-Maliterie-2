@@ -1,0 +1,16 @@
+{
+  "nom": "Faure",
+  "prenom": "Sandrine",
+  "magasin": "La Fouillouse",
+  "date": "2025-12-26",
+  "heure": "14:54",
+  "prix": null,
+  "prize_label": "Un oreiller",
+  "percent": null,
+  "timestamp": "2025-12-26T13:54:24.460Z",
+  "raw": {
+    "prix": null,
+    "prize": "Un oreiller"
+  },
+  "_worker": "maliterie-capture"
+}
