@@ -1,0 +1,16 @@
+{
+  "nom": "Montanera",
+  "prenom": "Marie-france",
+  "magasin": "Sldv",
+  "date": "2025-12-26",
+  "heure": "05:36",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-26T13:36:33.843Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
