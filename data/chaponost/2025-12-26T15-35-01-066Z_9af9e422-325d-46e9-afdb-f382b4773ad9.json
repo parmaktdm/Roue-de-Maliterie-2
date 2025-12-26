@@ -1,0 +1,16 @@
+{
+  "nom": "Bonnamour",
+  "prenom": "Stephanie",
+  "magasin": "Chaponost",
+  "date": "2025-12-26",
+  "heure": "16:35",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-26T15:35:01.066Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
