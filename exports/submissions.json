@@ -4975,5 +4975,59 @@
     "prize": "",
     "timestamp": "2025-12-26T14:54:39.225Z",
     "source": "data/saint-egreve/2025-12-26T14-54-39-225Z_894c53e7-8fa1-4a0e-bec4-f6504975f574.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chaponost",
+    "prenom": "Stephanie",
+    "nom": "Bonnamour",
+    "prize": "",
+    "timestamp": "2025-12-26T15:35:01.066Z",
+    "source": "data/chaponost/2025-12-26T15-35-01-066Z_9af9e422-325d-46e9-afdb-f382b4773ad9.json"
+  },
+  {
+    "type": "form",
+    "magasin": "49280",
+    "prenom": "MORGANE",
+    "nom": "BELLOIR",
+    "prize": "",
+    "timestamp": "2025-12-26T16:06:51.631Z",
+    "source": "data/49280/2025-12-26T16-06-51-631Z_9c9bd599-3ace-4372-a78e-b18e75033bad.json"
+  },
+  {
+    "type": "form",
+    "magasin": "49280",
+    "prenom": "PIERRE ALEXANDRE",
+    "nom": "CHIRON",
+    "prize": "",
+    "timestamp": "2025-12-26T16:08:18.864Z",
+    "source": "data/49280/2025-12-26T16-08-18-864Z_54d41356-4380-4e08-ac67-6c595b8bd0e5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Angers",
+    "prenom": "Jean-Louis",
+    "nom": "Line",
+    "prize": "",
+    "timestamp": "2025-12-26T16:10:09.723Z",
+    "source": "data/angers/2025-12-26T16-10-09-723Z_17913199-bc65-49cf-99a2-a97437999409.json"
+  },
+  {
+    "type": "form",
+    "magasin": "limonest",
+    "prenom": "LAETITIA",
+    "nom": "FRACHET",
+    "prize": "",
+    "timestamp": "2025-12-26T16:22:37.489Z",
+    "source": "data/limonest/2025-12-26T16-22-37-489Z_ff29e1e1-8417-48aa-bc4e-897c8de34fb7.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Saint Paul les romans",
+    "prenom": "Alice",
+    "nom": "Doria",
+    "prize": "",
+    "timestamp": "2025-12-26T16:27:03.256Z",
+    "source": "data/saint-paul-les-romans/2025-12-26T16-27-03-256Z_e274266c-1151-473c-b558-94754745c253.json"
   }
 ]
