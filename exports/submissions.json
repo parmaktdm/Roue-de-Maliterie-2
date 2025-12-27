@@ -5128,5 +5128,14 @@
     "prize": "",
     "timestamp": "2025-12-27T15:45:25.614Z",
     "source": "data/sallanches/2025-12-27T15-45-25-614Z_be4d6f68-706b-47f8-aebd-7ee09e64bbed.json"
+  },
+  {
+    "type": "form",
+    "magasin": "49280",
+    "prenom": "JEAN",
+    "nom": "ERNOT",
+    "prize": "",
+    "timestamp": "2025-12-27T16:36:23.081Z",
+    "source": "data/49280/2025-12-27T16-36-23-081Z_3bd29e22-3571-4120-886a-c848d762764e.json"
   }
 ]
