@@ -5083,5 +5083,14 @@
     "prize": "",
     "timestamp": "2025-12-27T13:25:47.931Z",
     "source": "data/beynost/2025-12-27T13-25-47-931Z_daa8336e-fa81-40f6-a2c9-0f9f66c69030.json"
+  },
+  {
+    "type": "form",
+    "magasin": "49280",
+    "prenom": "louis-marie",
+    "nom": "MARTINEAU",
+    "prize": "",
+    "timestamp": "2025-12-27T14:13:25.953Z",
+    "source": "data/49280/2025-12-27T14-13-25-953Z_af0b01c0-593d-4a3a-ae31-2788d9f87dd5.json"
   }
 ]
