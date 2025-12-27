@@ -1,0 +1,16 @@
+{
+  "nom": "BLANVILAIN",
+  "prenom": "Marie-Madeleine",
+  "magasin": "ANGERS",
+  "date": "2025-12-27",
+  "heure": "15:42",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-27T14:42:52.597Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
