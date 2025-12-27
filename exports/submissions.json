@@ -5092,5 +5092,23 @@
     "prize": "",
     "timestamp": "2025-12-27T14:13:25.953Z",
     "source": "data/49280/2025-12-27T14-13-25-953Z_af0b01c0-593d-4a3a-ae31-2788d9f87dd5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "ANGERS",
+    "prenom": "Marie-Madeleine",
+    "nom": "BLANVILAIN",
+    "prize": "",
+    "timestamp": "2025-12-27T14:42:52.597Z",
+    "source": "data/angers/2025-12-27T14-42-52-597Z_858c2158-7ec4-4c22-a3e7-e7d7e6339768.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Arnaud",
+    "nom": "MONCONDUIT",
+    "prize": "",
+    "timestamp": "2025-12-27T15:10:48.271Z",
+    "source": "data/sallanches/2025-12-27T15-10-48-271Z_8b4d5003-d966-4cd7-8015-affde79f796b.json"
   }
 ]
