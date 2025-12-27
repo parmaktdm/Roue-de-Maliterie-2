@@ -5047,5 +5047,41 @@
     "prize": "",
     "timestamp": "2025-12-27T09:44:54.731Z",
     "source": "data/valence/2025-12-27T09-44-54-731Z_f4bcdb3b-dca0-4675-bded-2c6d4c2135b2.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "annabelle",
+    "nom": "bourqui",
+    "prize": "",
+    "timestamp": "2025-12-27T13:10:07.657Z",
+    "source": "data/sallanches/2025-12-27T13-10-07-657Z_144b153a-5363-4556-a11f-1dcab5f40422.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Thibault",
+    "nom": "MASSART",
+    "prize": "",
+    "timestamp": "2025-12-27T13:18:35.141Z",
+    "source": "data/sallanches/2025-12-27T13-18-35-141Z_b7d9e680-3dd7-4076-8150-894ce2950c1f.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Limonest",
+    "prenom": "Nelly",
+    "nom": "Denis",
+    "prize": "",
+    "timestamp": "2025-12-27T13:20:07.941Z",
+    "source": "data/limonest/2025-12-27T13-20-07-941Z_a84657fc-097e-4b9b-b275-7e8b7a486842.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Beynost",
+    "prenom": "Laure",
+    "nom": "MERCANDINO",
+    "prize": "",
+    "timestamp": "2025-12-27T13:25:47.931Z",
+    "source": "data/beynost/2025-12-27T13-25-47-931Z_daa8336e-fa81-40f6-a2c9-0f9f66c69030.json"
   }
 ]
