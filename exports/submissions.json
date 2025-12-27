@@ -5110,5 +5110,23 @@
     "prize": "",
     "timestamp": "2025-12-27T15:10:48.271Z",
     "source": "data/sallanches/2025-12-27T15-10-48-271Z_8b4d5003-d966-4cd7-8015-affde79f796b.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Valence",
+    "prenom": "Emeric",
+    "nom": "Penel",
+    "prize": "",
+    "timestamp": "2025-12-27T15:31:52.988Z",
+    "source": "data/valence/2025-12-27T15-31-52-988Z_1b3f09a5-2512-4eec-accb-a980269f14a1.json"
+  },
+  {
+    "type": "form",
+    "magasin": "SALLANCHES",
+    "prenom": "Kevin",
+    "nom": "ZEGLIN",
+    "prize": "",
+    "timestamp": "2025-12-27T15:45:25.614Z",
+    "source": "data/sallanches/2025-12-27T15-45-25-614Z_be4d6f68-706b-47f8-aebd-7ee09e64bbed.json"
   }
 ]
