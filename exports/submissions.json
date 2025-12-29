@@ -5227,5 +5227,14 @@
     "prize": "",
     "timestamp": "2025-12-29T14:50:44.348Z",
     "source": "data/la-fouillouse/2025-12-29T14-50-44-348Z_3c759dcf-1c13-4158-af58-6dc4613a09bc.json"
+  },
+  {
+    "type": "form",
+    "magasin": "06210  MANDELIEU-LA-NAPOULE",
+    "prenom": "epifanic",
+    "nom": "bernard",
+    "prize": "",
+    "timestamp": "2025-12-29T16:27:28.968Z",
+    "source": "data/06210-mandelieu-la-napoule/2025-12-29T16-27-28-968Z_8b167b8f-0f08-4eb2-8cdb-0ee7212d6b1f.json"
   }
 ]
