@@ -1,0 +1,16 @@
+{
+  "nom": "MICHELAT",
+  "prenom": "Maurice",
+  "magasin": "Andelnans",
+  "date": "2025-12-29",
+  "heure": "11:02",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-29T10:02:57.218Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
