@@ -1,0 +1,16 @@
+{
+  "nom": "Jeremy",
+  "prenom": "Augnagneur",
+  "magasin": "Limonest",
+  "date": "2025-12-29",
+  "heure": "10:32",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-29T09:32:41.908Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
