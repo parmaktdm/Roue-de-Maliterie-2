@@ -5146,5 +5146,23 @@
     "prize": "",
     "timestamp": "2025-12-29T09:32:41.908Z",
     "source": "data/limonest/2025-12-29T09-32-41-908Z_4333d3e1-f798-4c33-b583-1b41e834dac4.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Fouillouse",
+    "prenom": "Estelle",
+    "nom": "Parais",
+    "prize": "",
+    "timestamp": "2025-12-29T09:36:33.966Z",
+    "source": "data/la-fouillouse/2025-12-29T09-36-33-966Z_aa5e82ba-7b92-4c3a-b9a0-79165ef52848.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Andelnans",
+    "prenom": "Maurice",
+    "nom": "MICHELAT",
+    "prize": "",
+    "timestamp": "2025-12-29T10:02:57.218Z",
+    "source": "data/andelnans/2025-12-29T10-02-57-218Z_2c027f4c-467d-44fc-a4ef-2d1557e36c84.json"
   }
 ]
