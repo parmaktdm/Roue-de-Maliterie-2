@@ -5173,5 +5173,23 @@
     "prize": "",
     "timestamp": "2025-12-29T10:39:33.526Z",
     "source": "data/chateaufarine/2025-12-29T10-39-33-526Z_994d418f-b575-4cee-839c-7e2babddb2e5.json"
+  },
+  {
+    "type": "form",
+    "magasin": "La Fouillouse",
+    "prenom": "Nasser",
+    "nom": "Soltane",
+    "prize": "",
+    "timestamp": "2025-12-29T13:21:09.303Z",
+    "source": "data/la-fouillouse/2025-12-29T13-21-09-303Z_93f5cbec-faa8-4712-8328-154b35861a1d.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Chateaufarine",
+    "prenom": "Régine",
+    "nom": "Perrin",
+    "prize": "",
+    "timestamp": "2025-12-29T13:38:28.861Z",
+    "source": "data/chateaufarine/2025-12-29T13-38-28-861Z_5a6e42ed-e262-4841-bbeb-804749876071.json"
   }
 ]
