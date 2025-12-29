@@ -1,0 +1,16 @@
+{
+  "nom": "bernard",
+  "prenom": "epifanic",
+  "magasin": "06210  MANDELIEU-LA-NAPOULE",
+  "date": "2025-12-29",
+  "heure": "17:27",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-29T16:27:28.968Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
