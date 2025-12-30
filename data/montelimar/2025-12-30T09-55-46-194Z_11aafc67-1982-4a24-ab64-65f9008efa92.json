@@ -1,0 +1,16 @@
+{
+  "nom": "Guillaume",
+  "prenom": "Christiane",
+  "magasin": "Montelimar",
+  "date": "2025-12-30",
+  "heure": "10:55",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-30T09:55:46.194Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
