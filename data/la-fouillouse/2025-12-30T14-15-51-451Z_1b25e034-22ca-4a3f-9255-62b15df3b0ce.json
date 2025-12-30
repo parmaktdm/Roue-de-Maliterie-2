@@ -1,0 +1,16 @@
+{
+  "nom": "Tarara",
+  "prenom": "Murielle",
+  "magasin": "La Fouillouse",
+  "date": "2025-12-30",
+  "heure": "15:15",
+  "prix": null,
+  "prize_label": "Linge de lit",
+  "percent": null,
+  "timestamp": "2025-12-30T14:15:51.451Z",
+  "raw": {
+    "prix": null,
+    "prize": "Linge de lit"
+  },
+  "_worker": "maliterie-capture"
+}
