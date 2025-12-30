@@ -1,0 +1,16 @@
+{
+  "nom": "Guillaume",
+  "prenom": "Alain",
+  "magasin": "Montelimar",
+  "date": "2025-12-30",
+  "heure": "10:56",
+  "prix": null,
+  "prize_label": "Le Matelas",
+  "percent": null,
+  "timestamp": "2025-12-30T09:56:34.326Z",
+  "raw": {
+    "prix": null,
+    "prize": "Le Matelas"
+  },
+  "_worker": "maliterie-capture"
+}
