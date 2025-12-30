@@ -1,0 +1,16 @@
+{
+  "nom": "GUILLON",
+  "prenom": "Valerie",
+  "magasin": "NANTES",
+  "date": "2025-12-30",
+  "heure": "14:48",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-30T13:48:03.281Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
