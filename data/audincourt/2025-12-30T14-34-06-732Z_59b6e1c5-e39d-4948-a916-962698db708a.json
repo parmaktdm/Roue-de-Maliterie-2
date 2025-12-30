@@ -1,0 +1,16 @@
+{
+  "nom": "Magali",
+  "prenom": "Ballester",
+  "magasin": "Audincourt",
+  "date": "2025-12-30",
+  "heure": "15:34",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-30T14:34:06.732Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
