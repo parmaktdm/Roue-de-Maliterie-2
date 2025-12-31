@@ -5362,5 +5362,14 @@
     "prize": "",
     "timestamp": "2025-12-31T10:32:57.479Z",
     "source": "data/echirolles/2025-12-31T10-32-57-479Z_53d39d3a-8222-4536-be94-61abad2df654.json"
+  },
+  {
+    "type": "form",
+    "magasin": "Echirolles",
+    "prenom": "Cassen",
+    "nom": "Katia",
+    "prize": "",
+    "timestamp": "2025-12-31T13:16:25.715Z",
+    "source": "data/echirolles/2025-12-31T13-16-25-715Z_b1c0e85e-bdd2-4111-ab7b-6d18451eae45.json"
   }
 ]
