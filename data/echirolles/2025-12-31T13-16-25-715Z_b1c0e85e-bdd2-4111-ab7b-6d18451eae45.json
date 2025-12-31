@@ -1,0 +1,16 @@
+{
+  "nom": "Katia",
+  "prenom": "Cassen",
+  "magasin": "Echirolles",
+  "date": "2025-12-31",
+  "heure": "14:16",
+  "prix": null,
+  "prize_label": "-30%",
+  "percent": -30,
+  "timestamp": "2025-12-31T13:16:25.715Z",
+  "raw": {
+    "prix": null,
+    "prize": "-30%"
+  },
+  "_worker": "maliterie-capture"
+}
